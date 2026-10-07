@@ -1,0 +1,5 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,Toda la población,5,Prevalencia,1,Mundo,2,Mujer,22,Todas las edades,605,Síndrome de ovario poliquístico,1,Número,2023,67906819.96503252,93056147.90109852,48176989.25674793
+1,Toda la población,5,Prevalencia,1,Mundo,2,Mujer,22,Todas las edades,605,Síndrome de ovario poliquístico,3,Tasa,2023,1690.2892334785602,2316.28877610835,1199.18803860976
+1,Toda la población,5,Prevalencia,1,Mundo,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,64226421.14762868,87910638.53380841,45703761.99277195
+1,Toda la población,5,Prevalencia,1,Mundo,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,3255.7932332894597,4456.4037191895795,2316.83466668503

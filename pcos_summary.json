@@ -1,0 +1,73 @@
+{
+  "source": "PCOS dataset (Kaggle), 541 women aged 20 to 48",
+  "symptom_prevalence": {
+    "irregular_cycle": {
+      "with_pcos": 53.4,
+      "without_pcos": 15.4
+    },
+    "weight_gain": {
+      "with_pcos": 68.4,
+      "without_pcos": 22.8
+    },
+    "excess_hair": {
+      "with_pcos": 57.1,
+      "without_pcos": 12.9
+    },
+    "skin_darkening": {
+      "with_pcos": 62.1,
+      "without_pcos": 15.4
+    },
+    "hair_loss": {
+      "with_pcos": 57.6,
+      "without_pcos": 39.3
+    },
+    "acne": {
+      "with_pcos": 69.5,
+      "without_pcos": 39.0
+    }
+  },
+  "by_symptom_count": [
+    {
+      "symptoms": 0,
+      "total": 108,
+      "with_pcos": 7,
+      "pct_pcos": 6.5
+    },
+    {
+      "symptoms": 1,
+      "total": 96,
+      "with_pcos": 11,
+      "pct_pcos": 11.5
+    },
+    {
+      "symptoms": 2,
+      "total": 139,
+      "with_pcos": 19,
+      "pct_pcos": 13.7
+    },
+    {
+      "symptoms": 3,
+      "total": 72,
+      "with_pcos": 33,
+      "pct_pcos": 45.8
+    },
+    {
+      "symptoms": 4,
+      "total": 62,
+      "with_pcos": 50,
+      "pct_pcos": 80.6
+    },
+    {
+      "symptoms": 5,
+      "total": 44,
+      "with_pcos": 39,
+      "pct_pcos": 88.6
+    },
+    {
+      "symptoms": 6,
+      "total": 20,
+      "with_pcos": 18,
+      "pct_pcos": 90.0
+    }
+  ]
+}

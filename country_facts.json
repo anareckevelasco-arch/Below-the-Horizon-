@@ -1,0 +1,1452 @@
+{
+  "source": "Hologic Global Women's Health Index (Gallup), women 15+, 2024",
+  "world": {
+    "tested_blood_pressure": 38.7,
+    "tested_diabetes": 24.0,
+    "tested_cancer": 12.5,
+    "tested_std": 10.5,
+    "talked_to_health_professional": 63.9
+  },
+  "facts": [
+    {
+      "country": "Albania",
+      "map_name": "Albania",
+      "kind": "average",
+      "check": "tested_blood_pressure",
+      "value": 46.6,
+      "world": 38.7,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Algeria",
+      "map_name": "Algeria",
+      "kind": "below",
+      "check": "tested_blood_pressure",
+      "value": 25.3,
+      "world": 38.7,
+      "line": "Only 1 in 4 women had their blood pressure checked last year.",
+      "world_line": "World: 4 in 10."
+    },
+    {
+      "country": "Argentina",
+      "map_name": "Argentina",
+      "kind": "above",
+      "check": "tested_blood_pressure",
+      "value": 62.0,
+      "world": 38.7,
+      "line": "6 in 10 women had their blood pressure checked last year.",
+      "world_line": "World: 4 in 10."
+    },
+    {
+      "country": "Armenia",
+      "map_name": "Armenia",
+      "kind": "average",
+      "check": "tested_std",
+      "value": 5.4,
+      "world": 10.5,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Australia",
+      "map_name": "Australia",
+      "kind": "above",
+      "check": "talked_to_health_professional",
+      "value": 91.7,
+      "world": 63.9,
+      "line": "9 in 10 women saw a health professional last year.",
+      "world_line": "World: 6 in 10."
+    },
+    {
+      "country": "Austria",
+      "map_name": "Austria",
+      "kind": "above",
+      "check": "talked_to_health_professional",
+      "value": 81.6,
+      "world": 63.9,
+      "line": "8 in 10 women saw a health professional last year.",
+      "world_line": "World: 6 in 10."
+    },
+    {
+      "country": "Azerbaijan",
+      "map_name": "Azerbaijan",
+      "kind": "below",
+      "check": "talked_to_health_professional",
+      "value": 45.7,
+      "world": 63.9,
+      "line": "Only 5 in 10 women saw a health professional last year.",
+      "world_line": "World: 6 in 10."
+    },
+    {
+      "country": "Bahrain",
+      "map_name": "Bahrain",
+      "kind": "above",
+      "check": "tested_diabetes",
+      "value": 43.6,
+      "world": 24.0,
+      "line": "4 in 10 women were tested for diabetes last year.",
+      "world_line": "World: 1 in 4."
+    },
+    {
+      "country": "Bangladesh",
+      "map_name": "Bangladesh",
+      "kind": "below",
+      "check": "talked_to_health_professional",
+      "value": 47.3,
+      "world": 63.9,
+      "line": "Only 5 in 10 women saw a health professional last year.",
+      "world_line": "World: 6 in 10."
+    },
+    {
+      "country": "Belgium",
+      "map_name": "Belgium",
+      "kind": "above",
+      "check": "talked_to_health_professional",
+      "value": 86.6,
+      "world": 63.9,
+      "line": "9 in 10 women saw a health professional last year.",
+      "world_line": "World: 6 in 10."
+    },
+    {
+      "country": "Belize",
+      "map_name": "Belize",
+      "kind": "average",
+      "check": "talked_to_health_professional",
+      "value": 52.0,
+      "world": 63.9,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Benin",
+      "map_name": "Benin",
+      "kind": "below",
+      "check": "talked_to_health_professional",
+      "value": 32.6,
+      "world": 63.9,
+      "line": "Only 3 in 10 women saw a health professional last year.",
+      "world_line": "World: 6 in 10."
+    },
+    {
+      "country": "Bolivia",
+      "map_name": "Bolivia",
+      "kind": "average",
+      "check": "talked_to_health_professional",
+      "value": 59.3,
+      "world": 63.9,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "map_name": "Bosnia and Herz.",
+      "kind": "average",
+      "check": "tested_std",
+      "value": 3.1,
+      "world": 10.5,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Botswana",
+      "map_name": "Botswana",
+      "kind": "above",
+      "check": "tested_std",
+      "value": 36.0,
+      "world": 10.5,
+      "line": "4 in 10 women were tested for a sexually transmitted infection last year.",
+      "world_line": "World: 1 in 10."
+    },
+    {
+      "country": "Brazil",
+      "map_name": "Brazil",
+      "kind": "above",
+      "check": "tested_diabetes",
+      "value": 46.9,
+      "world": 24.0,
+      "line": "5 in 10 women were tested for diabetes last year.",
+      "world_line": "World: 1 in 4."
+    },
+    {
+      "country": "Bulgaria",
+      "map_name": "Bulgaria",
+      "kind": "above",
+      "check": "tested_blood_pressure",
+      "value": 56.4,
+      "world": 38.7,
+      "line": "6 in 10 women had their blood pressure checked last year.",
+      "world_line": "World: 4 in 10."
+    },
+    {
+      "country": "Burkina Faso",
+      "map_name": "Burkina Faso",
+      "kind": "below",
+      "check": "tested_blood_pressure",
+      "value": 25.5,
+      "world": 38.7,
+      "line": "Only 1 in 4 women had their blood pressure checked last year.",
+      "world_line": "World: 4 in 10."
+    },
+    {
+      "country": "Cambodia",
+      "map_name": "Cambodia",
+      "kind": "average",
+      "check": "talked_to_health_professional",
+      "value": 52.4,
+      "world": 63.9,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Cameroon",
+      "map_name": "Cameroon",
+      "kind": "below",
+      "check": "tested_blood_pressure",
+      "value": 22.8,
+      "world": 38.7,
+      "line": "Only 1 in 4 women had their blood pressure checked last year.",
+      "world_line": "World: 4 in 10."
+    },
+    {
+      "country": "Canada",
+      "map_name": "Canada",
+      "kind": "above",
+      "check": "talked_to_health_professional",
+      "value": 85.4,
+      "world": 63.9,
+      "line": "9 in 10 women saw a health professional last year.",
+      "world_line": "World: 6 in 10."
+    },
+    {
+      "country": "Chad",
+      "map_name": "Chad",
+      "kind": "below",
+      "check": "talked_to_health_professional",
+      "value": 41.1,
+      "world": 63.9,
+      "line": "Only 4 in 10 women saw a health professional last year.",
+      "world_line": "World: 6 in 10."
+    },
+    {
+      "country": "Chile",
+      "map_name": "Chile",
+      "kind": "above",
+      "check": "tested_blood_pressure",
+      "value": 70.6,
+      "world": 38.7,
+      "line": "7 in 10 women had their blood pressure checked last year.",
+      "world_line": "World: 4 in 10."
+    },
+    {
+      "country": "China",
+      "map_name": "China",
+      "kind": "average",
+      "check": "tested_blood_pressure",
+      "value": 33.2,
+      "world": 38.7,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Colombia",
+      "map_name": "Colombia",
+      "kind": "average",
+      "check": "tested_blood_pressure",
+      "value": 53.6,
+      "world": 38.7,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Comoros",
+      "map_name": "Comoros",
+      "kind": "below",
+      "check": "tested_blood_pressure",
+      "value": 21.6,
+      "world": 38.7,
+      "line": "Only 1 in 5 women had their blood pressure checked last year.",
+      "world_line": "World: 4 in 10."
+    },
+    {
+      "country": "Congo (Kinshasa)",
+      "map_name": "Dem. Rep. Congo",
+      "kind": "below",
+      "check": "tested_diabetes",
+      "value": 11.2,
+      "world": 24.0,
+      "line": "Only 1 in 9 women were tested for diabetes last year.",
+      "world_line": "World: 1 in 4."
+    },
+    {
+      "country": "Congo Brazzaville",
+      "map_name": "Congo",
+      "kind": "below",
+      "check": "tested_diabetes",
+      "value": 11.2,
+      "world": 24.0,
+      "line": "Only 1 in 9 women were tested for diabetes last year.",
+      "world_line": "World: 1 in 4."
+    },
+    {
+      "country": "Costa Rica",
+      "map_name": "Costa Rica",
+      "kind": "above",
+      "check": "tested_blood_pressure",
+      "value": 66.7,
+      "world": 38.7,
+      "line": "7 in 10 women had their blood pressure checked last year.",
+      "world_line": "World: 4 in 10."
+    },
+    {
+      "country": "Croatia",
+      "map_name": "Croatia",
+      "kind": "average",
+      "check": "tested_std",
+      "value": 5.2,
+      "world": 10.5,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Cyprus",
+      "map_name": "Cyprus",
+      "kind": "above",
+      "check": "talked_to_health_professional",
+      "value": 91.4,
+      "world": 63.9,
+      "line": "9 in 10 women saw a health professional last year.",
+      "world_line": "World: 6 in 10."
+    },
+    {
+      "country": "Czech Republic",
+      "map_name": "Czechia",
+      "kind": "above",
+      "check": "tested_diabetes",
+      "value": 47.0,
+      "world": 24.0,
+      "line": "5 in 10 women were tested for diabetes last year.",
+      "world_line": "World: 1 in 4."
+    },
+    {
+      "country": "Denmark",
+      "map_name": "Denmark",
+      "kind": "above",
+      "check": "talked_to_health_professional",
+      "value": 88.1,
+      "world": 63.9,
+      "line": "9 in 10 women saw a health professional last year.",
+      "world_line": "World: 6 in 10."
+    },
+    {
+      "country": "Dominican Republic",
+      "map_name": "Dominican Rep.",
+      "kind": "above",
+      "check": "tested_blood_pressure",
+      "value": 56.9,
+      "world": 38.7,
+      "line": "6 in 10 women had their blood pressure checked last year.",
+      "world_line": "World: 4 in 10."
+    },
+    {
+      "country": "Ecuador",
+      "map_name": "Ecuador",
+      "kind": "average",
+      "check": "tested_std",
+      "value": 19.3,
+      "world": 10.5,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Egypt",
+      "map_name": "Egypt",
+      "kind": "below",
+      "check": "tested_cancer",
+      "value": 3.0,
+      "world": 12.5,
+      "line": "Only 1 in 33 women had a cancer screening last year.",
+      "world_line": "World: 1 in 8."
+    },
+    {
+      "country": "El Salvador",
+      "map_name": "El Salvador",
+      "kind": "average",
+      "check": "tested_blood_pressure",
+      "value": 52.2,
+      "world": 38.7,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Estonia",
+      "map_name": "Estonia",
+      "kind": "above",
+      "check": "tested_cancer",
+      "value": 31.3,
+      "world": 12.5,
+      "line": "3 in 10 women had a cancer screening last year.",
+      "world_line": "World: 1 in 8."
+    },
+    {
+      "country": "Eswatini",
+      "map_name": "eSwatini",
+      "kind": "above",
+      "check": "tested_std",
+      "value": 39.7,
+      "world": 10.5,
+      "line": "4 in 10 women were tested for a sexually transmitted infection last year.",
+      "world_line": "World: 1 in 10."
+    },
+    {
+      "country": "Ethiopia",
+      "map_name": "Ethiopia",
+      "kind": "below",
+      "check": "talked_to_health_professional",
+      "value": 31.2,
+      "world": 63.9,
+      "line": "Only 3 in 10 women saw a health professional last year.",
+      "world_line": "World: 6 in 10."
+    },
+    {
+      "country": "Finland",
+      "map_name": "Finland",
+      "kind": "above",
+      "check": "talked_to_health_professional",
+      "value": 86.7,
+      "world": 63.9,
+      "line": "9 in 10 women saw a health professional last year.",
+      "world_line": "World: 6 in 10."
+    },
+    {
+      "country": "France",
+      "map_name": "France",
+      "kind": "above",
+      "check": "talked_to_health_professional",
+      "value": 81.2,
+      "world": 63.9,
+      "line": "8 in 10 women saw a health professional last year.",
+      "world_line": "World: 6 in 10."
+    },
+    {
+      "country": "Gabon",
+      "map_name": "Gabon",
+      "kind": "average",
+      "check": "tested_diabetes",
+      "value": 14.6,
+      "world": 24.0,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Georgia",
+      "map_name": "Georgia",
+      "kind": "average",
+      "check": "tested_blood_pressure",
+      "value": 30.6,
+      "world": 38.7,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Germany",
+      "map_name": "Germany",
+      "kind": "above",
+      "check": "tested_cancer",
+      "value": 33.1,
+      "world": 12.5,
+      "line": "3 in 10 women had a cancer screening last year.",
+      "world_line": "World: 1 in 8."
+    },
+    {
+      "country": "Ghana",
+      "map_name": "Ghana",
+      "kind": "below",
+      "check": "talked_to_health_professional",
+      "value": 47.1,
+      "world": 63.9,
+      "line": "Only 5 in 10 women saw a health professional last year.",
+      "world_line": "World: 6 in 10."
+    },
+    {
+      "country": "Greece",
+      "map_name": "Greece",
+      "kind": "above",
+      "check": "tested_cancer",
+      "value": 34.9,
+      "world": 12.5,
+      "line": "3 in 10 women had a cancer screening last year.",
+      "world_line": "World: 1 in 8."
+    },
+    {
+      "country": "Guatemala",
+      "map_name": "Guatemala",
+      "kind": "below",
+      "check": "talked_to_health_professional",
+      "value": 44.8,
+      "world": 63.9,
+      "line": "Only 4 in 10 women saw a health professional last year.",
+      "world_line": "World: 6 in 10."
+    },
+    {
+      "country": "Guinea",
+      "map_name": "Guinea",
+      "kind": "below",
+      "check": "tested_diabetes",
+      "value": 10.2,
+      "world": 24.0,
+      "line": "Only 1 in 10 women were tested for diabetes last year.",
+      "world_line": "World: 1 in 4."
+    },
+    {
+      "country": "Honduras",
+      "map_name": "Honduras",
+      "kind": "average",
+      "check": "tested_diabetes",
+      "value": 20.0,
+      "world": 24.0,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Hong Kong",
+      "map_name": "Hong Kong",
+      "kind": "average",
+      "check": "tested_std",
+      "value": 4.8,
+      "world": 10.5,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Hungary",
+      "map_name": "Hungary",
+      "kind": "above",
+      "check": "tested_cancer",
+      "value": 30.0,
+      "world": 12.5,
+      "line": "3 in 10 women had a cancer screening last year.",
+      "world_line": "World: 1 in 8."
+    },
+    {
+      "country": "Iceland",
+      "map_name": "Iceland",
+      "kind": "above",
+      "check": "tested_cancer",
+      "value": 33.9,
+      "world": 12.5,
+      "line": "3 in 10 women had a cancer screening last year.",
+      "world_line": "World: 1 in 8."
+    },
+    {
+      "country": "India",
+      "map_name": "India",
+      "kind": "below",
+      "check": "tested_cancer",
+      "value": 1.8,
+      "world": 12.5,
+      "line": "Only 1 in 56 women had a cancer screening last year.",
+      "world_line": "World: 1 in 8."
+    },
+    {
+      "country": "Indonesia",
+      "map_name": "Indonesia",
+      "kind": "below",
+      "check": "tested_cancer",
+      "value": 1.3,
+      "world": 12.5,
+      "line": "Only 1 in 77 women had a cancer screening last year.",
+      "world_line": "World: 1 in 8."
+    },
+    {
+      "country": "Iran",
+      "map_name": "Iran",
+      "kind": "below",
+      "check": "tested_blood_pressure",
+      "value": 26.7,
+      "world": 38.7,
+      "line": "Only 1 in 4 women had their blood pressure checked last year.",
+      "world_line": "World: 4 in 10."
+    },
+    {
+      "country": "Iraq",
+      "map_name": "Iraq",
+      "kind": "average",
+      "check": "tested_diabetes",
+      "value": 31.3,
+      "world": 24.0,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Ireland",
+      "map_name": "Ireland",
+      "kind": "average",
+      "check": "tested_std",
+      "value": 3.1,
+      "world": 10.5,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Israel",
+      "map_name": "Israel",
+      "kind": "average",
+      "check": "tested_std",
+      "value": 4.4,
+      "world": 10.5,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Italy",
+      "map_name": "Italy",
+      "kind": "above",
+      "check": "talked_to_health_professional",
+      "value": 83.8,
+      "world": 63.9,
+      "line": "8 in 10 women saw a health professional last year.",
+      "world_line": "World: 6 in 10."
+    },
+    {
+      "country": "Ivory Coast",
+      "map_name": "Côte d'Ivoire",
+      "kind": "below",
+      "check": "tested_blood_pressure",
+      "value": 13.7,
+      "world": 38.7,
+      "line": "Only 1 in 7 women had their blood pressure checked last year.",
+      "world_line": "World: 4 in 10."
+    },
+    {
+      "country": "Japan",
+      "map_name": "Japan",
+      "kind": "above",
+      "check": "tested_cancer",
+      "value": 34.6,
+      "world": 12.5,
+      "line": "3 in 10 women had a cancer screening last year.",
+      "world_line": "World: 1 in 8."
+    },
+    {
+      "country": "Jordan",
+      "map_name": "Jordan",
+      "kind": "average",
+      "check": "tested_cancer",
+      "value": 6.0,
+      "world": 12.5,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Kazakhstan",
+      "map_name": "Kazakhstan",
+      "kind": "average",
+      "check": "talked_to_health_professional",
+      "value": 56.9,
+      "world": 63.9,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Kenya",
+      "map_name": "Kenya",
+      "kind": "above",
+      "check": "tested_std",
+      "value": 35.6,
+      "world": 10.5,
+      "line": "4 in 10 women were tested for a sexually transmitted infection last year.",
+      "world_line": "World: 1 in 10."
+    },
+    {
+      "country": "Kosovo",
+      "map_name": "Kosovo",
+      "kind": "below",
+      "check": "tested_cancer",
+      "value": 3.2,
+      "world": 12.5,
+      "line": "Only 1 in 31 women had a cancer screening last year.",
+      "world_line": "World: 1 in 8."
+    },
+    {
+      "country": "Kuwait",
+      "map_name": "Kuwait",
+      "kind": "average",
+      "check": "tested_cancer",
+      "value": 7.0,
+      "world": 12.5,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Kyrgyzstan",
+      "map_name": "Kyrgyzstan",
+      "kind": "average",
+      "check": "tested_cancer",
+      "value": 6.0,
+      "world": 12.5,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Laos",
+      "map_name": "Laos",
+      "kind": "average",
+      "check": "talked_to_health_professional",
+      "value": 56.2,
+      "world": 63.9,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Latvia",
+      "map_name": "Latvia",
+      "kind": "above",
+      "check": "tested_cancer",
+      "value": 40.3,
+      "world": 12.5,
+      "line": "4 in 10 women had a cancer screening last year.",
+      "world_line": "World: 1 in 8."
+    },
+    {
+      "country": "Lebanon",
+      "map_name": "Lebanon",
+      "kind": "below",
+      "check": "talked_to_health_professional",
+      "value": 46.0,
+      "world": 63.9,
+      "line": "Only 5 in 10 women saw a health professional last year.",
+      "world_line": "World: 6 in 10."
+    },
+    {
+      "country": "Lesotho",
+      "map_name": "Lesotho",
+      "kind": "above",
+      "check": "tested_std",
+      "value": 37.4,
+      "world": 10.5,
+      "line": "4 in 10 women were tested for a sexually transmitted infection last year.",
+      "world_line": "World: 1 in 10."
+    },
+    {
+      "country": "Liberia",
+      "map_name": "Liberia",
+      "kind": "above",
+      "check": "tested_std",
+      "value": 34.1,
+      "world": 10.5,
+      "line": "3 in 10 women were tested for a sexually transmitted infection last year.",
+      "world_line": "World: 1 in 10."
+    },
+    {
+      "country": "Libya",
+      "map_name": "Libya",
+      "kind": "below",
+      "check": "tested_cancer",
+      "value": 1.5,
+      "world": 12.5,
+      "line": "Only 1 in 67 women had a cancer screening last year.",
+      "world_line": "World: 1 in 8."
+    },
+    {
+      "country": "Lithuania",
+      "map_name": "Lithuania",
+      "kind": "above",
+      "check": "talked_to_health_professional",
+      "value": 93.4,
+      "world": 63.9,
+      "line": "9 in 10 women saw a health professional last year.",
+      "world_line": "World: 6 in 10."
+    },
+    {
+      "country": "Madagascar",
+      "map_name": "Madagascar",
+      "kind": "below",
+      "check": "tested_diabetes",
+      "value": 6.8,
+      "world": 24.0,
+      "line": "Only 1 in 15 women were tested for diabetes last year.",
+      "world_line": "World: 1 in 4."
+    },
+    {
+      "country": "Malawi",
+      "map_name": "Malawi",
+      "kind": "below",
+      "check": "talked_to_health_professional",
+      "value": 37.4,
+      "world": 63.9,
+      "line": "Only 4 in 10 women saw a health professional last year.",
+      "world_line": "World: 6 in 10."
+    },
+    {
+      "country": "Malaysia",
+      "map_name": "Malaysia",
+      "kind": "average",
+      "check": "tested_std",
+      "value": 5.1,
+      "world": 10.5,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Mali",
+      "map_name": "Mali",
+      "kind": "below",
+      "check": "tested_diabetes",
+      "value": 7.4,
+      "world": 24.0,
+      "line": "Only 1 in 14 women were tested for diabetes last year.",
+      "world_line": "World: 1 in 4."
+    },
+    {
+      "country": "Malta",
+      "map_name": "Malta",
+      "kind": "above",
+      "check": "talked_to_health_professional",
+      "value": 86.5,
+      "world": 63.9,
+      "line": "9 in 10 women saw a health professional last year.",
+      "world_line": "World: 6 in 10."
+    },
+    {
+      "country": "Mauritania",
+      "map_name": "Mauritania",
+      "kind": "below",
+      "check": "tested_blood_pressure",
+      "value": 23.1,
+      "world": 38.7,
+      "line": "Only 1 in 4 women had their blood pressure checked last year.",
+      "world_line": "World: 4 in 10."
+    },
+    {
+      "country": "Mauritius",
+      "map_name": "Mauritius",
+      "kind": "above",
+      "check": "tested_diabetes",
+      "value": 53.0,
+      "world": 24.0,
+      "line": "5 in 10 women were tested for diabetes last year.",
+      "world_line": "World: 1 in 4."
+    },
+    {
+      "country": "Mexico",
+      "map_name": "Mexico",
+      "kind": "average",
+      "check": "tested_diabetes",
+      "value": 31.6,
+      "world": 24.0,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Moldova",
+      "map_name": "Moldova",
+      "kind": "average",
+      "check": "tested_std",
+      "value": 4.5,
+      "world": 10.5,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Mongolia",
+      "map_name": "Mongolia",
+      "kind": "above",
+      "check": "tested_std",
+      "value": 32.3,
+      "world": 10.5,
+      "line": "3 in 10 women were tested for a sexually transmitted infection last year.",
+      "world_line": "World: 1 in 10."
+    },
+    {
+      "country": "Montenegro",
+      "map_name": "Montenegro",
+      "kind": "below",
+      "check": "talked_to_health_professional",
+      "value": 46.2,
+      "world": 63.9,
+      "line": "Only 5 in 10 women saw a health professional last year.",
+      "world_line": "World: 6 in 10."
+    },
+    {
+      "country": "Morocco",
+      "map_name": "Morocco",
+      "kind": "below",
+      "check": "tested_blood_pressure",
+      "value": 23.4,
+      "world": 38.7,
+      "line": "Only 1 in 4 women had their blood pressure checked last year.",
+      "world_line": "World: 4 in 10."
+    },
+    {
+      "country": "Mozambique",
+      "map_name": "Mozambique",
+      "kind": "above",
+      "check": "tested_std",
+      "value": 33.2,
+      "world": 10.5,
+      "line": "3 in 10 women were tested for a sexually transmitted infection last year.",
+      "world_line": "World: 1 in 10."
+    },
+    {
+      "country": "Myanmar",
+      "map_name": "Myanmar",
+      "kind": "below",
+      "check": "talked_to_health_professional",
+      "value": 43.8,
+      "world": 63.9,
+      "line": "Only 4 in 10 women saw a health professional last year.",
+      "world_line": "World: 6 in 10."
+    },
+    {
+      "country": "Namibia",
+      "map_name": "Namibia",
+      "kind": "above",
+      "check": "tested_std",
+      "value": 32.9,
+      "world": 10.5,
+      "line": "3 in 10 women were tested for a sexually transmitted infection last year.",
+      "world_line": "World: 1 in 10."
+    },
+    {
+      "country": "Nepal",
+      "map_name": "Nepal",
+      "kind": "below",
+      "check": "tested_cancer",
+      "value": 3.0,
+      "world": 12.5,
+      "line": "Only 1 in 33 women had a cancer screening last year.",
+      "world_line": "World: 1 in 8."
+    },
+    {
+      "country": "Netherlands",
+      "map_name": "Netherlands",
+      "kind": "average",
+      "check": "talked_to_health_professional",
+      "value": 79.6,
+      "world": 63.9,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "New Zealand",
+      "map_name": "New Zealand",
+      "kind": "above",
+      "check": "talked_to_health_professional",
+      "value": 89.5,
+      "world": 63.9,
+      "line": "9 in 10 women saw a health professional last year.",
+      "world_line": "World: 6 in 10."
+    },
+    {
+      "country": "Nicaragua",
+      "map_name": "Nicaragua",
+      "kind": "above",
+      "check": "tested_std",
+      "value": 24.7,
+      "world": 10.5,
+      "line": "1 in 4 women were tested for a sexually transmitted infection last year.",
+      "world_line": "World: 1 in 10."
+    },
+    {
+      "country": "Niger",
+      "map_name": "Niger",
+      "kind": "below",
+      "check": "tested_blood_pressure",
+      "value": 17.5,
+      "world": 38.7,
+      "line": "Only 1 in 6 women had their blood pressure checked last year.",
+      "world_line": "World: 4 in 10."
+    },
+    {
+      "country": "Nigeria",
+      "map_name": "Nigeria",
+      "kind": "below",
+      "check": "tested_blood_pressure",
+      "value": 18.7,
+      "world": 38.7,
+      "line": "Only 1 in 5 women had their blood pressure checked last year.",
+      "world_line": "World: 4 in 10."
+    },
+    {
+      "country": "North Macedonia",
+      "map_name": "Macedonia",
+      "kind": "average",
+      "check": "tested_std",
+      "value": 4.0,
+      "world": 10.5,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Northern Cyprus",
+      "map_name": "N. Cyprus",
+      "kind": "average",
+      "check": "tested_blood_pressure",
+      "value": 33.5,
+      "world": 38.7,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Norway",
+      "map_name": "Norway",
+      "kind": "above",
+      "check": "talked_to_health_professional",
+      "value": 87.6,
+      "world": 63.9,
+      "line": "9 in 10 women saw a health professional last year.",
+      "world_line": "World: 6 in 10."
+    },
+    {
+      "country": "Oman",
+      "map_name": "Oman",
+      "kind": "average",
+      "check": "tested_diabetes",
+      "value": 34.0,
+      "world": 24.0,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Pakistan",
+      "map_name": "Pakistan",
+      "kind": "below",
+      "check": "tested_cancer",
+      "value": 1.3,
+      "world": 12.5,
+      "line": "Only 1 in 77 women had a cancer screening last year.",
+      "world_line": "World: 1 in 8."
+    },
+    {
+      "country": "Palestinian Territories",
+      "map_name": "Palestine",
+      "kind": "below",
+      "check": "tested_std",
+      "value": 1.8,
+      "world": 10.5,
+      "line": "Only 1 in 56 women were tested for a sexually transmitted infection last year.",
+      "world_line": "World: 1 in 10."
+    },
+    {
+      "country": "Panama",
+      "map_name": "Panama",
+      "kind": "average",
+      "check": "talked_to_health_professional",
+      "value": 53.0,
+      "world": 63.9,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Paraguay",
+      "map_name": "Paraguay",
+      "kind": "above",
+      "check": "tested_blood_pressure",
+      "value": 65.4,
+      "world": 38.7,
+      "line": "7 in 10 women had their blood pressure checked last year.",
+      "world_line": "World: 4 in 10."
+    },
+    {
+      "country": "Peru",
+      "map_name": "Peru",
+      "kind": "average",
+      "check": "tested_std",
+      "value": 21.1,
+      "world": 10.5,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Philippines",
+      "map_name": "Philippines",
+      "kind": "below",
+      "check": "tested_cancer",
+      "value": 3.5,
+      "world": 12.5,
+      "line": "Only 1 in 29 women had a cancer screening last year.",
+      "world_line": "World: 1 in 8."
+    },
+    {
+      "country": "Poland",
+      "map_name": "Poland",
+      "kind": "average",
+      "check": "tested_std",
+      "value": 5.1,
+      "world": 10.5,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Portugal",
+      "map_name": "Portugal",
+      "kind": "above",
+      "check": "tested_cancer",
+      "value": 37.5,
+      "world": 12.5,
+      "line": "4 in 10 women had a cancer screening last year.",
+      "world_line": "World: 1 in 8."
+    },
+    {
+      "country": "Romania",
+      "map_name": "Romania",
+      "kind": "average",
+      "check": "tested_std",
+      "value": 5.9,
+      "world": 10.5,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Russia",
+      "map_name": "Russia",
+      "kind": "above",
+      "check": "tested_std",
+      "value": 24.6,
+      "world": 10.5,
+      "line": "1 in 4 women were tested for a sexually transmitted infection last year.",
+      "world_line": "World: 1 in 10."
+    },
+    {
+      "country": "Rwanda",
+      "map_name": "Rwanda",
+      "kind": "above",
+      "check": "tested_std",
+      "value": 36.6,
+      "world": 10.5,
+      "line": "4 in 10 women were tested for a sexually transmitted infection last year.",
+      "world_line": "World: 1 in 10."
+    },
+    {
+      "country": "Saudi Arabia",
+      "map_name": "Saudi Arabia",
+      "kind": "below",
+      "check": "talked_to_health_professional",
+      "value": 38.7,
+      "world": 63.9,
+      "line": "Only 4 in 10 women saw a health professional last year.",
+      "world_line": "World: 6 in 10."
+    },
+    {
+      "country": "Senegal",
+      "map_name": "Senegal",
+      "kind": "above",
+      "check": "tested_blood_pressure",
+      "value": 64.9,
+      "world": 38.7,
+      "line": "6 in 10 women had their blood pressure checked last year.",
+      "world_line": "World: 4 in 10."
+    },
+    {
+      "country": "Serbia",
+      "map_name": "Serbia",
+      "kind": "average",
+      "check": "tested_std",
+      "value": 4.3,
+      "world": 10.5,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Sierra Leone",
+      "map_name": "Sierra Leone",
+      "kind": "above",
+      "check": "tested_std",
+      "value": 28.8,
+      "world": 10.5,
+      "line": "1 in 3 women were tested for a sexually transmitted infection last year.",
+      "world_line": "World: 1 in 10."
+    },
+    {
+      "country": "Singapore",
+      "map_name": "Singapore",
+      "kind": "above",
+      "check": "talked_to_health_professional",
+      "value": 81.3,
+      "world": 63.9,
+      "line": "8 in 10 women saw a health professional last year.",
+      "world_line": "World: 6 in 10."
+    },
+    {
+      "country": "Slovakia",
+      "map_name": "Slovakia",
+      "kind": "above",
+      "check": "tested_cancer",
+      "value": 30.5,
+      "world": 12.5,
+      "line": "3 in 10 women had a cancer screening last year.",
+      "world_line": "World: 1 in 8."
+    },
+    {
+      "country": "Slovenia",
+      "map_name": "Slovenia",
+      "kind": "average",
+      "check": "tested_std",
+      "value": 4.3,
+      "world": 10.5,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "South Africa",
+      "map_name": "South Africa",
+      "kind": "above",
+      "check": "tested_std",
+      "value": 30.8,
+      "world": 10.5,
+      "line": "3 in 10 women were tested for a sexually transmitted infection last year.",
+      "world_line": "World: 1 in 10."
+    },
+    {
+      "country": "South Korea",
+      "map_name": "South Korea",
+      "kind": "above",
+      "check": "tested_cancer",
+      "value": 42.6,
+      "world": 12.5,
+      "line": "4 in 10 women had a cancer screening last year.",
+      "world_line": "World: 1 in 8."
+    },
+    {
+      "country": "Spain",
+      "map_name": "Spain",
+      "kind": "above",
+      "check": "talked_to_health_professional",
+      "value": 87.2,
+      "world": 63.9,
+      "line": "9 in 10 women saw a health professional last year.",
+      "world_line": "World: 6 in 10."
+    },
+    {
+      "country": "Sri Lanka",
+      "map_name": "Sri Lanka",
+      "kind": "average",
+      "check": "tested_std",
+      "value": 4.8,
+      "world": 10.5,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Sweden",
+      "map_name": "Sweden",
+      "kind": "average",
+      "check": "talked_to_health_professional",
+      "value": 80.9,
+      "world": 63.9,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Switzerland",
+      "map_name": "Switzerland",
+      "kind": "average",
+      "check": "tested_std",
+      "value": 6.3,
+      "world": 10.5,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Taiwan",
+      "map_name": "Taiwan",
+      "kind": "above",
+      "check": "tested_diabetes",
+      "value": 39.6,
+      "world": 24.0,
+      "line": "4 in 10 women were tested for diabetes last year.",
+      "world_line": "World: 1 in 4."
+    },
+    {
+      "country": "Tajikistan",
+      "map_name": "Tajikistan",
+      "kind": "below",
+      "check": "tested_cancer",
+      "value": 3.5,
+      "world": 12.5,
+      "line": "Only 1 in 29 women had a cancer screening last year.",
+      "world_line": "World: 1 in 8."
+    },
+    {
+      "country": "Tanzania",
+      "map_name": "Tanzania",
+      "kind": "above",
+      "check": "tested_std",
+      "value": 29.5,
+      "world": 10.5,
+      "line": "1 in 3 women were tested for a sexually transmitted infection last year.",
+      "world_line": "World: 1 in 10."
+    },
+    {
+      "country": "Thailand",
+      "map_name": "Thailand",
+      "kind": "above",
+      "check": "tested_diabetes",
+      "value": 46.1,
+      "world": 24.0,
+      "line": "5 in 10 women were tested for diabetes last year.",
+      "world_line": "World: 1 in 4."
+    },
+    {
+      "country": "The Gambia",
+      "map_name": "Gambia",
+      "kind": "below",
+      "check": "tested_blood_pressure",
+      "value": 22.2,
+      "world": 38.7,
+      "line": "Only 1 in 5 women had their blood pressure checked last year.",
+      "world_line": "World: 4 in 10."
+    },
+    {
+      "country": "Togo",
+      "map_name": "Togo",
+      "kind": "below",
+      "check": "talked_to_health_professional",
+      "value": 39.4,
+      "world": 63.9,
+      "line": "Only 4 in 10 women saw a health professional last year.",
+      "world_line": "World: 6 in 10."
+    },
+    {
+      "country": "Trinidad & Tobago",
+      "map_name": "Trinidad and Tobago",
+      "kind": "above",
+      "check": "tested_diabetes",
+      "value": 51.2,
+      "world": 24.0,
+      "line": "5 in 10 women were tested for diabetes last year.",
+      "world_line": "World: 1 in 4."
+    },
+    {
+      "country": "Tunisia",
+      "map_name": "Tunisia",
+      "kind": "below",
+      "check": "talked_to_health_professional",
+      "value": 49.0,
+      "world": 63.9,
+      "line": "Only 5 in 10 women saw a health professional last year.",
+      "world_line": "World: 6 in 10."
+    },
+    {
+      "country": "Turkiye",
+      "map_name": "Turkey",
+      "kind": "below",
+      "check": "tested_blood_pressure",
+      "value": 24.2,
+      "world": 38.7,
+      "line": "Only 1 in 4 women had their blood pressure checked last year.",
+      "world_line": "World: 4 in 10."
+    },
+    {
+      "country": "Uganda",
+      "map_name": "Uganda",
+      "kind": "above",
+      "check": "tested_std",
+      "value": 49.5,
+      "world": 10.5,
+      "line": "5 in 10 women were tested for a sexually transmitted infection last year.",
+      "world_line": "World: 1 in 10."
+    },
+    {
+      "country": "Ukraine",
+      "map_name": "Ukraine",
+      "kind": "above",
+      "check": "talked_to_health_professional",
+      "value": 83.1,
+      "world": 63.9,
+      "line": "8 in 10 women saw a health professional last year.",
+      "world_line": "World: 6 in 10."
+    },
+    {
+      "country": "United Arab Emirates",
+      "map_name": "United Arab Emirates",
+      "kind": "below",
+      "check": "tested_blood_pressure",
+      "value": 22.5,
+      "world": 38.7,
+      "line": "Only 1 in 4 women had their blood pressure checked last year.",
+      "world_line": "World: 4 in 10."
+    },
+    {
+      "country": "United Kingdom",
+      "map_name": "United Kingdom",
+      "kind": "below",
+      "check": "tested_std",
+      "value": 1.8,
+      "world": 10.5,
+      "line": "Only 1 in 56 women were tested for a sexually transmitted infection last year.",
+      "world_line": "World: 1 in 10."
+    },
+    {
+      "country": "United States",
+      "map_name": "United States of America",
+      "kind": "above",
+      "check": "tested_blood_pressure",
+      "value": 67.9,
+      "world": 38.7,
+      "line": "7 in 10 women had their blood pressure checked last year.",
+      "world_line": "World: 4 in 10."
+    },
+    {
+      "country": "Uruguay",
+      "map_name": "Uruguay",
+      "kind": "above",
+      "check": "tested_blood_pressure",
+      "value": 76.0,
+      "world": 38.7,
+      "line": "8 in 10 women had their blood pressure checked last year.",
+      "world_line": "World: 4 in 10."
+    },
+    {
+      "country": "Uzbekistan",
+      "map_name": "Uzbekistan",
+      "kind": "average",
+      "check": "talked_to_health_professional",
+      "value": 75.8,
+      "world": 63.9,
+      "line": "Close to the world average on all five check-ups.",
+      "world_line": ""
+    },
+    {
+      "country": "Venezuela",
+      "map_name": "Venezuela",
+      "kind": "below",
+      "check": "tested_diabetes",
+      "value": 11.5,
+      "world": 24.0,
+      "line": "Only 1 in 9 women were tested for diabetes last year.",
+      "world_line": "World: 1 in 4."
+    },
+    {
+      "country": "Vietnam",
+      "map_name": "Vietnam",
+      "kind": "below",
+      "check": "talked_to_health_professional",
+      "value": 39.0,
+      "world": 63.9,
+      "line": "Only 4 in 10 women saw a health professional last year.",
+      "world_line": "World: 6 in 10."
+    },
+    {
+      "country": "Zambia",
+      "map_name": "Zambia",
+      "kind": "above",
+      "check": "tested_std",
+      "value": 42.4,
+      "world": 10.5,
+      "line": "4 in 10 women were tested for a sexually transmitted infection last year.",
+      "world_line": "World: 1 in 10."
+    },
+    {
+      "country": "Zimbabwe",
+      "map_name": "Zimbabwe",
+      "kind": "below",
+      "check": "talked_to_health_professional",
+      "value": 39.1,
+      "world": 63.9,
+      "line": "Only 4 in 10 women saw a health professional last year.",
+      "world_line": "World: 6 in 10."
+    }
+  ]
+}

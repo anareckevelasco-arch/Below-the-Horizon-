@@ -1,0 +1,409 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,Toda la población,5,Prevalencia,131,Nicaragua,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,77046.00470950459,110925.64850118806,51816.28175425976
+1,Toda la población,5,Prevalencia,131,Nicaragua,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,4144.9313502797995,5967.59299533118,2787.61931274637
+1,Toda la población,5,Prevalencia,84,Irlanda,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,83956.24210743827,114931.99720725486,57661.29115663735
+1,Toda la población,5,Prevalencia,84,Irlanda,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,6556.98738622002,8976.19565912274,4503.35018929741
+1,Toda la población,5,Prevalencia,37,Kirguistán,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,13553.171829832516,19528.77569401289,9009.26417619924
+1,Toda la población,5,Prevalencia,37,Kirguistán,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,750.94505509671,1082.03730636927,499.17926726826994
+1,Toda la población,5,Prevalencia,68,Corea del Sur,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,685704.4935793778,978720.5199236192,487095.5346670527
+1,Toda la población,5,Prevalencia,68,Corea del Sur,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,6096.65195962675,8701.880229152252,4330.8042659189
+1,Toda la población,5,Prevalencia,367,Mónaco,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,493.7033285960652,688.0211744000901,348.77833107267634
+1,Toda la población,5,Prevalencia,367,Mónaco,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,6881.925445391621,9590.59854940979,4861.75873724786
+1,Toda la población,5,Prevalencia,110,Dominica,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,508.36078591156,721.6337927302054,356.6818767394079
+1,Toda la población,5,Prevalencia,110,Dominica,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,3059.0255699569702,4342.38101223403,2146.30831394597
+1,Toda la población,5,Prevalencia,97,Argentina,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,423704.5536834196,607203.6513669672,298015.4553139217
+1,Toda la población,5,Prevalencia,97,Argentina,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,3374.66212979465,4836.16980164008,2373.5913678492902
+1,Toda la población,5,Prevalencia,86,Italia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,1741553.6591360571,2367754.134498692,1257651.5193191222
+1,Toda la población,5,Prevalencia,86,Italia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,14980.974369496818,20367.59752771068,10818.41209878368
+1,Toda la población,5,Prevalencia,26,Papúa Nueva Guinea,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,84248.78752093986,118286.00280473268,59036.38862799921
+1,Toda la población,5,Prevalencia,26,Papúa Nueva Guinea,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,3094.57452513257,4344.80853351516,2168.48823205467
+1,Toda la población,5,Prevalencia,144,Jordania,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,130711.11343126831,185177.76017228284,91761.8129009755
+1,Toda la población,5,Prevalencia,144,Jordania,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,3923.7368316180405,5558.73773018222,2754.54164197695
+1,Toda la población,5,Prevalencia,39,Tayikistán,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,16952.6309031453,24435.067538212013,11271.105694465688
+1,Toda la población,5,Prevalencia,39,Tayikistán,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,646.9430597464,932.4863762207,430.1257808515
+1,Toda la población,5,Prevalencia,320,Islas Cook,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,195.18327008810576,277.4154558913077,138.86698592024422
+1,Toda la población,5,Prevalencia,320,Islas Cook,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,5773.75829311121,8206.28626811429,4107.85417845721
+1,Toda la población,5,Prevalencia,15,Birmania,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,722614.8537396848,1005821.4720014968,509081.9355206071
+1,Toda la población,5,Prevalencia,15,Birmania,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,4721.141997271589,6571.44808005075,3326.04304132456
+1,Toda la población,5,Prevalencia,126,Costa Rica,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,71313.5296614014,103451.0623969952,48028.42334907207
+1,Toda la población,5,Prevalencia,126,Costa Rica,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,5143.77338685882,7461.82139807829,3464.24201703005
+1,Toda la población,5,Prevalencia,34,Azerbaiyán,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,25955.10495541557,38173.78667536206,17005.416080269555
+1,Toda la población,5,Prevalencia,34,Azerbaiyán,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,952.3042657411401,1400.6130952999501,623.93622764237
+1,Toda la población,5,Prevalencia,178,Eritrea,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,18114.444648902365,26667.26896136916,12423.02292055877
+1,Toda la población,5,Prevalencia,178,Eritrea,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1078.4223540083,1587.6047831273,739.59019343714
+1,Toda la población,5,Prevalencia,162,Bután,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,3787.733513409195,5383.88168860006,2556.8193136495847
+1,Toda la población,5,Prevalencia,162,Bután,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1830.34318260099,2601.64848180936,1235.5295807673901
+1,Toda la población,5,Prevalencia,50,Montenegro,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,601.1913911760577,887.5540697487331,400.0350853120154
+1,Toda la población,5,Prevalencia,50,Montenegro,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,403.33185838672006,595.44903274508,268.3785841696
+1,Toda la población,5,Prevalencia,435,Sudán del Sur,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,27143.76865788613,39936.24457378725,18537.461922953265
+1,Toda la población,5,Prevalencia,435,Sudán del Sur,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1091.70688200162,1606.2129615091899,745.56613752496
+1,Toda la población,5,Prevalencia,157,Yemen,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,221424.6636330688,312786.41444407444,150931.98746476657
+1,Toda la población,5,Prevalencia,157,Yemen,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,2482.71754904049,3507.10850137554,1692.32048427676
+1,Toda la población,5,Prevalencia,79,Finlandia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,72731.73138603274,100691.92132964832,51617.9753989014
+1,Toda la población,5,Prevalencia,79,Finlandia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,6293.924750913719,8713.49222404781,4466.82138269006
+1,Toda la población,5,Prevalencia,99,Uruguay,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,30874.43319423558,44225.78974056236,21877.46993553713
+1,Toda la población,5,Prevalencia,99,Uruguay,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,3717.62607399099,5325.2782989731195,2634.29136184084
+1,Toda la población,5,Prevalencia,115,Jamaica,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,22693.096304762108,32904.180394217736,15292.694622466168
+1,Toda la población,5,Prevalencia,115,Jamaica,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,2910.35609408624,4219.912551604029,1961.2655052344899
+1,Toda la población,5,Prevalencia,210,Liberia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,20533.579925315295,29913.2501732252,13863.19276462131
+1,Toda la población,5,Prevalencia,210,Liberia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1320.29104056237,1923.39554726737,891.3910417614401
+1,Toda la población,5,Prevalencia,146,Líbano,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,66640.00548144424,93686.96622122813,46140.14051565194
+1,Toda la población,5,Prevalencia,146,Líbano,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,4462.1087061036405,6273.1301506357595,3089.47037456447
+1,Toda la población,5,Prevalencia,215,Santo Tomé y Príncipe,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,831.8013633497616,1211.9371236402285,556.8876122644588
+1,Toda la población,5,Prevalencia,215,Santo Tomé y Príncipe,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1406.84489142604,2049.77729809983,941.87690346844
+1,Toda la población,5,Prevalencia,141,Egipto,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,1171574.5611907423,1691596.5656616003,813255.1061263683
+1,Toda la población,5,Prevalencia,141,Egipto,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,4330.23778905126,6252.282710041381,3005.8590458878602
+1,Toda la población,5,Prevalencia,61,Moldavia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,4025.7245635923286,5875.482013154508,2776.5671161752443
+1,Toda la población,5,Prevalencia,61,Moldavia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,464.82201798603,678.40046253887,320.59061906177
+1,Toda la población,5,Prevalencia,203,Cabo Verde,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,2042.3378838534625,2982.617172793838,1367.0758834431415
+1,Toda la población,5,Prevalencia,203,Cabo Verde,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1573.15167321876,2297.42063399353,1053.01758854799
+1,Toda la población,5,Prevalencia,194,Lesoto,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,9095.172329954365,12988.616959927807,6091.092149988543
+1,Toda la población,5,Prevalencia,194,Lesoto,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1766.28987244268,2522.3999899156297,1182.89505534788
+1,Toda la población,5,Prevalencia,14,Maldivas,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,7820.484256699594,11045.288221163002,5386.1696190856255
+1,Toda la población,5,Prevalencia,14,Maldivas,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,6252.46388417143,8830.689178093271,4306.23346482723
+1,Toda la población,5,Prevalencia,173,Gabón,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,9216.475514028652,13204.475648177437,6300.610850908853
+1,Toda la población,5,Prevalencia,173,Gabón,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1833.76465345996,2627.24082261641,1253.60691904584
+1,Toda la población,5,Prevalencia,62,Rusia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,190322.46969120836,266686.672637396,134939.95935942285
+1,Toda la población,5,Prevalencia,62,Rusia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,526.6013082366301,737.8926457185099,373.36400293334003
+1,Toda la población,5,Prevalencia,7,Corea del Norte,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,126782.42167079028,178844.7123279099,87863.41826408223
+1,Toda la población,5,Prevalencia,7,Corea del Norte,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1882.0503823411098,2654.90085124299,1304.30841877357
+1,Toda la población,5,Prevalencia,374,Niue,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,21.15410928085994,29.64652773396844,14.656584012180966
+1,Toda la población,5,Prevalencia,374,Niue,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,5423.23373508808,7600.4168835676,3757.47708403543
+1,Toda la población,5,Prevalencia,169,República Centroafricana,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,16094.660463416674,22977.28844225995,11087.33550025378
+1,Toda la población,5,Prevalencia,169,República Centroafricana,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1077.44168006696,1538.1926396573501,742.23109061622
+1,Toda la población,5,Prevalencia,172,Guinea Ecuatorial,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,7972.354877277572,11218.862361618229,5354.904083706475
+1,Toda la población,5,Prevalencia,172,Guinea Ecuatorial,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,2061.18700179901,2900.54489930535,1384.46655512973
+1,Toda la población,5,Prevalencia,128,Guatemala,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,175226.07562266185,252770.69252606065,119635.1699251999
+1,Toda la población,5,Prevalencia,128,Guatemala,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,3845.07657140585,5546.67828013772,2625.21652305983
+1,Toda la población,5,Prevalencia,351,Guam,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,2095.397441924724,2970.846716211333,1448.8078970060976
+1,Toda la población,5,Prevalencia,351,Guam,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,5861.85719710797,8310.91937810698,4053.02823625245
+1,Toda la población,5,Prevalencia,155,Turquía,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,812786.5909664369,1132864.5782201665,568709.2519651556
+1,Toda la población,5,Prevalencia,155,Turquía,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,3689.66741831323,5142.6703763038695,2581.67152459306
+1,Toda la población,5,Prevalencia,205,Costa de Marfil,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,120765.77241236124,172862.42234132788,81283.2465257035
+1,Toda la población,5,Prevalencia,205,Costa de Marfil,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1431.9301935070698,2049.64467107555,963.78247413519
+1,Toda la población,5,Prevalencia,117,San Vicente y las Granadinas,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,806.032063490159,1145.3170596373675,556.3034352320127
+1,Toda la población,5,Prevalencia,117,San Vicente y las Granadinas,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,2899.39775870456,4119.84816254053,2001.09276830405
+1,Toda la población,5,Prevalencia,63,Ucrania,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,40610.01656443313,57721.76761945764,28265.805873118188
+1,Toda la población,5,Prevalencia,63,Ucrania,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,462.96408340795,658.0422146893001,322.23707387739
+1,Toda la población,5,Prevalencia,175,Burundi,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,29088.94605741406,41106.091546716656,19640.61323462072
+1,Toda la población,5,Prevalencia,175,Burundi,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,853.4036977348799,1205.95948908419,576.21104343634
+1,Toda la población,5,Prevalencia,81,Alemania,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,995233.1824460076,1361614.5735510516,710034.3676446265
+1,Toda la población,5,Prevalencia,81,Alemania,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,5831.09455368598,7977.73171563613,4160.1080099909805
+1,Toda la población,5,Prevalencia,52,Rumania,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,15995.68504873689,23878.275856008324,10860.73414384108
+1,Toda la población,5,Prevalencia,52,Rumania,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,390.02166062978,582.22231645351,264.81651479965
+1,Toda la población,5,Prevalencia,109,Cuba,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,79115.57167177893,112966.23437842932,55310.580921368615
+1,Toda la población,5,Prevalencia,109,Cuba,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,3248.43543887924,4638.3222846954,2271.01754323874
+1,Toda la población,5,Prevalencia,75,Austria,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,145813.8728635082,198869.63662572516,105545.36500377148
+1,Toda la población,5,Prevalencia,75,Austria,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,7483.47954335163,10206.41471388307,5416.81367067628
+1,Toda la población,5,Prevalencia,17,Sri Lanka,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,345123.46258659946,496536.2336171959,238644.4532935224
+1,Toda la población,5,Prevalencia,17,Sri Lanka,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,6012.17930838437,8649.84619487395,4157.27529330754
+1,Toda la población,5,Prevalencia,108,Belice,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,3678.589202105809,5255.920902302845,2388.5430763204045
+1,Toda la población,5,Prevalencia,108,Belice,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,3205.16222297907,4579.494528332661,2081.14242052303
+1,Toda la población,5,Prevalencia,16,Filipinas,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,1597553.2659701377,2232422.308069558,1119949.945352959
+1,Toda la población,5,Prevalencia,16,Filipinas,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,5343.37990787909,7466.84367960407,3745.9270769261198
+1,Toda la población,5,Prevalencia,101,Canadá,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,300953.2980477796,429201.6076755133,208999.79141321228
+1,Toda la población,5,Prevalencia,101,Canadá,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,3540.73272162901,5049.5814012684405,2458.89446990846
+1,Toda la población,5,Prevalencia,28,Islas Salomón ,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,7533.976411570286,10446.803356602502,5157.65684898151
+1,Toda la población,5,Prevalencia,28,Islas Salomón ,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,3477.17496617471,4821.5392674101795,2380.4262582845104
+1,Toda la población,5,Prevalencia,217,Sierra Leona,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,29216.49304999203,41441.471517954094,19693.73217364903
+1,Toda la población,5,Prevalencia,217,Sierra Leona,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1330.59026419105,1887.3455633839499,896.9005366594
+1,Toda la población,5,Prevalencia,122,Ecuador,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,332376.7691628735,449665.5085145354,239085.2434281664
+1,Toda la población,5,Prevalencia,122,Ecuador,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,6952.763266333439,9406.24652442234,5001.26137640856
+1,Toda la población,5,Prevalencia,87,Luxemburgo,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,11034.55796042901,15460.898677270934,7661.651990060392
+1,Toda la población,5,Prevalencia,87,Luxemburgo,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,6913.61727815982,9686.90695308132,4800.34902781639
+1,Toda la población,5,Prevalencia,27,Samoa,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,2214.9990569566357,3170.0888173607727,1474.7258388014136
+1,Toda la población,5,Prevalencia,27,Samoa,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,4586.6057392423,6564.3132072446,3053.71958277448
+1,Toda la población,5,Prevalencia,189,Tanzania,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,230228.75148356543,337027.40059762227,157280.24188673857
+1,Toda la población,5,Prevalencia,189,Tanzania,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1424.01324580715,2084.5853506929498,972.81137263369
+1,Toda la población,5,Prevalencia,179,Etiopía,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,325739.1265921788,460952.7772161588,229928.9701817479
+1,Toda la población,5,Prevalencia,179,Etiopía,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1117.94945715534,1582.00800884515,789.1252429149899
+1,Toda la población,5,Prevalencia,74,Andorra,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,1427.4005687473866,1980.028284277322,1001.360951506803
+1,Toda la población,5,Prevalencia,74,Andorra,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,6822.44425744948,9463.799366081139,4786.13321503502
+1,Toda la población,5,Prevalencia,207,Ghana,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,119813.7227394274,172070.3626196355,81347.25100532918
+1,Toda la población,5,Prevalencia,207,Ghana,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1356.29091437097,1947.83589156213,920.8505914429401
+1,Toda la población,5,Prevalencia,102,Estados Unidos de América,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,4808034.136400184,6699585.289993724,3359477.3794193086
+1,Toda la población,5,Prevalencia,102,Estados Unidos de América,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,6341.74180627862,8836.67605365483,4431.11208030273
+1,Toda la población,5,Prevalencia,216,Senegal,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,59138.20050674659,84571.27164183112,40391.79552899728
+1,Toda la población,5,Prevalencia,216,Senegal,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1287.1253105969402,1840.6685246899299,879.11539276373
+1,Toda la población,5,Prevalencia,180,Kenia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,195903.696268938,279081.95556686656,133862.27867848802
+1,Toda la población,5,Prevalencia,180,Kenia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1401.99692899658,1997.26729048525,957.9936835805399
+1,Toda la población,5,Prevalencia,54,Eslovaquia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,4873.5187895647705,7184.349305229978,3107.5484848791198
+1,Toda la población,5,Prevalencia,54,Eslovaquia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,395.92533002745,583.65751575561,252.45766202573998
+1,Toda la población,5,Prevalencia,121,Bolivia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,181623.39045168308,256833.4410195122,127522.6881541764
+1,Toda la población,5,Prevalencia,121,Bolivia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,5587.1536950369,7900.78802863749,3922.8915204684895
+1,Toda la población,5,Prevalencia,305,Bermudas,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,500.5602007239809,707.9996513689945,339.9942438922309
+1,Toda la población,5,Prevalencia,305,Bermudas,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,3771.3942347739803,5334.3150325037195,2561.63460342417
+1,Toda la población,5,Prevalencia,187,Somalia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,49397.31566418571,71664.6387239256,33064.85173761534
+1,Toda la población,5,Prevalencia,187,Somalia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1042.03003580429,1511.75635864636,697.4988048792101
+1,Toda la población,5,Prevalencia,130,México,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,2409150.1469507627,3237757.0724567203,1720145.3601075946
+1,Toda la población,5,Prevalencia,130,México,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,6742.41104481949,9061.40660157898,4814.1155043257995
+1,Toda la población,5,Prevalencia,168,Angola,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,119508.13587315624,173164.5621070398,81187.61991032024
+1,Toda la población,5,Prevalencia,168,Angola,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1376.8714628278,1995.05533406794,935.3749531168
+1,Toda la población,5,Prevalencia,49,Macedonia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,1499.6207294924716,2202.2282331663523,984.1588178351384
+1,Toda la población,5,Prevalencia,49,Macedonia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,367.05394514691,539.02733217832,240.88715875498
+1,Toda la población,5,Prevalencia,209,Guinea-Bisáu,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,6683.868152702625,9855.29151685498,4455.588295460319
+1,Toda la población,5,Prevalencia,209,Guinea-Bisáu,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1204.82960932644,1776.50826688575,803.16137043611
+1,Toda la población,5,Prevalencia,136,Paraguay,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,18856.760205087605,26865.3762823142,12463.35117947414
+1,Toda la población,5,Prevalencia,136,Paraguay,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1123.7064577431001,1600.9535301822302,742.71232455491
+1,Toda la población,5,Prevalencia,149,Palestina,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,50735.52521690408,70607.8839107812,34580.60380059504
+1,Toda la población,5,Prevalencia,149,Palestina,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,3703.8297716764096,5154.56539428294,2524.47706674211
+1,Toda la población,5,Prevalencia,23,Kiribati,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,1277.5936584457602,1803.8400722643623,859.5287973661766
+1,Toda la población,5,Prevalencia,23,Kiribati,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,3850.63746658521,5436.731874858329,2590.59973323094
+1,Toda la población,5,Prevalencia,10,Camboya,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,175696.77951541322,257873.01895586232,124433.04849311836
+1,Toda la población,5,Prevalencia,10,Camboya,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,3811.18749095647,5593.74182503752,2699.18253018945
+1,Toda la población,5,Prevalencia,142,Irán,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,1006648.6056522717,1415426.133338885,705451.0537621358
+1,Toda la población,5,Prevalencia,142,Irán,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,4228.50479997911,5945.60620779999,2963.30134491234
+1,Toda la población,5,Prevalencia,196,Sudáfrica,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,407808.3692032349,570664.2542332374,281212.3455366059
+1,Toda la población,5,Prevalencia,196,Sudáfrica,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,2250.0604640122,3148.60893900711,1551.57379903775
+1,Toda la población,5,Prevalencia,95,Reino Unido,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,1132982.22089732,1567159.8958279137,802966.9703678149
+1,Toda la población,5,Prevalencia,95,Reino Unido,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,7257.7545999740105,10039.047156301891,5143.71462793004
+1,Toda la población,5,Prevalencia,67,Japón,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,2884657.5291420384,3996034.962009668,2026523.0265756429
+1,Toda la población,5,Prevalencia,67,Japón,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,12226.642512830591,16937.22407449744,8589.43300535551
+1,Toda la población,5,Prevalencia,83,Islandia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,6450.462718858366,8836.567212648333,4466.608138073925
+1,Toda la población,5,Prevalencia,83,Islandia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,7140.36455232538,9781.672112446831,4944.3290827786905
+1,Toda la población,5,Prevalencia,181,Madagascar,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,81601.49883961992,119910.80174488747,54765.48401456422
+1,Toda la población,5,Prevalencia,181,Madagascar,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1026.9669678971202,1509.09522787183,689.23174039234
+1,Toda la población,5,Prevalencia,190,Uganda,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,138366.68934569063,203302.56634128815,94881.0899735178
+1,Toda la población,5,Prevalencia,190,Uganda,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1252.95094379331,1840.96435043347,859.17609066621
+1,Toda la población,5,Prevalencia,30,Vanuatu,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,3120.2953289615743,4391.235558068171,2139.2926583119765
+1,Toda la población,5,Prevalencia,30,Vanuatu,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,3787.7650379554498,5330.575079190599,2596.91377989069
+1,Toda la población,5,Prevalencia,80,Francia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,901132.8505467454,1261548.9180770006,627077.2195568145
+1,Toda la población,5,Prevalencia,80,Francia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,6002.81426347724,8403.69301253662,4177.21768280161
+1,Toda la población,5,Prevalencia,218,Togo,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,27626.49721896883,39849.25014722412,18916.606778961825
+1,Toda la población,5,Prevalencia,218,Togo,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1245.14342143145,1796.03050204004,852.5832391975199
+1,Toda la población,5,Prevalencia,76,Bélgica,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,170197.75837534404,243028.3019966416,120815.94467372097
+1,Toda la población,5,Prevalencia,76,Bélgica,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,6770.407906198459,9667.58171772967,4806.01645298927
+1,Toda la población,5,Prevalencia,123,Perú,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,557212.0656101456,771043.7821445714,385069.7922978556
+1,Toda la población,5,Prevalencia,123,Perú,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,6010.96468884616,8317.68950112452,4153.96770295922
+1,Toda la población,5,Prevalencia,133,Venezuela,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,318920.53070118395,450161.5407346357,218602.11545925928
+1,Toda la población,5,Prevalencia,133,Venezuela,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,4749.870129909909,6704.51930852044,3255.76925471735
+1,Toda la población,5,Prevalencia,369,Nauru,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,152.96583768835524,215.7791578818299,105.21626102455866
+1,Toda la población,5,Prevalencia,369,Nauru,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,4791.85993477886,6759.57139868608,3296.04043170744
+1,Toda la población,5,Prevalencia,112,Granada,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,727.5249467096241,1032.200441314971,490.5457687813756
+1,Toda la población,5,Prevalencia,112,Granada,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,2745.16900889282,3894.80068728737,1850.97576102722
+1,Toda la población,5,Prevalencia,29,Tonga,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,1394.1495674986638,1988.5215409115192,950.3360903858672
+1,Toda la población,5,Prevalencia,29,Tonga,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,5225.5221748018,7453.3347420876,3562.02980626794
+1,Toda la población,5,Prevalencia,44,Bosnia y Herzegovina,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,2513.833997039701,3671.903985076101,1666.417151952338
+1,Toda la población,5,Prevalencia,44,Bosnia y Herzegovina,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,359.9651811719,525.79350298797,238.62043106938
+1,Toda la población,5,Prevalencia,170,Congo,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,23590.915427643544,33401.54445717181,15860.323906952715
+1,Toda la población,5,Prevalencia,170,Congo,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1492.87195905463,2113.7047123995103,1003.6674030236401
+1,Toda la población,5,Prevalencia,177,Yibuti,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,5714.780588107053,8279.74709467587,3806.428289724324
+1,Toda la población,5,Prevalencia,177,Yibuti,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1662.5961866026598,2408.81967967248,1107.40089868759
+1,Toda la población,5,Prevalencia,132,Panamá,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,45885.49180409703,64611.24637495869,30684.536826284824
+1,Toda la población,5,Prevalencia,132,Panamá,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,4328.58740742417,6095.07311440989,2894.61209821969
+1,Toda la población,5,Prevalencia,125,Colombia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,579813.9002173294,839709.8453602184,400527.140976652
+1,Toda la población,5,Prevalencia,125,Colombia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,4187.71724120187,6064.82079112605,2892.81511396764
+1,Toda la población,5,Prevalencia,182,Malaui,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,73960.68391124427,104485.53804185554,50097.97698096767
+1,Toda la población,5,Prevalencia,182,Malaui,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1370.15457958851,1935.64108493936,928.08731556573
+1,Toda la población,5,Prevalencia,57,Bielorrusia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,11216.975329688144,16202.608037958207,7769.118582491359
+1,Toda la población,5,Prevalencia,57,Bielorrusia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,510.22876482243004,737.01122121833,353.39542627073996
+1,Toda la población,5,Prevalencia,33,Armenia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,6396.718695028241,9367.280184943083,4347.997337936587
+1,Toda la población,5,Prevalencia,33,Armenia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,912.69631892729,1336.54183508227,620.38075367059
+1,Toda la población,5,Prevalencia,135,Brasil,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,625248.2559420834,868659.6822799305,435400.1888386036
+1,Toda la población,5,Prevalencia,135,Brasil,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1119.82369011208,1555.77513670411,779.8045680369
+1,Toda la población,5,Prevalencia,85,Israel,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,136959.32871500833,188685.1783547029,94659.22605102228
+1,Toda la población,5,Prevalencia,85,Israel,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,5941.3454782095605,8185.23164315153,4106.3516442851
+1,Toda la población,5,Prevalencia,183,Mauricio,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,22777.90258133052,31919.520945548,16134.7291867956
+1,Toda la población,5,Prevalencia,183,Mauricio,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,7144.39581366291,10011.707223842981,5060.7333684537
+1,Toda la población,5,Prevalencia,78,Dinamarca,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,79429.01477701252,108027.86368638568,58079.18245757455
+1,Toda la población,5,Prevalencia,78,Dinamarca,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,6227.93712578877,8470.33977144083,4553.92148169603
+1,Toda la población,5,Prevalencia,148,Marruecos,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,376212.74926886376,527886.4789338558,255799.27242522445
+1,Toda la población,5,Prevalencia,148,Marruecos,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,3857.8406169883,5413.16556535559,2623.07118744888
+1,Toda la población,5,Prevalencia,184,Mozambique,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,106746.72756546286,154489.6977887658,71546.77364338413
+1,Toda la población,5,Prevalencia,184,Mozambique,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1316.0656544711999,1904.6821374898298,882.0902863044599
+1,Toda la población,5,Prevalencia,143,Iraq,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,430511.1332415364,603449.4924258601,284136.111636185
+1,Toda la población,5,Prevalencia,143,Iraq,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,3827.3677005891896,5364.83941508634,2526.05169129786
+1,Toda la población,5,Prevalencia,36,Kazajistán,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,46176.071876198,65019.28514577825,30844.763890761536
+1,Toda la población,5,Prevalencia,36,Kazajistán,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,973.85004380473,1371.25206009581,650.51385805834
+1,Toda la población,5,Prevalencia,186,Seychelles,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,1515.0713352142284,2134.0463095997425,1056.2534017409268
+1,Toda la población,5,Prevalencia,186,Seychelles,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,6709.51508451276,9450.654614413701,4677.63330169967
+1,Toda la población,5,Prevalencia,139,Argelia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,475243.987488496,670039.2127786136,332574.4363543738
+1,Toda la población,5,Prevalencia,139,Argelia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,4177.79528769692,5890.209533237719,2923.60966069748
+1,Toda la población,5,Prevalencia,422,"Islas Vírgenes, EUA",2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,658.1460578646046,928.7375951886576,459.0234621137967
+1,Toda la población,5,Prevalencia,422,"Islas Vírgenes, EUA",2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,4047.6466584060495,5711.8045132693005,2823.02805031328
+1,Toda la población,5,Prevalencia,185,Ruanda,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,48417.6890332397,70818.47163363913,32723.576724801067
+1,Toda la población,5,Prevalencia,185,Ruanda,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1333.34223984331,1950.2223562436398,901.1526150282899
+1,Toda la población,5,Prevalencia,72,Nueva Zelanda,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,125577.66277677586,168812.6010417039,92194.96435286246
+1,Toda la población,5,Prevalencia,72,Nueva Zelanda,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,10749.55643597675,14450.504507537502,7891.96860739188
+1,Toda la población,5,Prevalencia,98,Chile,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,191753.12115373727,272224.2608051685,137096.68336176677
+1,Toda la población,5,Prevalencia,98,Chile,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,4027.04085473707,5717.02934125434,2879.19143962277
+1,Toda la población,5,Prevalencia,164,Nepal,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,108157.4486702394,151674.44390224252,73366.13302952395
+1,Toda la población,5,Prevalencia,164,Nepal,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1241.3975494490799,1740.87208314582,842.07365165472
+1,Toda la población,5,Prevalencia,118,Surinam,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,4407.879618365999,6264.47739619877,2927.8295881044205
+1,Toda la población,5,Prevalencia,118,Surinam,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,2996.40211557603,4258.48592705139,1990.2891030164599
+1,Toda la población,5,Prevalencia,156,Emiratos Árabes Unidos,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,79099.66073655595,113125.09735833426,54933.33290751567
+1,Toda la población,5,Prevalencia,156,Emiratos Árabes Unidos,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,4593.30592198464,6569.15813269707,3189.9707408205495
+1,Toda la población,5,Prevalencia,41,Uzbekistán,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,83105.4081286902,118763.94884609515,55991.255555066346
+1,Toda la población,5,Prevalencia,41,Uzbekistán,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,924.3626665571201,1320.98455345088,622.77807731378
+1,Toda la población,5,Prevalencia,111,República Dominicana,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,92407.2505111478,128343.38495960222,62654.69024861621
+1,Toda la población,5,Prevalencia,111,República Dominicana,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,3079.53826538872,4277.13586224416,2088.0127377387403
+1,Toda la población,5,Prevalencia,204,Chad,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,39839.04302919395,57351.22855062577,27425.11372224369
+1,Toda la población,5,Prevalencia,204,Chad,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,956.06179309093,1376.3211722706,658.15093454421
+1,Toda la población,5,Prevalencia,43,Albania,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,1877.8369063744904,2742.476656824954,1232.2449544136052
+1,Toda la población,5,Prevalencia,43,Albania,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,356.26301162704004,520.30237011566,233.78137740896
+1,Toda la población,5,Prevalencia,51,Polonia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,46830.11999285764,64455.03806122206,32850.48706327664
+1,Toda la población,5,Prevalencia,51,Polonia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,519.81379133716,715.45017844274,364.64002719272
+1,Toda la población,5,Prevalencia,25,Estados Federados de Micronesia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,1082.8122766352035,1531.2822320973798,748.8556748813983
+1,Toda la población,5,Prevalencia,25,Estados Federados de Micronesia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,4102.78248348296,5802.037947556811,2837.4188322906302
+1,Toda la población,5,Prevalencia,19,Timor Oriental,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,13955.85210121396,19579.04194700717,10057.915909335698
+1,Toda la población,5,Prevalencia,19,Timor Oriental,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,3933.1394065446,5517.9075319568,2834.59477241658
+1,Toda la población,5,Prevalencia,119,Trinidad y Tobago,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,11030.058252613462,15541.81261015186,7446.608607222186
+1,Toda la población,5,Prevalencia,119,Trinidad y Tobago,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,3232.8592102162697,4555.233607064571,2182.56664374641
+1,Toda la población,5,Prevalencia,161,Bangladés,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,572868.0124049986,813733.9493417905,397155.08895187976
+1,Toda la población,5,Prevalencia,161,Bangladés,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1163.6767679926102,1652.9519394887602,806.74804718649
+1,Toda la población,5,Prevalencia,88,Malta,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,8921.133389782595,12419.91843724252,6345.90231761664
+1,Toda la población,5,Prevalencia,88,Malta,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,6911.98864732611,9622.8059247782,4916.7300678009
+1,Toda la población,5,Prevalencia,45,Bulgaria,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,5551.492140479332,8117.655191594472,3660.59176120236
+1,Toda la población,5,Prevalencia,45,Bulgaria,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,407.98514191119006,596.57523086087,269.02083464791
+1,Toda la población,5,Prevalencia,77,Chipre,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,23144.696835001683,32572.303690287103,16149.830276087649
+1,Toda la población,5,Prevalencia,77,Chipre,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,6327.610066892101,8905.05666165544,4415.25889762485
+1,Toda la población,5,Prevalencia,47,República Checa,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,9222.06348172839,13720.17973321808,6079.890554229676
+1,Toda la población,5,Prevalencia,47,República Checa,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,390.50032839098,580.96918352603,257.44772443953
+1,Toda la población,5,Prevalencia,171,República Democrática del Congo,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,259746.4191396708,375448.244952771,177498.7314455797
+1,Toda la población,5,Prevalencia,171,República Democrática del Congo,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1185.67131067788,1713.8184778805,810.2331275780699
+1,Toda la población,5,Prevalencia,298,Samoa Americana,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,599.9737448642176,831.3336425280488,422.2235570618998
+1,Toda la población,5,Prevalencia,298,Samoa Americana,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,5185.388940310219,7184.96152968884,3649.14862003287
+1,Toda la población,5,Prevalencia,211,Mali,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,59384.39821149658,83829.56707830931,39469.6716139527
+1,Toda la población,5,Prevalencia,211,Mali,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1082.45228242954,1528.0361332588,719.44883524973
+1,Toda la población,5,Prevalencia,58,Estonia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,1661.037718688826,2427.3855737272534,1132.261002344746
+1,Toda la población,5,Prevalencia,58,Estonia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,575.74066085137,841.3683558384099,392.45869639899996
+1,Toda la población,5,Prevalencia,380,Palaos,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,221.2075508431857,311.8093218357442,154.25591157458135
+1,Toda la población,5,Prevalencia,380,Palaos,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,5473.49102997684,7715.313151046,3816.86043313643
+1,Toda la población,5,Prevalencia,191,Zambia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,88190.14555413731,123817.741191072,57963.44430050555
+1,Toda la población,5,Prevalencia,191,Zambia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1644.3747342525,2308.67931997945,1080.77407877157
+1,Toda la población,5,Prevalencia,145,Kuwait,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,53695.36282084284,75237.82276344148,36802.87675621967
+1,Toda la población,5,Prevalencia,145,Kuwait,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,5101.38123108961,7148.04401627922,3496.49382872605
+1,Toda la población,5,Prevalencia,165,Pakistán,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,842610.175425471,1186398.6449908228,574073.1241453416
+1,Toda la población,5,Prevalencia,165,Pakistán,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1443.60665160459,2032.60419267856,983.5340287757399
+1,Toda la población,5,Prevalencia,198,Zimbabue,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,61893.22911304225,86642.08741216753,41873.76756675875
+1,Toda la población,5,Prevalencia,198,Zimbabue,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1521.96991950781,2130.55050923006,1029.68637387896
+1,Toda la población,5,Prevalencia,89,Holanda,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,227426.6339666576,323454.0848510585,163278.28120545752
+1,Toda la población,5,Prevalencia,89,Holanda,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,5944.75137498405,8454.83258545894,4267.964440978711
+1,Toda la población,5,Prevalencia,59,Letonia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,2062.8498521701363,3010.3796112909104,1410.8798184271322
+1,Toda la población,5,Prevalencia,59,Letonia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,525.75969367752,767.25713246668,359.59172713015
+1,Toda la población,5,Prevalencia,151,Catar,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,31764.834067475585,44479.67321982153,22062.004732029625
+1,Toda la población,5,Prevalencia,151,Catar,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,5131.629952979,7185.72062768197,3564.13145635062
+1,Toda la población,5,Prevalencia,140,Bahréin,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,15217.742847511528,21372.9299623248,10775.115331209689
+1,Toda la población,5,Prevalencia,140,Bahréin,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,4575.63976903025,6426.3688311899205,3239.83962138201
+1,Toda la población,5,Prevalencia,66,Brunéi,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,8921.225097773366,12468.3800958826,6326.982591638459
+1,Toda la población,5,Prevalencia,66,Brunéi,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,7364.47294813397,10292.650047144029,5222.92528534736
+1,Toda la población,5,Prevalencia,197,Suazilandia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,6606.010682291895,9225.790476060378,4504.120832744256
+1,Toda la población,5,Prevalencia,197,Suazilandia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,2116.8266800398396,2956.3075755436903,1443.29817304631
+1,Toda la población,5,Prevalencia,376,Islas Marianas del Norte,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,603.7050591900386,844.8814246558973,418.4630838573319
+1,Toda la población,5,Prevalencia,376,Islas Marianas del Norte,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,5117.28080288914,7161.6022249505,3547.0849103267697
+1,Toda la población,5,Prevalencia,212,Mauritania,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,17848.248904691714,25489.42276765831,11900.53376176162
+1,Toda la población,5,Prevalencia,212,Mauritania,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1568.7246761281401,2240.32546214531,1045.96596959515
+1,Toda la población,5,Prevalencia,46,Croacia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,3179.645089209957,4613.709453417183,2075.590605439924
+1,Toda la población,5,Prevalencia,46,Croacia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,398.28214780091,577.9129616296001,259.98835124564
+1,Toda la población,5,Prevalencia,12,Laos,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,92986.44165129254,131347.3250761652,65041.549652499736
+1,Toda la población,5,Prevalencia,12,Laos,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,4607.833574436209,6508.761961964241,3223.05737159028
+1,Toda la población,5,Prevalencia,105,Antigua y Barbuda,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,719.5313646405259,1025.056574200884,502.5922220320573
+1,Toda la población,5,Prevalencia,105,Antigua y Barbuda,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,2995.14713864172,4266.9373651244705,2092.10846072701
+1,Toda la población,5,Prevalencia,150,Omán,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,49815.51710973313,70873.61109196805,34435.26635455547
+1,Toda la población,5,Prevalencia,150,Omán,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,4557.75837651039,6484.42118780783,3150.57702460699
+1,Toda la población,5,Prevalencia,90,Noruega,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,74549.02142515192,103456.16512010033,52093.233367747904
+1,Toda la población,5,Prevalencia,90,Noruega,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,6121.08870471048,8494.60330455329,4277.28354126439
+1,Toda la población,5,Prevalencia,11,Indonesia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,4173132.642449924,5767877.081054237,2918028.6089560324
+1,Toda la población,5,Prevalencia,11,Indonesia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,5422.49414189414,7494.676628543651,3791.63434130729
+1,Toda la población,5,Prevalencia,176,Comoras,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,3192.1444405755983,4647.143423486634,2152.521608257168
+1,Toda la población,5,Prevalencia,176,Comoras,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1456.55261286479,2120.45821291732,982.18017107946
+1,Toda la población,5,Prevalencia,127,El Salvador,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,79260.96058486555,113776.74465281736,53777.27584559375
+1,Toda la población,5,Prevalencia,127,El Salvador,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,4451.58589817815,6390.11877095279,3020.32881042818
+1,Toda la población,5,Prevalencia,35,Georgia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,10439.852663150734,14409.397476048684,7404.089394739902
+1,Toda la población,5,Prevalencia,35,Georgia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1345.7059763322,1857.3837126368699,954.39348324982
+1,Toda la población,5,Prevalencia,18,Tailandia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,1017103.9472924812,1460831.9073904944,706043.3118996652
+1,Toda la población,5,Prevalencia,18,Tailandia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,6565.017388646211,9429.11184194821,4557.23982990871
+1,Toda la población,5,Prevalencia,114,Haití,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,67958.47058050764,94168.23335781934,45458.15308874774
+1,Toda la población,5,Prevalencia,114,Haití,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1849.6551817881402,2563.01766802981,1237.25427745629
+1,Toda la población,5,Prevalencia,82,Grecia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,152499.46164916342,214860.18048681712,108043.3161094148
+1,Toda la población,5,Prevalencia,82,Grecia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,6795.861729755399,9574.853983274439,4814.754289382539
+1,Toda la población,5,Prevalencia,69,Singapur,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,102676.16974778369,147764.58195361792,71439.96790978778
+1,Toda la población,5,Prevalencia,69,Singapur,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,7380.15471580203,10621.01828508313,5134.95991680725
+1,Toda la población,5,Prevalencia,106,Las Bahamas,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,3978.791175618335,5582.415314790815,2742.3553594934974
+1,Toda la población,5,Prevalencia,106,Las Bahamas,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,3412.42422468888,4787.778099338409,2351.99070481166
+1,Toda la población,5,Prevalencia,60,Lituania,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,3001.7797616716985,4310.312261141049,2045.846840970086
+1,Toda la población,5,Prevalencia,60,Lituania,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,505.88593462961,726.4111693385801,344.78383606558
+1,Toda la población,5,Prevalencia,116,Santa Lucía,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,1294.4999622240468,1818.227156721293,845.9928314617265
+1,Toda la población,5,Prevalencia,116,Santa Lucía,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,2848.71830380917,4001.24923367004,1861.7190685242
+1,Toda la población,5,Prevalencia,206,Gambia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,8522.769046881838,12353.06255826432,5882.969302464081
+1,Toda la población,5,Prevalencia,206,Gambia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1301.91653595342,1887.0224366992002,898.66743698593
+1,Toda la población,5,Prevalencia,160,Afganistán,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,202332.5336982008,288831.06278243713,141068.0823684312
+1,Toda la población,5,Prevalencia,160,Afganistán,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,2450.1222989365997,3497.56618282836,1708.2475465594898
+1,Toda la población,5,Prevalencia,53,Serbia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,7593.36046682215,11155.845737109348,5008.036426462883
+1,Toda la población,5,Prevalencia,53,Serbia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,370.78059268344,544.73524763687,244.54030893139998
+1,Toda la población,5,Prevalencia,38,Mongolia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,7420.229890388487,10601.79700772454,4952.554971984108
+1,Toda la población,5,Prevalencia,38,Mongolia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,864.2061924666501,1234.75131642724,576.80540071462
+1,Toda la población,5,Prevalencia,113,Guyana,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,6043.455379144405,8525.723262739983,4039.893569734235
+1,Toda la población,5,Prevalencia,113,Guyana,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,2805.34425952843,3957.60162240856,1875.30005997401
+1,Toda la población,5,Prevalencia,153,Siria,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,186499.43238842377,260522.9480045497,128064.23807482384
+1,Toda la población,5,Prevalencia,153,Siria,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,3778.79674440739,5278.63948514685,2594.79999330119
+1,Toda la población,5,Prevalencia,48,Hungría,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,8631.006073804207,12773.782315919912,5733.258556507992
+1,Toda la población,5,Prevalencia,48,Hungría,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,402.46769495921995,595.64721431521,267.34442498497
+1,Toda la población,5,Prevalencia,91,Portugal,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,137715.39326654398,193833.62889674577,98063.6729196619
+1,Toda la población,5,Prevalencia,91,Portugal,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,6115.4563680437095,8607.4698845274,4354.6628942894695
+1,Toda la población,5,Prevalencia,193,Botsuana,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,13668.05600975169,19139.318616365912,9221.6928105879
+1,Toda la población,5,Prevalencia,193,Botsuana,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,2047.6414920148698,2867.30336046343,1381.52205493618
+1,Toda la población,5,Prevalencia,40,Turkmenistán,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,12650.973930304415,17544.602138747952,8456.616536897138
+1,Toda la población,5,Prevalencia,40,Turkmenistán,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,940.0281495552699,1303.64823878614,628.3672418007001
+1,Toda la población,5,Prevalencia,349,Groenlandia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,415.98696667990345,594.0566632906421,292.77735613579483
+1,Toda la población,5,Prevalencia,349,Groenlandia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,3197.3652763965,4566.04725522337,2250.34971574985
+1,Toda la población,5,Prevalencia,200,Benín,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,53990.42255350671,77825.76573544902,36580.16084241554
+1,Toda la población,5,Prevalencia,200,Benín,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1558.95582911967,2247.1935838016498,1056.2402048049
+1,Toda la población,5,Prevalencia,163,India,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,9228826.006904112,12776823.197452703,6507399.638193157
+1,Toda la población,5,Prevalencia,163,India,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,2384.74968019567,3301.56024300899,1681.52690217337
+1,Toda la población,5,Prevalencia,522,Sudán,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,329535.27036042785,464347.98898293375,226342.66635031928
+1,Toda la población,5,Prevalencia,522,Sudán,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,3427.22052271971,4829.29476952596,2354.00062164656
+1,Toda la población,5,Prevalencia,213,Níger,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,55435.20909460194,81150.13580908581,37530.55646164173
+1,Toda la población,5,Prevalencia,213,Níger,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,958.4605056839799,1403.06497394404,648.89366726189
+1,Toda la población,5,Prevalencia,129,Honduras,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,115486.06446788128,166250.1560671192,78718.73423357296
+1,Toda la población,5,Prevalencia,129,Honduras,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,3914.33986792586,5634.9622522932905,2668.13040329062
+1,Toda la población,5,Prevalencia,71,Australia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,554796.987759275,771689.0184674712,399661.4698277292
+1,Toda la población,5,Prevalencia,71,Australia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,8859.55088315945,12323.098855854669,6382.192416505
+1,Toda la población,5,Prevalencia,152,Arabia Saudita,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,362537.4968241639,502911.585416784,250104.36274870875
+1,Toda la población,5,Prevalencia,152,Arabia Saudita,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,4984.65467194003,6914.7070462518195,3438.77224057901
+1,Toda la población,5,Prevalencia,92,España,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,652560.7113430318,904810.7449239164,451360.8070652156
+1,Toda la población,5,Prevalencia,92,España,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,6269.320867233249,8692.75269786581,4336.34093686295
+1,Toda la población,5,Prevalencia,393,San Cristóbal y Nieves,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,449.9566536685547,636.9021241390833,307.4936265427113
+1,Toda la población,5,Prevalencia,393,San Cristóbal y Nieves,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,3468.10431677694,4909.01287508958,2370.05045908203
+1,Toda la población,5,Prevalencia,107,Barbados,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,2376.1386624689944,3336.939999900866,1607.3818505396407
+1,Toda la población,5,Prevalencia,107,Barbados,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,3349.25091941282,4703.53415784262,2265.66118627667
+1,Toda la población,5,Prevalencia,214,Nigeria,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,835624.360229236,1166379.470209022,579145.8449412005
+1,Toda la población,5,Prevalencia,214,Nigeria,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1359.72292135914,1897.9256423434902,942.3826274768101
+1,Toda la población,5,Prevalencia,201,Burkina Faso,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,75867.66299778002,110648.00855235723,52453.04918557984
+1,Toda la población,5,Prevalencia,201,Burkina Faso,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1296.07502293402,1890.24038115285,896.0746151907799
+1,Toda la población,5,Prevalencia,385,Puerto Rico,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,28946.936195448456,40671.01703091804,20045.189497417006
+1,Toda la población,5,Prevalencia,385,Puerto Rico,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,4232.51083130314,5946.7613063154495,2930.93131136558
+1,Toda la población,5,Prevalencia,147,Libia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,84432.29493675762,118419.26604698172,59189.734411926285
+1,Toda la población,5,Prevalencia,147,Libia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,4179.42006673016,5861.78377805468,2929.9069026955603
+1,Toda la población,5,Prevalencia,93,Suecia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,111457.61320746936,157658.08204093642,77022.95811732631
+1,Toda la población,5,Prevalencia,93,Suecia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,4929.44118112387,6972.7515221680305,3406.4980462912204
+1,Toda la población,5,Prevalencia,6,China,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,9013124.044334017,12486110.522756506,6303542.9835017705
+1,Toda la población,5,Prevalencia,6,China,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,2921.36215906879,4047.03747731752,2043.12420970639
+1,Toda la población,5,Prevalencia,20,Vietnam,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,1111657.9644145514,1559951.772085066,791791.8980227183
+1,Toda la población,5,Prevalencia,20,Vietnam,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,4323.81717243189,6067.46542211763,3079.69133965236
+1,Toda la población,5,Prevalencia,55,Eslovenia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,1785.469230832396,2654.985736419336,1188.7820228595997
+1,Toda la población,5,Prevalencia,55,Eslovenia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,421.14318722724,626.2382659807799,280.40105165639
+1,Toda la población,5,Prevalencia,208,Guinea,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,41977.5125826036,60933.67049717767,28222.262873633405
+1,Toda la población,5,Prevalencia,208,Guinea,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1196.10690849315,1736.24352081604,804.1649330706699
+1,Toda la población,5,Prevalencia,202,Camerún,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,143882.880830498,200914.5449430294,95713.8851045038
+1,Toda la población,5,Prevalencia,202,Camerún,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1715.95240186491,2396.11407538283,1141.48722967522
+1,Toda la población,5,Prevalencia,396,San Marino,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,470.2784554150309,656.9700526602365,334.83789649258506
+1,Toda la población,5,Prevalencia,396,San Marino,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,6631.270165835371,9263.75822640731,4721.4592287516
+1,Toda la población,5,Prevalencia,195,Namibia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,13295.954681983543,18980.500978340515,9067.732250577776
+1,Toda la población,5,Prevalencia,195,Namibia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,1685.09578388475,2405.54085356211,1149.22153018085
+1,Toda la población,5,Prevalencia,413,Tokelau,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,19.167459924436145,27.22814050167386,13.441543644439742
+1,Toda la población,5,Prevalencia,413,Tokelau,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,4901.44091188753,6962.69210086541,3437.2281041676297
+1,Toda la población,5,Prevalencia,22,Fiyi,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,10721.037452843697,15091.234503337504,7143.675330512574
+1,Toda la población,5,Prevalencia,22,Fiyi,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,4616.3067093925,6498.043440030509,3075.95197787689
+1,Toda la población,5,Prevalencia,94,Suiza,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,118167.16929681944,167095.2968032268,83804.96189750568
+1,Toda la población,5,Prevalencia,94,Suiza,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,5973.25643510483,8446.53437029138,4236.2741777336
+1,Toda la población,5,Prevalencia,154,Túnez,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,121519.57805511678,172993.35756984,83439.52561244137
+1,Toda la población,5,Prevalencia,154,Túnez,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,3931.76598209641,5597.20013274929,2699.68587462064
+1,Toda la población,5,Prevalencia,416,Tuvalu,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,114.8154543015897,164.18067004127707,78.8996551546161
+1,Toda la población,5,Prevalencia,416,Tuvalu,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,4512.81038601488,6453.10544170271,3101.14335566248
+1,Toda la población,5,Prevalencia,24,Islas Marshall ,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,397.570915585908,556.0073708745753,277.3820658615927
+1,Toda la población,5,Prevalencia,24,Islas Marshall ,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,3694.9688831399603,5167.45529825884,2577.9504031103997
+1,Toda la población,5,Prevalencia,8,Taiwán,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,233717.8236115373,327945.140200143,163989.6199408762
+1,Toda la población,5,Prevalencia,8,Taiwán,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,4351.03618213516,6105.23043864153,3052.93262974798
+1,Toda la población,5,Prevalencia,13,Malasia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,1,Número,2023,701094.6995827655,1007569.380802863,486483.8845049568
+1,Toda la población,5,Prevalencia,13,Malasia,2,Mujer,24,15-49 años,605,Síndrome de ovario poliquístico,3,Tasa,2023,7859.47559184005,11295.145948497699,5453.62590583794

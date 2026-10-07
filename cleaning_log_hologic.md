@@ -1,0 +1,25 @@
+# Cleaning log - Hologic Global Women's Health Index
+
+- 2020: 116 countries, 136,028 rows after reshaping; 27,588 hidden values ('-').
+- 2021: 122 countries, 145,180 rows after reshaping; 0 hidden values ('-').
+- 2022: 143 countries, 230,230 rows after reshaping; 1,794 hidden values ('-').
+- 2023: 142 countries, 228,620 rows after reshaping; 1,932 hidden values ('-').
+- 2024: 144 countries, 231,840 rows after reshaping; 1,932 hidden values ('-').
+- Rebuilt the 3-row headers (indicator / answer / statistic) and filled merged cells for country and group.
+- Dropped 'Total' rows and columns: they are sums the report adds, not answers.
+- Converted 33,246 hidden values ('-' and '-%') to missing. Gallup hides results for very small groups; they are NOT zeros.
+- 2020: percentages were stored as 0-1; converted to 0-100.
+- 2021: percentages were stored as 0-1; converted to 0-100.
+- 2022: percentages were stored as 0-1; converted to 0-100.
+- 2023: percentages were stored as 0-1; converted to 0-100.
+- 2024: percentages were stored as 0-1; converted to 0-100.
+- Removed numeric codes from labels ('1.00 Yes' -> 'Yes', '1 15-50' -> '15-50') and renamed (DK)/(Refused).
+- Oldest age group is labelled '76+', '75+' (2023) or '76 and above' (2024); harmonised to '76+'. The 2023 label may reflect a small definition change.
+- Indicator names shortened to snake_case; this also fixes the 'Saftey' typo in 2020.
+- Country names: 251 different spellings, mostly the same country with a trailing space in the 2020 sheet ('Albania ' vs 'Albania'). Trimmed spaces and unified 'Turkey' -> 'Turkiye' plus two names cut off in 2020 ('Bosnia and', 'United Arab'). Result: 150 countries.
+- Coverage: 110 countries appear in all 5 years; 40 were not surveyed every year (not an error, just missing years).
+- Caveat: respondents are women aged 15+, so the audience filter 'women over 20' cannot be applied exactly.
+- Checked: US 2024 'tested for cancer' = 29.0% in the original Excel and 28.98% in the clean table (same value, unrounded).
+- Caveat: 2020 did not ask 'believes_checkups_help' or 'talked_to_health_professional'.
+- Final tidy table: 971,898 rows, 9 columns, 150 countries, 2020-2024.
+- World 2024 (weighted, from the report's global sheet): {'preventive_care_index': 21.6, 'tested_cancer': 12.5, 'tested_blood_pressure': 38.7, 'tested_diabetes': 24.0, 'tested_std': 10.5, 'believes_checkups_help': 86.0, 'talked_to_health_professional': 63.9}

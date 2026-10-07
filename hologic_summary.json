@@ -1,0 +1,1454 @@
+{
+  "source": "Hologic Global Women's Health Index (Gallup), women 15+, 2024",
+  "world": {
+    "preventive_care_index": 21.6,
+    "tested_cancer": 12.5,
+    "tested_blood_pressure": 38.7,
+    "tested_diabetes": 24.0,
+    "tested_std": 10.5,
+    "believes_checkups_help": 86.0,
+    "talked_to_health_professional": 63.9
+  },
+  "countries": [
+    {
+      "country": "Albania",
+      "preventive_care_index": 25.4,
+      "tested_cancer": 12.6,
+      "tested_blood_pressure": 46.6,
+      "tested_diabetes": 29.4,
+      "tested_std": 13.1,
+      "believes_checkups_help": 91.5,
+      "talked_to_health_professional": 65.6
+    },
+    {
+      "country": "Algeria",
+      "preventive_care_index": 16.7,
+      "tested_cancer": 3.1,
+      "tested_blood_pressure": 25.3,
+      "tested_diabetes": 21.6,
+      "tested_std": null,
+      "believes_checkups_help": 93.1,
+      "talked_to_health_professional": 58.1
+    },
+    {
+      "country": "Argentina",
+      "preventive_care_index": 32.3,
+      "tested_cancer": 14.8,
+      "tested_blood_pressure": 62.0,
+      "tested_diabetes": 33.9,
+      "tested_std": 18.4,
+      "believes_checkups_help": 95.7,
+      "talked_to_health_professional": 75.3
+    },
+    {
+      "country": "Armenia",
+      "preventive_care_index": 18.5,
+      "tested_cancer": 9.8,
+      "tested_blood_pressure": 38.1,
+      "tested_diabetes": 20.8,
+      "tested_std": 5.4,
+      "believes_checkups_help": 83.3,
+      "talked_to_health_professional": 67.3
+    },
+    {
+      "country": "Australia",
+      "preventive_care_index": 31.4,
+      "tested_cancer": 22.9,
+      "tested_blood_pressure": 56.2,
+      "tested_diabetes": 36.2,
+      "tested_std": 10.5,
+      "believes_checkups_help": 94.3,
+      "talked_to_health_professional": 91.7
+    },
+    {
+      "country": "Austria",
+      "preventive_care_index": 29.6,
+      "tested_cancer": 23.7,
+      "tested_blood_pressure": 50.2,
+      "tested_diabetes": 32.7,
+      "tested_std": 11.2,
+      "believes_checkups_help": 86.7,
+      "talked_to_health_professional": 81.6
+    },
+    {
+      "country": "Azerbaijan",
+      "preventive_care_index": 17.9,
+      "tested_cancer": 6.0,
+      "tested_blood_pressure": 34.0,
+      "tested_diabetes": 22.2,
+      "tested_std": 9.0,
+      "believes_checkups_help": 85.3,
+      "talked_to_health_professional": 45.7
+    },
+    {
+      "country": "Bahrain",
+      "preventive_care_index": 34.1,
+      "tested_cancer": 12.6,
+      "tested_blood_pressure": 46.0,
+      "tested_diabetes": 43.6,
+      "tested_std": null,
+      "believes_checkups_help": 89.8,
+      "talked_to_health_professional": 69.9
+    },
+    {
+      "country": "Bangladesh",
+      "preventive_care_index": 14.4,
+      "tested_cancer": 3.4,
+      "tested_blood_pressure": 31.0,
+      "tested_diabetes": 19.6,
+      "tested_std": 3.4,
+      "believes_checkups_help": 91.2,
+      "talked_to_health_professional": 47.3
+    },
+    {
+      "country": "Belgium",
+      "preventive_care_index": 28.6,
+      "tested_cancer": 25.6,
+      "tested_blood_pressure": 46.7,
+      "tested_diabetes": 33.2,
+      "tested_std": 8.7,
+      "believes_checkups_help": 91.6,
+      "talked_to_health_professional": 86.6
+    },
+    {
+      "country": "Belize",
+      "preventive_care_index": 22.7,
+      "tested_cancer": 11.5,
+      "tested_blood_pressure": 35.1,
+      "tested_diabetes": 26.7,
+      "tested_std": 17.5,
+      "believes_checkups_help": 92.6,
+      "talked_to_health_professional": 52.0
+    },
+    {
+      "country": "Benin",
+      "preventive_care_index": 11.0,
+      "tested_cancer": 5.7,
+      "tested_blood_pressure": 19.8,
+      "tested_diabetes": 7.5,
+      "tested_std": 11.1,
+      "believes_checkups_help": 87.4,
+      "talked_to_health_professional": 32.6
+    },
+    {
+      "country": "Bolivia",
+      "preventive_care_index": 22.3,
+      "tested_cancer": 12.9,
+      "tested_blood_pressure": 41.0,
+      "tested_diabetes": 22.0,
+      "tested_std": 13.3,
+      "believes_checkups_help": 93.7,
+      "talked_to_health_professional": 59.3
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "preventive_care_index": 18.2,
+      "tested_cancer": 7.2,
+      "tested_blood_pressure": 38.7,
+      "tested_diabetes": 24.2,
+      "tested_std": 3.1,
+      "believes_checkups_help": 84.8,
+      "talked_to_health_professional": 63.9
+    },
+    {
+      "country": "Botswana",
+      "preventive_care_index": 34.5,
+      "tested_cancer": 29.2,
+      "tested_blood_pressure": 44.3,
+      "tested_diabetes": 28.6,
+      "tested_std": 36.0,
+      "believes_checkups_help": 90.2,
+      "talked_to_health_professional": 67.2
+    },
+    {
+      "country": "Brazil",
+      "preventive_care_index": 39.8,
+      "tested_cancer": 22.8,
+      "tested_blood_pressure": 59.3,
+      "tested_diabetes": 46.9,
+      "tested_std": 29.9,
+      "believes_checkups_help": 97.7,
+      "talked_to_health_professional": 81.4
+    },
+    {
+      "country": "Bulgaria",
+      "preventive_care_index": 28.5,
+      "tested_cancer": 12.8,
+      "tested_blood_pressure": 56.4,
+      "tested_diabetes": 36.5,
+      "tested_std": 7.3,
+      "believes_checkups_help": 87.4,
+      "talked_to_health_professional": 81.4
+    },
+    {
+      "country": "Burkina Faso",
+      "preventive_care_index": 15.2,
+      "tested_cancer": 10.5,
+      "tested_blood_pressure": 25.5,
+      "tested_diabetes": 12.9,
+      "tested_std": 11.7,
+      "believes_checkups_help": 90.0,
+      "talked_to_health_professional": 52.6
+    },
+    {
+      "country": "Cambodia",
+      "preventive_care_index": 21.6,
+      "tested_cancer": 10.1,
+      "tested_blood_pressure": 36.5,
+      "tested_diabetes": 24.1,
+      "tested_std": 15.7,
+      "believes_checkups_help": 97.6,
+      "talked_to_health_professional": 52.4
+    },
+    {
+      "country": "Cameroon",
+      "preventive_care_index": 16.6,
+      "tested_cancer": 7.5,
+      "tested_blood_pressure": 22.8,
+      "tested_diabetes": 15.0,
+      "tested_std": 21.3,
+      "believes_checkups_help": 90.5,
+      "talked_to_health_professional": 49.8
+    },
+    {
+      "country": "Canada",
+      "preventive_care_index": 26.2,
+      "tested_cancer": 18.6,
+      "tested_blood_pressure": 47.2,
+      "tested_diabetes": 28.9,
+      "tested_std": 9.8,
+      "believes_checkups_help": 92.8,
+      "talked_to_health_professional": 85.4
+    },
+    {
+      "country": "Chad",
+      "preventive_care_index": 14.3,
+      "tested_cancer": 7.3,
+      "tested_blood_pressure": 20.4,
+      "tested_diabetes": 13.2,
+      "tested_std": 16.3,
+      "believes_checkups_help": 79.4,
+      "talked_to_health_professional": 41.1
+    },
+    {
+      "country": "Chile",
+      "preventive_care_index": 41.2,
+      "tested_cancer": 22.3,
+      "tested_blood_pressure": 70.6,
+      "tested_diabetes": 48.4,
+      "tested_std": 24.1,
+      "believes_checkups_help": 90.6,
+      "talked_to_health_professional": 80.6
+    },
+    {
+      "country": "China",
+      "preventive_care_index": 21.0,
+      "tested_cancer": 15.8,
+      "tested_blood_pressure": 33.2,
+      "tested_diabetes": 25.1,
+      "tested_std": 9.7,
+      "believes_checkups_help": 79.9,
+      "talked_to_health_professional": 60.8
+    },
+    {
+      "country": "Colombia",
+      "preventive_care_index": 26.7,
+      "tested_cancer": 12.6,
+      "tested_blood_pressure": 53.6,
+      "tested_diabetes": 25.5,
+      "tested_std": 14.9,
+      "believes_checkups_help": 90.8,
+      "talked_to_health_professional": 66.1
+    },
+    {
+      "country": "Comoros",
+      "preventive_care_index": 10.0,
+      "tested_cancer": 3.2,
+      "tested_blood_pressure": 21.6,
+      "tested_diabetes": 9.6,
+      "tested_std": 5.4,
+      "believes_checkups_help": 66.2,
+      "talked_to_health_professional": 52.0
+    },
+    {
+      "country": "Congo (Kinshasa)",
+      "preventive_care_index": 14.6,
+      "tested_cancer": 3.1,
+      "tested_blood_pressure": 25.7,
+      "tested_diabetes": 11.2,
+      "tested_std": 17.7,
+      "believes_checkups_help": 84.3,
+      "talked_to_health_professional": 48.5
+    },
+    {
+      "country": "Congo Brazzaville",
+      "preventive_care_index": 14.3,
+      "tested_cancer": 4.0,
+      "tested_blood_pressure": 28.6,
+      "tested_diabetes": 11.2,
+      "tested_std": 13.3,
+      "believes_checkups_help": 75.9,
+      "talked_to_health_professional": 50.5
+    },
+    {
+      "country": "Costa Rica",
+      "preventive_care_index": 39.8,
+      "tested_cancer": 24.2,
+      "tested_blood_pressure": 66.7,
+      "tested_diabetes": 43.6,
+      "tested_std": 24.0,
+      "believes_checkups_help": 92.2,
+      "talked_to_health_professional": 76.4
+    },
+    {
+      "country": "Croatia",
+      "preventive_care_index": 20.6,
+      "tested_cancer": 18.4,
+      "tested_blood_pressure": 34.1,
+      "tested_diabetes": 23.5,
+      "tested_std": 5.2,
+      "believes_checkups_help": 87.6,
+      "talked_to_health_professional": 56.1
+    },
+    {
+      "country": "Cyprus",
+      "preventive_care_index": 30.2,
+      "tested_cancer": 27.8,
+      "tested_blood_pressure": 43.4,
+      "tested_diabetes": 34.6,
+      "tested_std": 15.0,
+      "believes_checkups_help": 94.1,
+      "talked_to_health_professional": 91.4
+    },
+    {
+      "country": "Czech Republic",
+      "preventive_care_index": 39.1,
+      "tested_cancer": 34.2,
+      "tested_blood_pressure": 64.7,
+      "tested_diabetes": 47.0,
+      "tested_std": 10.0,
+      "believes_checkups_help": 89.6,
+      "talked_to_health_professional": 86.7
+    },
+    {
+      "country": "Denmark",
+      "preventive_care_index": 25.0,
+      "tested_cancer": 21.7,
+      "tested_blood_pressure": 43.8,
+      "tested_diabetes": 15.6,
+      "tested_std": 18.7,
+      "believes_checkups_help": 81.6,
+      "talked_to_health_professional": 88.1
+    },
+    {
+      "country": "Dominican Republic",
+      "preventive_care_index": 31.5,
+      "tested_cancer": 13.9,
+      "tested_blood_pressure": 56.9,
+      "tested_diabetes": 32.0,
+      "tested_std": 22.6,
+      "believes_checkups_help": 93.4,
+      "talked_to_health_professional": 75.0
+    },
+    {
+      "country": "Ecuador",
+      "preventive_care_index": 25.6,
+      "tested_cancer": 12.1,
+      "tested_blood_pressure": 48.1,
+      "tested_diabetes": 23.2,
+      "tested_std": 19.3,
+      "believes_checkups_help": 89.4,
+      "talked_to_health_professional": 61.5
+    },
+    {
+      "country": "Egypt",
+      "preventive_care_index": 15.8,
+      "tested_cancer": 3.0,
+      "tested_blood_pressure": 35.8,
+      "tested_diabetes": 22.7,
+      "tested_std": 1.5,
+      "believes_checkups_help": 91.0,
+      "talked_to_health_professional": 65.7
+    },
+    {
+      "country": "El Salvador",
+      "preventive_care_index": 25.7,
+      "tested_cancer": 13.0,
+      "tested_blood_pressure": 52.2,
+      "tested_diabetes": 26.3,
+      "tested_std": 11.1,
+      "believes_checkups_help": 94.0,
+      "talked_to_health_professional": 69.9
+    },
+    {
+      "country": "Estonia",
+      "preventive_care_index": 30.8,
+      "tested_cancer": 31.3,
+      "tested_blood_pressure": 48.4,
+      "tested_diabetes": 28.9,
+      "tested_std": 14.7,
+      "believes_checkups_help": 92.6,
+      "talked_to_health_professional": 90.0
+    },
+    {
+      "country": "Eswatini",
+      "preventive_care_index": 42.3,
+      "tested_cancer": 35.8,
+      "tested_blood_pressure": 57.2,
+      "tested_diabetes": 36.5,
+      "tested_std": 39.7,
+      "believes_checkups_help": 85.7,
+      "talked_to_health_professional": 72.9
+    },
+    {
+      "country": "Ethiopia",
+      "preventive_care_index": 8.3,
+      "tested_cancer": 5.4,
+      "tested_blood_pressure": 15.5,
+      "tested_diabetes": 6.1,
+      "tested_std": 6.9,
+      "believes_checkups_help": 89.5,
+      "talked_to_health_professional": 31.2
+    },
+    {
+      "country": "Finland",
+      "preventive_care_index": 26.3,
+      "tested_cancer": 16.9,
+      "tested_blood_pressure": 54.5,
+      "tested_diabetes": 25.6,
+      "tested_std": 8.0,
+      "believes_checkups_help": 84.4,
+      "talked_to_health_professional": 86.7
+    },
+    {
+      "country": "France",
+      "preventive_care_index": 22.5,
+      "tested_cancer": 18.5,
+      "tested_blood_pressure": 42.1,
+      "tested_diabetes": 23.6,
+      "tested_std": 5.4,
+      "believes_checkups_help": 91.9,
+      "talked_to_health_professional": 81.2
+    },
+    {
+      "country": "Gabon",
+      "preventive_care_index": 18.9,
+      "tested_cancer": 10.5,
+      "tested_blood_pressure": 29.5,
+      "tested_diabetes": 14.6,
+      "tested_std": 21.1,
+      "believes_checkups_help": 92.0,
+      "talked_to_health_professional": 55.4
+    },
+    {
+      "country": "Georgia",
+      "preventive_care_index": 16.6,
+      "tested_cancer": 10.9,
+      "tested_blood_pressure": 30.6,
+      "tested_diabetes": 19.6,
+      "tested_std": 5.2,
+      "believes_checkups_help": 88.7,
+      "talked_to_health_professional": 61.0
+    },
+    {
+      "country": "Germany",
+      "preventive_care_index": 33.4,
+      "tested_cancer": 33.1,
+      "tested_blood_pressure": 57.4,
+      "tested_diabetes": 34.5,
+      "tested_std": 7.6,
+      "believes_checkups_help": 87.6,
+      "talked_to_health_professional": 85.4
+    },
+    {
+      "country": "Ghana",
+      "preventive_care_index": 14.1,
+      "tested_cancer": 5.8,
+      "tested_blood_pressure": 28.7,
+      "tested_diabetes": 13.5,
+      "tested_std": 8.5,
+      "believes_checkups_help": 92.0,
+      "talked_to_health_professional": 47.1
+    },
+    {
+      "country": "Greece",
+      "preventive_care_index": 36.4,
+      "tested_cancer": 34.9,
+      "tested_blood_pressure": 50.1,
+      "tested_diabetes": 44.6,
+      "tested_std": 15.8,
+      "believes_checkups_help": 96.1,
+      "talked_to_health_professional": 91.9
+    },
+    {
+      "country": "Guatemala",
+      "preventive_care_index": 12.6,
+      "tested_cancer": 5.1,
+      "tested_blood_pressure": 27.2,
+      "tested_diabetes": 10.9,
+      "tested_std": 7.2,
+      "believes_checkups_help": 88.6,
+      "talked_to_health_professional": 44.8
+    },
+    {
+      "country": "Guinea",
+      "preventive_care_index": 14.1,
+      "tested_cancer": 8.4,
+      "tested_blood_pressure": 27.1,
+      "tested_diabetes": 10.2,
+      "tested_std": 10.7,
+      "believes_checkups_help": 83.7,
+      "talked_to_health_professional": 64.8
+    },
+    {
+      "country": "Honduras",
+      "preventive_care_index": 21.8,
+      "tested_cancer": 11.2,
+      "tested_blood_pressure": 39.7,
+      "tested_diabetes": 20.0,
+      "tested_std": 16.4,
+      "believes_checkups_help": 90.7,
+      "talked_to_health_professional": 61.5
+    },
+    {
+      "country": "Hong Kong",
+      "preventive_care_index": 18.0,
+      "tested_cancer": 7.9,
+      "tested_blood_pressure": 35.6,
+      "tested_diabetes": 23.4,
+      "tested_std": 4.8,
+      "believes_checkups_help": 87.4,
+      "talked_to_health_professional": 56.8
+    },
+    {
+      "country": "Hungary",
+      "preventive_care_index": 32.6,
+      "tested_cancer": 30.0,
+      "tested_blood_pressure": 52.2,
+      "tested_diabetes": 37.5,
+      "tested_std": 10.6,
+      "believes_checkups_help": 71.6,
+      "talked_to_health_professional": 82.5
+    },
+    {
+      "country": "Iceland",
+      "preventive_care_index": 24.1,
+      "tested_cancer": 33.9,
+      "tested_blood_pressure": 37.0,
+      "tested_diabetes": 18.5,
+      "tested_std": 7.2,
+      "believes_checkups_help": 92.4,
+      "talked_to_health_professional": 83.2
+    },
+    {
+      "country": "India",
+      "preventive_care_index": 13.4,
+      "tested_cancer": 1.8,
+      "tested_blood_pressure": 31.9,
+      "tested_diabetes": 17.0,
+      "tested_std": 2.7,
+      "believes_checkups_help": 79.4,
+      "talked_to_health_professional": 57.5
+    },
+    {
+      "country": "Indonesia",
+      "preventive_care_index": 17.7,
+      "tested_cancer": 1.3,
+      "tested_blood_pressure": 51.5,
+      "tested_diabetes": 14.1,
+      "tested_std": 3.9,
+      "believes_checkups_help": 85.2,
+      "talked_to_health_professional": 58.8
+    },
+    {
+      "country": "Iran",
+      "preventive_care_index": 17.2,
+      "tested_cancer": 7.3,
+      "tested_blood_pressure": 26.7,
+      "tested_diabetes": 17.7,
+      "tested_std": null,
+      "believes_checkups_help": 88.1,
+      "talked_to_health_professional": 57.5
+    },
+    {
+      "country": "Iraq",
+      "preventive_care_index": 28.6,
+      "tested_cancer": 9.4,
+      "tested_blood_pressure": 45.0,
+      "tested_diabetes": 31.3,
+      "tested_std": null,
+      "believes_checkups_help": 75.8,
+      "talked_to_health_professional": 60.6
+    },
+    {
+      "country": "Ireland",
+      "preventive_care_index": 20.8,
+      "tested_cancer": 13.8,
+      "tested_blood_pressure": 44.6,
+      "tested_diabetes": 21.6,
+      "tested_std": 3.1,
+      "believes_checkups_help": 90.7,
+      "talked_to_health_professional": 80.4
+    },
+    {
+      "country": "Israel",
+      "preventive_care_index": 23.8,
+      "tested_cancer": 19.3,
+      "tested_blood_pressure": 40.7,
+      "tested_diabetes": 30.9,
+      "tested_std": 4.4,
+      "believes_checkups_help": 87.8,
+      "talked_to_health_professional": 64.4
+    },
+    {
+      "country": "Italy",
+      "preventive_care_index": 23.1,
+      "tested_cancer": 23.4,
+      "tested_blood_pressure": 39.3,
+      "tested_diabetes": 23.2,
+      "tested_std": 6.4,
+      "believes_checkups_help": 92.0,
+      "talked_to_health_professional": 83.8
+    },
+    {
+      "country": "Ivory Coast",
+      "preventive_care_index": 7.2,
+      "tested_cancer": 4.1,
+      "tested_blood_pressure": 13.7,
+      "tested_diabetes": 6.4,
+      "tested_std": 4.7,
+      "believes_checkups_help": 82.8,
+      "talked_to_health_professional": 41.1
+    },
+    {
+      "country": "Japan",
+      "preventive_care_index": 26.7,
+      "tested_cancer": 34.6,
+      "tested_blood_pressure": 38.6,
+      "tested_diabetes": 27.4,
+      "tested_std": 5.7,
+      "believes_checkups_help": 93.1,
+      "talked_to_health_professional": 71.7
+    },
+    {
+      "country": "Jordan",
+      "preventive_care_index": 22.4,
+      "tested_cancer": 6.0,
+      "tested_blood_pressure": 37.6,
+      "tested_diabetes": 23.5,
+      "tested_std": null,
+      "believes_checkups_help": 88.6,
+      "talked_to_health_professional": 59.6
+    },
+    {
+      "country": "Kazakhstan",
+      "preventive_care_index": 22.8,
+      "tested_cancer": 17.8,
+      "tested_blood_pressure": 36.2,
+      "tested_diabetes": 25.3,
+      "tested_std": 11.2,
+      "believes_checkups_help": 88.1,
+      "talked_to_health_professional": 56.9
+    },
+    {
+      "country": "Kenya",
+      "preventive_care_index": 33.2,
+      "tested_cancer": 17.7,
+      "tested_blood_pressure": 54.3,
+      "tested_diabetes": 25.4,
+      "tested_std": 35.6,
+      "believes_checkups_help": 90.3,
+      "talked_to_health_professional": 69.9
+    },
+    {
+      "country": "Kosovo",
+      "preventive_care_index": 16.0,
+      "tested_cancer": 3.2,
+      "tested_blood_pressure": 37.4,
+      "tested_diabetes": 20.0,
+      "tested_std": 3.2,
+      "believes_checkups_help": 94.3,
+      "talked_to_health_professional": 66.3
+    },
+    {
+      "country": "Kuwait",
+      "preventive_care_index": 25.4,
+      "tested_cancer": 7.0,
+      "tested_blood_pressure": 41.9,
+      "tested_diabetes": 27.1,
+      "tested_std": null,
+      "believes_checkups_help": 91.8,
+      "talked_to_health_professional": 70.3
+    },
+    {
+      "country": "Kyrgyzstan",
+      "preventive_care_index": 22.6,
+      "tested_cancer": 6.0,
+      "tested_blood_pressure": 44.6,
+      "tested_diabetes": 22.5,
+      "tested_std": 17.4,
+      "believes_checkups_help": 94.1,
+      "talked_to_health_professional": 66.1
+    },
+    {
+      "country": "Laos",
+      "preventive_care_index": 23.2,
+      "tested_cancer": 15.3,
+      "tested_blood_pressure": 39.7,
+      "tested_diabetes": 22.8,
+      "tested_std": 14.9,
+      "believes_checkups_help": 68.4,
+      "talked_to_health_professional": 56.2
+    },
+    {
+      "country": "Latvia",
+      "preventive_care_index": 45.2,
+      "tested_cancer": 40.3,
+      "tested_blood_pressure": 70.6,
+      "tested_diabetes": 43.6,
+      "tested_std": 25.2,
+      "believes_checkups_help": 82.2,
+      "talked_to_health_professional": 89.8
+    },
+    {
+      "country": "Lebanon",
+      "preventive_care_index": 14.2,
+      "tested_cancer": 5.7,
+      "tested_blood_pressure": 25.6,
+      "tested_diabetes": 23.1,
+      "tested_std": 2.4,
+      "believes_checkups_help": 87.8,
+      "talked_to_health_professional": 46.0
+    },
+    {
+      "country": "Lesotho",
+      "preventive_care_index": 34.5,
+      "tested_cancer": 30.4,
+      "tested_blood_pressure": 44.1,
+      "tested_diabetes": 25.9,
+      "tested_std": 37.4,
+      "believes_checkups_help": 84.7,
+      "talked_to_health_professional": 57.0
+    },
+    {
+      "country": "Liberia",
+      "preventive_care_index": 19.9,
+      "tested_cancer": 7.6,
+      "tested_blood_pressure": 27.7,
+      "tested_diabetes": 10.2,
+      "tested_std": 34.1,
+      "believes_checkups_help": 62.6,
+      "talked_to_health_professional": 68.1
+    },
+    {
+      "country": "Libya",
+      "preventive_care_index": 12.1,
+      "tested_cancer": 1.5,
+      "tested_blood_pressure": 28.4,
+      "tested_diabetes": 15.7,
+      "tested_std": 2.7,
+      "believes_checkups_help": 80.8,
+      "talked_to_health_professional": 49.4
+    },
+    {
+      "country": "Lithuania",
+      "preventive_care_index": 31.7,
+      "tested_cancer": 30.0,
+      "tested_blood_pressure": 51.8,
+      "tested_diabetes": 34.4,
+      "tested_std": 10.5,
+      "believes_checkups_help": 89.6,
+      "talked_to_health_professional": 93.4
+    },
+    {
+      "country": "Madagascar",
+      "preventive_care_index": 11.2,
+      "tested_cancer": 6.9,
+      "tested_blood_pressure": 24.0,
+      "tested_diabetes": 6.8,
+      "tested_std": 6.8,
+      "believes_checkups_help": 83.9,
+      "talked_to_health_professional": 56.9
+    },
+    {
+      "country": "Malawi",
+      "preventive_care_index": 18.9,
+      "tested_cancer": 15.9,
+      "tested_blood_pressure": 24.1,
+      "tested_diabetes": 9.9,
+      "tested_std": 25.7,
+      "believes_checkups_help": 77.4,
+      "talked_to_health_professional": 37.4
+    },
+    {
+      "country": "Malaysia",
+      "preventive_care_index": 19.3,
+      "tested_cancer": 7.0,
+      "tested_blood_pressure": 40.3,
+      "tested_diabetes": 24.3,
+      "tested_std": 5.1,
+      "believes_checkups_help": 88.7,
+      "talked_to_health_professional": 69.6
+    },
+    {
+      "country": "Mali",
+      "preventive_care_index": 9.5,
+      "tested_cancer": 4.5,
+      "tested_blood_pressure": 21.5,
+      "tested_diabetes": 7.4,
+      "tested_std": 4.8,
+      "believes_checkups_help": 88.8,
+      "talked_to_health_professional": 48.8
+    },
+    {
+      "country": "Malta",
+      "preventive_care_index": 28.4,
+      "tested_cancer": 20.0,
+      "tested_blood_pressure": 51.1,
+      "tested_diabetes": 33.2,
+      "tested_std": 9.1,
+      "believes_checkups_help": 92.9,
+      "talked_to_health_professional": 86.5
+    },
+    {
+      "country": "Mauritania",
+      "preventive_care_index": 11.2,
+      "tested_cancer": 4.0,
+      "tested_blood_pressure": 23.1,
+      "tested_diabetes": 14.3,
+      "tested_std": 3.3,
+      "believes_checkups_help": 79.8,
+      "talked_to_health_professional": 47.8
+    },
+    {
+      "country": "Mauritius",
+      "preventive_care_index": 34.4,
+      "tested_cancer": 18.1,
+      "tested_blood_pressure": 47.8,
+      "tested_diabetes": 53.0,
+      "tested_std": 18.5,
+      "believes_checkups_help": 95.0,
+      "talked_to_health_professional": 71.7
+    },
+    {
+      "country": "Mexico",
+      "preventive_care_index": 26.3,
+      "tested_cancer": 16.9,
+      "tested_blood_pressure": 43.0,
+      "tested_diabetes": 31.6,
+      "tested_std": 13.6,
+      "believes_checkups_help": 94.5,
+      "talked_to_health_professional": 62.2
+    },
+    {
+      "country": "Moldova",
+      "preventive_care_index": 17.5,
+      "tested_cancer": 9.8,
+      "tested_blood_pressure": 38.2,
+      "tested_diabetes": 17.4,
+      "tested_std": 4.5,
+      "believes_checkups_help": 87.7,
+      "talked_to_health_professional": 63.8
+    },
+    {
+      "country": "Mongolia",
+      "preventive_care_index": 33.6,
+      "tested_cancer": 22.3,
+      "tested_blood_pressure": 50.6,
+      "tested_diabetes": 29.2,
+      "tested_std": 32.3,
+      "believes_checkups_help": 97.2,
+      "talked_to_health_professional": 75.7
+    },
+    {
+      "country": "Montenegro",
+      "preventive_care_index": 19.1,
+      "tested_cancer": 11.8,
+      "tested_blood_pressure": 35.9,
+      "tested_diabetes": 25.8,
+      "tested_std": 2.7,
+      "believes_checkups_help": 86.3,
+      "talked_to_health_professional": 46.2
+    },
+    {
+      "country": "Morocco",
+      "preventive_care_index": 12.0,
+      "tested_cancer": 3.2,
+      "tested_blood_pressure": 23.4,
+      "tested_diabetes": 19.3,
+      "tested_std": 1.9,
+      "believes_checkups_help": 71.8,
+      "talked_to_health_professional": 47.8
+    },
+    {
+      "country": "Mozambique",
+      "preventive_care_index": 23.2,
+      "tested_cancer": 13.2,
+      "tested_blood_pressure": 33.7,
+      "tested_diabetes": 12.4,
+      "tested_std": 33.2,
+      "believes_checkups_help": 94.2,
+      "talked_to_health_professional": 62.4
+    },
+    {
+      "country": "Myanmar",
+      "preventive_care_index": 13.3,
+      "tested_cancer": 7.4,
+      "tested_blood_pressure": 25.3,
+      "tested_diabetes": 14.9,
+      "tested_std": 5.5,
+      "believes_checkups_help": 95.3,
+      "talked_to_health_professional": 43.8
+    },
+    {
+      "country": "Namibia",
+      "preventive_care_index": 31.1,
+      "tested_cancer": 21.1,
+      "tested_blood_pressure": 41.0,
+      "tested_diabetes": 29.3,
+      "tested_std": 32.9,
+      "believes_checkups_help": 86.8,
+      "talked_to_health_professional": 56.9
+    },
+    {
+      "country": "Nepal",
+      "preventive_care_index": 16.3,
+      "tested_cancer": 3.0,
+      "tested_blood_pressure": 42.4,
+      "tested_diabetes": 16.0,
+      "tested_std": 3.6,
+      "believes_checkups_help": 88.5,
+      "talked_to_health_professional": 53.1
+    },
+    {
+      "country": "Netherlands",
+      "preventive_care_index": 23.9,
+      "tested_cancer": 16.6,
+      "tested_blood_pressure": 46.2,
+      "tested_diabetes": 24.9,
+      "tested_std": 7.9,
+      "believes_checkups_help": 84.8,
+      "talked_to_health_professional": 79.6
+    },
+    {
+      "country": "New Zealand",
+      "preventive_care_index": 25.9,
+      "tested_cancer": 18.1,
+      "tested_blood_pressure": 51.5,
+      "tested_diabetes": 25.2,
+      "tested_std": 8.5,
+      "believes_checkups_help": 89.6,
+      "talked_to_health_professional": 89.5
+    },
+    {
+      "country": "Nicaragua",
+      "preventive_care_index": 31.4,
+      "tested_cancer": 15.6,
+      "tested_blood_pressure": 53.7,
+      "tested_diabetes": 31.1,
+      "tested_std": 24.7,
+      "believes_checkups_help": 91.9,
+      "talked_to_health_professional": 69.1
+    },
+    {
+      "country": "Niger",
+      "preventive_care_index": 11.0,
+      "tested_cancer": 8.3,
+      "tested_blood_pressure": 17.5,
+      "tested_diabetes": 8.6,
+      "tested_std": 9.4,
+      "believes_checkups_help": 81.6,
+      "talked_to_health_professional": 43.0
+    },
+    {
+      "country": "Nigeria",
+      "preventive_care_index": 10.5,
+      "tested_cancer": 2.0,
+      "tested_blood_pressure": 18.7,
+      "tested_diabetes": 12.9,
+      "tested_std": 8.4,
+      "believes_checkups_help": 90.6,
+      "talked_to_health_professional": 45.9
+    },
+    {
+      "country": "North Macedonia",
+      "preventive_care_index": 20.8,
+      "tested_cancer": 9.2,
+      "tested_blood_pressure": 40.2,
+      "tested_diabetes": 29.7,
+      "tested_std": 4.0,
+      "believes_checkups_help": 87.8,
+      "talked_to_health_professional": 67.0
+    },
+    {
+      "country": "Northern Cyprus",
+      "preventive_care_index": 21.9,
+      "tested_cancer": 13.7,
+      "tested_blood_pressure": 33.5,
+      "tested_diabetes": 27.2,
+      "tested_std": 11.6,
+      "believes_checkups_help": 87.6,
+      "talked_to_health_professional": 70.6
+    },
+    {
+      "country": "Norway",
+      "preventive_care_index": 24.3,
+      "tested_cancer": 16.1,
+      "tested_blood_pressure": 53.0,
+      "tested_diabetes": 19.4,
+      "tested_std": 8.0,
+      "believes_checkups_help": 81.6,
+      "talked_to_health_professional": 87.6
+    },
+    {
+      "country": "Oman",
+      "preventive_care_index": 23.1,
+      "tested_cancer": 6.6,
+      "tested_blood_pressure": 47.2,
+      "tested_diabetes": 34.0,
+      "tested_std": 4.9,
+      "believes_checkups_help": 86.1,
+      "talked_to_health_professional": 62.2
+    },
+    {
+      "country": "Pakistan",
+      "preventive_care_index": 19.5,
+      "tested_cancer": 1.3,
+      "tested_blood_pressure": 37.7,
+      "tested_diabetes": 20.7,
+      "tested_std": null,
+      "believes_checkups_help": 84.5,
+      "talked_to_health_professional": 53.3
+    },
+    {
+      "country": "Palestinian Territories",
+      "preventive_care_index": 16.3,
+      "tested_cancer": 4.6,
+      "tested_blood_pressure": 36.1,
+      "tested_diabetes": 22.7,
+      "tested_std": 1.8,
+      "believes_checkups_help": 89.9,
+      "talked_to_health_professional": 61.2
+    },
+    {
+      "country": "Panama",
+      "preventive_care_index": 21.8,
+      "tested_cancer": 12.2,
+      "tested_blood_pressure": 41.0,
+      "tested_diabetes": 22.8,
+      "tested_std": 11.4,
+      "believes_checkups_help": 85.7,
+      "talked_to_health_professional": 53.0
+    },
+    {
+      "country": "Paraguay",
+      "preventive_care_index": 39.6,
+      "tested_cancer": 19.8,
+      "tested_blood_pressure": 65.4,
+      "tested_diabetes": 44.0,
+      "tested_std": 28.9,
+      "believes_checkups_help": 92.7,
+      "talked_to_health_professional": 71.2
+    },
+    {
+      "country": "Peru",
+      "preventive_care_index": 25.6,
+      "tested_cancer": 13.9,
+      "tested_blood_pressure": 44.7,
+      "tested_diabetes": 22.8,
+      "tested_std": 21.1,
+      "believes_checkups_help": 93.3,
+      "talked_to_health_professional": 62.3
+    },
+    {
+      "country": "Philippines",
+      "preventive_care_index": 14.6,
+      "tested_cancer": 3.5,
+      "tested_blood_pressure": 36.6,
+      "tested_diabetes": 14.9,
+      "tested_std": 3.4,
+      "believes_checkups_help": 90.1,
+      "talked_to_health_professional": 66.8
+    },
+    {
+      "country": "Poland",
+      "preventive_care_index": 23.6,
+      "tested_cancer": 14.9,
+      "tested_blood_pressure": 43.3,
+      "tested_diabetes": 30.6,
+      "tested_std": 5.1,
+      "believes_checkups_help": 84.2,
+      "talked_to_health_professional": 68.0
+    },
+    {
+      "country": "Portugal",
+      "preventive_care_index": 42.8,
+      "tested_cancer": 37.5,
+      "tested_blood_pressure": 64.9,
+      "tested_diabetes": 47.4,
+      "tested_std": 21.4,
+      "believes_checkups_help": 95.2,
+      "talked_to_health_professional": 90.6
+    },
+    {
+      "country": "Romania",
+      "preventive_care_index": 24.1,
+      "tested_cancer": 11.4,
+      "tested_blood_pressure": 47.3,
+      "tested_diabetes": 31.5,
+      "tested_std": 5.9,
+      "believes_checkups_help": 90.2,
+      "talked_to_health_professional": 75.0
+    },
+    {
+      "country": "Russia",
+      "preventive_care_index": 30.2,
+      "tested_cancer": 24.8,
+      "tested_blood_pressure": 40.5,
+      "tested_diabetes": 30.6,
+      "tested_std": 24.6,
+      "believes_checkups_help": 84.4,
+      "talked_to_health_professional": 77.7
+    },
+    {
+      "country": "Rwanda",
+      "preventive_care_index": 32.0,
+      "tested_cancer": 23.7,
+      "tested_blood_pressure": 43.9,
+      "tested_diabetes": 23.8,
+      "tested_std": 36.6,
+      "believes_checkups_help": 92.9,
+      "talked_to_health_professional": 63.0
+    },
+    {
+      "country": "Saudi Arabia",
+      "preventive_care_index": 14.8,
+      "tested_cancer": 3.4,
+      "tested_blood_pressure": 26.0,
+      "tested_diabetes": 15.1,
+      "tested_std": null,
+      "believes_checkups_help": 84.6,
+      "talked_to_health_professional": 38.7
+    },
+    {
+      "country": "Senegal",
+      "preventive_care_index": 35.2,
+      "tested_cancer": 20.2,
+      "tested_blood_pressure": 64.9,
+      "tested_diabetes": 37.9,
+      "tested_std": 18.0,
+      "believes_checkups_help": 85.9,
+      "talked_to_health_professional": 75.8
+    },
+    {
+      "country": "Serbia",
+      "preventive_care_index": 24.3,
+      "tested_cancer": 12.2,
+      "tested_blood_pressure": 46.0,
+      "tested_diabetes": 34.3,
+      "tested_std": 4.3,
+      "believes_checkups_help": 84.6,
+      "talked_to_health_professional": 66.4
+    },
+    {
+      "country": "Sierra Leone",
+      "preventive_care_index": 24.2,
+      "tested_cancer": 14.3,
+      "tested_blood_pressure": 35.9,
+      "tested_diabetes": 17.5,
+      "tested_std": 28.8,
+      "believes_checkups_help": 78.9,
+      "talked_to_health_professional": 61.6
+    },
+    {
+      "country": "Singapore",
+      "preventive_care_index": 25.7,
+      "tested_cancer": 18.3,
+      "tested_blood_pressure": 43.5,
+      "tested_diabetes": 31.8,
+      "tested_std": 8.6,
+      "believes_checkups_help": 91.0,
+      "talked_to_health_professional": 81.3
+    },
+    {
+      "country": "Slovakia",
+      "preventive_care_index": 34.0,
+      "tested_cancer": 30.5,
+      "tested_blood_pressure": 60.4,
+      "tested_diabetes": 36.8,
+      "tested_std": 8.0,
+      "believes_checkups_help": 92.2,
+      "talked_to_health_professional": 87.3
+    },
+    {
+      "country": "Slovenia",
+      "preventive_care_index": 20.7,
+      "tested_cancer": 12.2,
+      "tested_blood_pressure": 43.8,
+      "tested_diabetes": 22.2,
+      "tested_std": 4.3,
+      "believes_checkups_help": 86.6,
+      "talked_to_health_professional": 72.1
+    },
+    {
+      "country": "South Africa",
+      "preventive_care_index": 34.2,
+      "tested_cancer": 22.2,
+      "tested_blood_pressure": 49.8,
+      "tested_diabetes": 34.1,
+      "tested_std": 30.8,
+      "believes_checkups_help": 87.2,
+      "talked_to_health_professional": 62.5
+    },
+    {
+      "country": "South Korea",
+      "preventive_care_index": 42.9,
+      "tested_cancer": 42.6,
+      "tested_blood_pressure": 55.2,
+      "tested_diabetes": 53.3,
+      "tested_std": 19.2,
+      "believes_checkups_help": 90.8,
+      "talked_to_health_professional": 81.8
+    },
+    {
+      "country": "Spain",
+      "preventive_care_index": 16.3,
+      "tested_cancer": 11.2,
+      "tested_blood_pressure": 35.3,
+      "tested_diabetes": 15.7,
+      "tested_std": 3.1,
+      "believes_checkups_help": 93.7,
+      "talked_to_health_professional": 87.2
+    },
+    {
+      "country": "Sri Lanka",
+      "preventive_care_index": 21.4,
+      "tested_cancer": 10.3,
+      "tested_blood_pressure": 39.7,
+      "tested_diabetes": 29.8,
+      "tested_std": 4.8,
+      "believes_checkups_help": 93.0,
+      "talked_to_health_professional": 67.8
+    },
+    {
+      "country": "Sweden",
+      "preventive_care_index": 21.3,
+      "tested_cancer": 16.9,
+      "tested_blood_pressure": 43.7,
+      "tested_diabetes": 16.6,
+      "tested_std": 8.0,
+      "believes_checkups_help": 84.7,
+      "talked_to_health_professional": 80.9
+    },
+    {
+      "country": "Switzerland",
+      "preventive_care_index": 23.9,
+      "tested_cancer": 19.8,
+      "tested_blood_pressure": 47.5,
+      "tested_diabetes": 21.8,
+      "tested_std": 6.3,
+      "believes_checkups_help": 84.9,
+      "talked_to_health_professional": 74.8
+    },
+    {
+      "country": "Taiwan",
+      "preventive_care_index": 31.3,
+      "tested_cancer": 25.8,
+      "tested_blood_pressure": 47.5,
+      "tested_diabetes": 39.6,
+      "tested_std": 11.9,
+      "believes_checkups_help": 88.6,
+      "talked_to_health_professional": 66.7
+    },
+    {
+      "country": "Tajikistan",
+      "preventive_care_index": 18.1,
+      "tested_cancer": 3.5,
+      "tested_blood_pressure": 47.8,
+      "tested_diabetes": 13.4,
+      "tested_std": 8.0,
+      "believes_checkups_help": 94.6,
+      "talked_to_health_professional": 73.7
+    },
+    {
+      "country": "Tanzania",
+      "preventive_care_index": 20.8,
+      "tested_cancer": 9.5,
+      "tested_blood_pressure": 31.6,
+      "tested_diabetes": 12.8,
+      "tested_std": 29.5,
+      "believes_checkups_help": 98.4,
+      "talked_to_health_professional": 68.2
+    },
+    {
+      "country": "Thailand",
+      "preventive_care_index": 36.4,
+      "tested_cancer": 28.9,
+      "tested_blood_pressure": 57.7,
+      "tested_diabetes": 46.1,
+      "tested_std": 12.7,
+      "believes_checkups_help": 89.2,
+      "talked_to_health_professional": 67.2
+    },
+    {
+      "country": "The Gambia",
+      "preventive_care_index": 11.6,
+      "tested_cancer": 4.6,
+      "tested_blood_pressure": 22.2,
+      "tested_diabetes": 13.9,
+      "tested_std": 5.6,
+      "believes_checkups_help": 82.3,
+      "talked_to_health_professional": 48.3
+    },
+    {
+      "country": "Togo",
+      "preventive_care_index": 9.9,
+      "tested_cancer": 2.5,
+      "tested_blood_pressure": 19.4,
+      "tested_diabetes": 7.6,
+      "tested_std": 10.2,
+      "believes_checkups_help": 92.6,
+      "talked_to_health_professional": 39.4
+    },
+    {
+      "country": "Trinidad & Tobago",
+      "preventive_care_index": 39.6,
+      "tested_cancer": 23.0,
+      "tested_blood_pressure": 57.2,
+      "tested_diabetes": 51.2,
+      "tested_std": 27.4,
+      "believes_checkups_help": 87.3,
+      "talked_to_health_professional": 70.7
+    },
+    {
+      "country": "Tunisia",
+      "preventive_care_index": 16.3,
+      "tested_cancer": 5.0,
+      "tested_blood_pressure": 31.6,
+      "tested_diabetes": 26.5,
+      "tested_std": 2.0,
+      "believes_checkups_help": 88.6,
+      "talked_to_health_professional": 49.0
+    },
+    {
+      "country": "Turkiye",
+      "preventive_care_index": 13.7,
+      "tested_cancer": 7.5,
+      "tested_blood_pressure": 24.2,
+      "tested_diabetes": 20.9,
+      "tested_std": 2.4,
+      "believes_checkups_help": 91.2,
+      "talked_to_health_professional": 65.9
+    },
+    {
+      "country": "Uganda",
+      "preventive_care_index": 32.6,
+      "tested_cancer": 18.6,
+      "tested_blood_pressure": 41.6,
+      "tested_diabetes": 20.4,
+      "tested_std": 49.5,
+      "believes_checkups_help": 91.6,
+      "talked_to_health_professional": 74.5
+    },
+    {
+      "country": "Ukraine",
+      "preventive_care_index": 28.2,
+      "tested_cancer": 19.8,
+      "tested_blood_pressure": 44.4,
+      "tested_diabetes": 30.7,
+      "tested_std": 17.6,
+      "believes_checkups_help": 88.7,
+      "talked_to_health_professional": 83.1
+    },
+    {
+      "country": "United Arab Emirates",
+      "preventive_care_index": 10.3,
+      "tested_cancer": 4.1,
+      "tested_blood_pressure": 22.5,
+      "tested_diabetes": 12.0,
+      "tested_std": 2.5,
+      "believes_checkups_help": 90.8,
+      "talked_to_health_professional": 47.8
+    },
+    {
+      "country": "United Kingdom",
+      "preventive_care_index": 19.4,
+      "tested_cancer": 15.6,
+      "tested_blood_pressure": 39.6,
+      "tested_diabetes": 20.3,
+      "tested_std": 1.8,
+      "believes_checkups_help": 86.3,
+      "talked_to_health_professional": 78.8
+    },
+    {
+      "country": "United States",
+      "preventive_care_index": 40.8,
+      "tested_cancer": 29.0,
+      "tested_blood_pressure": 67.9,
+      "tested_diabetes": 43.1,
+      "tested_std": 23.3,
+      "believes_checkups_help": 94.5,
+      "talked_to_health_professional": 93.8
+    },
+    {
+      "country": "Uruguay",
+      "preventive_care_index": 43.6,
+      "tested_cancer": 23.9,
+      "tested_blood_pressure": 76.0,
+      "tested_diabetes": 45.7,
+      "tested_std": 28.6,
+      "believes_checkups_help": 93.7,
+      "talked_to_health_professional": 85.2
+    },
+    {
+      "country": "Uzbekistan",
+      "preventive_care_index": 23.5,
+      "tested_cancer": 11.6,
+      "tested_blood_pressure": 45.2,
+      "tested_diabetes": 23.0,
+      "tested_std": 14.2,
+      "believes_checkups_help": 90.7,
+      "talked_to_health_professional": 75.8
+    },
+    {
+      "country": "Venezuela",
+      "preventive_care_index": 18.6,
+      "tested_cancer": 6.4,
+      "tested_blood_pressure": 47.1,
+      "tested_diabetes": 11.5,
+      "tested_std": 9.4,
+      "believes_checkups_help": 94.3,
+      "talked_to_health_professional": 70.0
+    },
+    {
+      "country": "Vietnam",
+      "preventive_care_index": 10.9,
+      "tested_cancer": 6.7,
+      "tested_blood_pressure": 23.2,
+      "tested_diabetes": 12.5,
+      "tested_std": 1.0,
+      "believes_checkups_help": 85.8,
+      "talked_to_health_professional": 39.0
+    },
+    {
+      "country": "Zambia",
+      "preventive_care_index": 42.3,
+      "tested_cancer": 38.9,
+      "tested_blood_pressure": 62.2,
+      "tested_diabetes": 25.4,
+      "tested_std": 42.4,
+      "believes_checkups_help": 95.3,
+      "talked_to_health_professional": 78.5
+    },
+    {
+      "country": "Zimbabwe",
+      "preventive_care_index": 17.9,
+      "tested_cancer": 14.9,
+      "tested_blood_pressure": 28.4,
+      "tested_diabetes": 11.8,
+      "tested_std": 16.5,
+      "believes_checkups_help": 86.3,
+      "talked_to_health_professional": 39.1
+    }
+  ]
+}

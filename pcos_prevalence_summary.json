@@ -1,0 +1,2051 @@
+{
+  "source": "IHME Global Burden of Disease 2023, PCOS prevalence, women 15-49",
+  "world": {
+    "cases": 64226421,
+    "pct": 3.26,
+    "pct_lower": 2.32,
+    "pct_upper": 4.46
+  },
+  "countries": [
+    {
+      "iso3": "ITA",
+      "iso_numeric": "380",
+      "country": "Italy",
+      "cases": 1741553.6591360571,
+      "pct": 14.98,
+      "pct_lower": 10.82,
+      "pct_upper": 20.37,
+      "one_in": 7
+    },
+    {
+      "iso3": "JPN",
+      "iso_numeric": "392",
+      "country": "Japan",
+      "cases": 2884657.5291420384,
+      "pct": 12.23,
+      "pct_lower": 8.59,
+      "pct_upper": 16.94,
+      "one_in": 8
+    },
+    {
+      "iso3": "NZL",
+      "iso_numeric": "554",
+      "country": "New Zealand",
+      "cases": 125577.66277677586,
+      "pct": 10.75,
+      "pct_lower": 7.89,
+      "pct_upper": 14.45,
+      "one_in": 9
+    },
+    {
+      "iso3": "AUS",
+      "iso_numeric": "036",
+      "country": "Australia",
+      "cases": 554796.987759275,
+      "pct": 8.86,
+      "pct_lower": 6.38,
+      "pct_upper": 12.32,
+      "one_in": 11
+    },
+    {
+      "iso3": "MYS",
+      "iso_numeric": "458",
+      "country": "Malaysia",
+      "cases": 701094.6995827655,
+      "pct": 7.86,
+      "pct_lower": 5.45,
+      "pct_upper": 11.3,
+      "one_in": 13
+    },
+    {
+      "iso3": "AUT",
+      "iso_numeric": "040",
+      "country": "Austria",
+      "cases": 145813.8728635082,
+      "pct": 7.48,
+      "pct_lower": 5.42,
+      "pct_upper": 10.21,
+      "one_in": 13
+    },
+    {
+      "iso3": "SGP",
+      "iso_numeric": "702",
+      "country": "Singapore",
+      "cases": 102676.16974778369,
+      "pct": 7.38,
+      "pct_lower": 5.13,
+      "pct_upper": 10.62,
+      "one_in": 14
+    },
+    {
+      "iso3": "BRN",
+      "iso_numeric": "096",
+      "country": "Brunei Darussalam",
+      "cases": 8921.225097773366,
+      "pct": 7.36,
+      "pct_lower": 5.22,
+      "pct_upper": 10.29,
+      "one_in": 14
+    },
+    {
+      "iso3": "GBR",
+      "iso_numeric": "826",
+      "country": "United Kingdom",
+      "cases": 1132982.22089732,
+      "pct": 7.26,
+      "pct_lower": 5.14,
+      "pct_upper": 10.04,
+      "one_in": 14
+    },
+    {
+      "iso3": "ISL",
+      "iso_numeric": "352",
+      "country": "Iceland",
+      "cases": 6450.462718858366,
+      "pct": 7.14,
+      "pct_lower": 4.94,
+      "pct_upper": 9.78,
+      "one_in": 14
+    },
+    {
+      "iso3": "MUS",
+      "iso_numeric": "480",
+      "country": "Mauritius",
+      "cases": 22777.90258133052,
+      "pct": 7.14,
+      "pct_lower": 5.06,
+      "pct_upper": 10.01,
+      "one_in": 14
+    },
+    {
+      "iso3": "ECU",
+      "iso_numeric": "218",
+      "country": "Ecuador",
+      "cases": 332376.7691628735,
+      "pct": 6.95,
+      "pct_lower": 5.0,
+      "pct_upper": 9.41,
+      "one_in": 14
+    },
+    {
+      "iso3": "MLT",
+      "iso_numeric": "470",
+      "country": "Malta",
+      "cases": 8921.133389782595,
+      "pct": 6.91,
+      "pct_lower": 4.92,
+      "pct_upper": 9.62,
+      "one_in": 14
+    },
+    {
+      "iso3": "LUX",
+      "iso_numeric": "442",
+      "country": "Luxembourg",
+      "cases": 11034.55796042901,
+      "pct": 6.91,
+      "pct_lower": 4.8,
+      "pct_upper": 9.69,
+      "one_in": 14
+    },
+    {
+      "iso3": "MCO",
+      "iso_numeric": "492",
+      "country": "Monaco",
+      "cases": 493.7033285960652,
+      "pct": 6.88,
+      "pct_lower": 4.86,
+      "pct_upper": 9.59,
+      "one_in": 15
+    },
+    {
+      "iso3": "AND",
+      "iso_numeric": "020",
+      "country": "Andorra",
+      "cases": 1427.4005687473866,
+      "pct": 6.82,
+      "pct_lower": 4.79,
+      "pct_upper": 9.46,
+      "one_in": 15
+    },
+    {
+      "iso3": "GRC",
+      "iso_numeric": "300",
+      "country": "Greece",
+      "cases": 152499.46164916342,
+      "pct": 6.8,
+      "pct_lower": 4.81,
+      "pct_upper": 9.57,
+      "one_in": 15
+    },
+    {
+      "iso3": "BEL",
+      "iso_numeric": "056",
+      "country": "Belgium",
+      "cases": 170197.75837534404,
+      "pct": 6.77,
+      "pct_lower": 4.81,
+      "pct_upper": 9.67,
+      "one_in": 15
+    },
+    {
+      "iso3": "MEX",
+      "iso_numeric": "484",
+      "country": "Mexico",
+      "cases": 2409150.1469507627,
+      "pct": 6.74,
+      "pct_lower": 4.81,
+      "pct_upper": 9.06,
+      "one_in": 15
+    },
+    {
+      "iso3": "SYC",
+      "iso_numeric": "690",
+      "country": "Seychelles",
+      "cases": 1515.0713352142284,
+      "pct": 6.71,
+      "pct_lower": 4.68,
+      "pct_upper": 9.45,
+      "one_in": 15
+    },
+    {
+      "iso3": "SMR",
+      "iso_numeric": "674",
+      "country": "San Marino",
+      "cases": 470.2784554150309,
+      "pct": 6.63,
+      "pct_lower": 4.72,
+      "pct_upper": 9.26,
+      "one_in": 15
+    },
+    {
+      "iso3": "THA",
+      "iso_numeric": "764",
+      "country": "Thailand",
+      "cases": 1017103.9472924812,
+      "pct": 6.57,
+      "pct_lower": 4.56,
+      "pct_upper": 9.43,
+      "one_in": 15
+    },
+    {
+      "iso3": "IRL",
+      "iso_numeric": "372",
+      "country": "Ireland",
+      "cases": 83956.24210743827,
+      "pct": 6.56,
+      "pct_lower": 4.5,
+      "pct_upper": 8.98,
+      "one_in": 15
+    },
+    {
+      "iso3": "USA",
+      "iso_numeric": "840",
+      "country": "United States",
+      "cases": 4808034.136400184,
+      "pct": 6.34,
+      "pct_lower": 4.43,
+      "pct_upper": 8.84,
+      "one_in": 16
+    },
+    {
+      "iso3": "CYP",
+      "iso_numeric": "196",
+      "country": "Cyprus",
+      "cases": 23144.696835001683,
+      "pct": 6.33,
+      "pct_lower": 4.42,
+      "pct_upper": 8.91,
+      "one_in": 16
+    },
+    {
+      "iso3": "FIN",
+      "iso_numeric": "246",
+      "country": "Finland",
+      "cases": 72731.73138603274,
+      "pct": 6.29,
+      "pct_lower": 4.47,
+      "pct_upper": 8.71,
+      "one_in": 16
+    },
+    {
+      "iso3": "ESP",
+      "iso_numeric": "724",
+      "country": "Spain",
+      "cases": 652560.7113430318,
+      "pct": 6.27,
+      "pct_lower": 4.34,
+      "pct_upper": 8.69,
+      "one_in": 16
+    },
+    {
+      "iso3": "MDV",
+      "iso_numeric": "462",
+      "country": "Maldives",
+      "cases": 7820.484256699594,
+      "pct": 6.25,
+      "pct_lower": 4.31,
+      "pct_upper": 8.83,
+      "one_in": 16
+    },
+    {
+      "iso3": "DNK",
+      "iso_numeric": "208",
+      "country": "Denmark",
+      "cases": 79429.01477701252,
+      "pct": 6.23,
+      "pct_lower": 4.55,
+      "pct_upper": 8.47,
+      "one_in": 16
+    },
+    {
+      "iso3": "NOR",
+      "iso_numeric": "578",
+      "country": "Norway",
+      "cases": 74549.02142515192,
+      "pct": 6.12,
+      "pct_lower": 4.28,
+      "pct_upper": 8.49,
+      "one_in": 16
+    },
+    {
+      "iso3": "PRT",
+      "iso_numeric": "620",
+      "country": "Portugal",
+      "cases": 137715.39326654398,
+      "pct": 6.12,
+      "pct_lower": 4.35,
+      "pct_upper": 8.61,
+      "one_in": 16
+    },
+    {
+      "iso3": "KOR",
+      "iso_numeric": "410",
+      "country": "South Korea",
+      "cases": 685704.4935793778,
+      "pct": 6.1,
+      "pct_lower": 4.33,
+      "pct_upper": 8.7,
+      "one_in": 16
+    },
+    {
+      "iso3": "PER",
+      "iso_numeric": "604",
+      "country": "Peru",
+      "cases": 557212.0656101456,
+      "pct": 6.01,
+      "pct_lower": 4.15,
+      "pct_upper": 8.32,
+      "one_in": 17
+    },
+    {
+      "iso3": "LKA",
+      "iso_numeric": "144",
+      "country": "Sri Lanka",
+      "cases": 345123.46258659946,
+      "pct": 6.01,
+      "pct_lower": 4.16,
+      "pct_upper": 8.65,
+      "one_in": 17
+    },
+    {
+      "iso3": "FRA",
+      "iso_numeric": "250",
+      "country": "France",
+      "cases": 901132.8505467454,
+      "pct": 6.0,
+      "pct_lower": 4.18,
+      "pct_upper": 8.4,
+      "one_in": 17
+    },
+    {
+      "iso3": "CHE",
+      "iso_numeric": "756",
+      "country": "Switzerland",
+      "cases": 118167.16929681944,
+      "pct": 5.97,
+      "pct_lower": 4.24,
+      "pct_upper": 8.45,
+      "one_in": 17
+    },
+    {
+      "iso3": "NLD",
+      "iso_numeric": "528",
+      "country": "Netherlands",
+      "cases": 227426.6339666576,
+      "pct": 5.94,
+      "pct_lower": 4.27,
+      "pct_upper": 8.45,
+      "one_in": 17
+    },
+    {
+      "iso3": "ISR",
+      "iso_numeric": "376",
+      "country": "Israel",
+      "cases": 136959.32871500833,
+      "pct": 5.94,
+      "pct_lower": 4.11,
+      "pct_upper": 8.19,
+      "one_in": 17
+    },
+    {
+      "iso3": "GUM",
+      "iso_numeric": "316",
+      "country": "Guam",
+      "cases": 2095.397441924724,
+      "pct": 5.86,
+      "pct_lower": 4.05,
+      "pct_upper": 8.31,
+      "one_in": 17
+    },
+    {
+      "iso3": "DEU",
+      "iso_numeric": "276",
+      "country": "Germany",
+      "cases": 995233.1824460076,
+      "pct": 5.83,
+      "pct_lower": 4.16,
+      "pct_upper": 7.98,
+      "one_in": 17
+    },
+    {
+      "iso3": "COK",
+      "iso_numeric": "184",
+      "country": "Cook Islands",
+      "cases": 195.18327008810576,
+      "pct": 5.77,
+      "pct_lower": 4.11,
+      "pct_upper": 8.21,
+      "one_in": 17
+    },
+    {
+      "iso3": "BOL",
+      "iso_numeric": "068",
+      "country": "Bolivia",
+      "cases": 181623.39045168308,
+      "pct": 5.59,
+      "pct_lower": 3.92,
+      "pct_upper": 7.9,
+      "one_in": 18
+    },
+    {
+      "iso3": "PLW",
+      "iso_numeric": "585",
+      "country": "Palau",
+      "cases": 221.2075508431857,
+      "pct": 5.47,
+      "pct_lower": 3.82,
+      "pct_upper": 7.72,
+      "one_in": 18
+    },
+    {
+      "iso3": "IDN",
+      "iso_numeric": "360",
+      "country": "Indonesia",
+      "cases": 4173132.642449924,
+      "pct": 5.42,
+      "pct_lower": 3.79,
+      "pct_upper": 7.49,
+      "one_in": 18
+    },
+    {
+      "iso3": "NIU",
+      "iso_numeric": "570",
+      "country": "Niue",
+      "cases": 21.15410928085994,
+      "pct": 5.42,
+      "pct_lower": 3.76,
+      "pct_upper": 7.6,
+      "one_in": 18
+    },
+    {
+      "iso3": "PHL",
+      "iso_numeric": "608",
+      "country": "Philippines",
+      "cases": 1597553.2659701377,
+      "pct": 5.34,
+      "pct_lower": 3.75,
+      "pct_upper": 7.47,
+      "one_in": 19
+    },
+    {
+      "iso3": "TON",
+      "iso_numeric": "776",
+      "country": "Tonga",
+      "cases": 1394.1495674986638,
+      "pct": 5.23,
+      "pct_lower": 3.56,
+      "pct_upper": 7.45,
+      "one_in": 19
+    },
+    {
+      "iso3": "ASM",
+      "iso_numeric": "016",
+      "country": "American Samoa",
+      "cases": 599.9737448642176,
+      "pct": 5.19,
+      "pct_lower": 3.65,
+      "pct_upper": 7.18,
+      "one_in": 19
+    },
+    {
+      "iso3": "CRI",
+      "iso_numeric": "188",
+      "country": "Costa Rica",
+      "cases": 71313.5296614014,
+      "pct": 5.14,
+      "pct_lower": 3.46,
+      "pct_upper": 7.46,
+      "one_in": 19
+    },
+    {
+      "iso3": "QAT",
+      "iso_numeric": "634",
+      "country": "Qatar",
+      "cases": 31764.834067475585,
+      "pct": 5.13,
+      "pct_lower": 3.56,
+      "pct_upper": 7.19,
+      "one_in": 19
+    },
+    {
+      "iso3": "MNP",
+      "iso_numeric": "580",
+      "country": "Northern Mariana Islands",
+      "cases": 603.7050591900386,
+      "pct": 5.12,
+      "pct_lower": 3.55,
+      "pct_upper": 7.16,
+      "one_in": 20
+    },
+    {
+      "iso3": "KWT",
+      "iso_numeric": "414",
+      "country": "Kuwait",
+      "cases": 53695.36282084284,
+      "pct": 5.1,
+      "pct_lower": 3.5,
+      "pct_upper": 7.15,
+      "one_in": 20
+    },
+    {
+      "iso3": "SAU",
+      "iso_numeric": "682",
+      "country": "Saudi Arabia",
+      "cases": 362537.4968241639,
+      "pct": 4.98,
+      "pct_lower": 3.44,
+      "pct_upper": 6.91,
+      "one_in": 20
+    },
+    {
+      "iso3": "SWE",
+      "iso_numeric": "752",
+      "country": "Sweden",
+      "cases": 111457.61320746936,
+      "pct": 4.93,
+      "pct_lower": 3.41,
+      "pct_upper": 6.97,
+      "one_in": 20
+    },
+    {
+      "iso3": "TKL",
+      "iso_numeric": "772",
+      "country": "Tokelau",
+      "cases": 19.167459924436145,
+      "pct": 4.9,
+      "pct_lower": 3.44,
+      "pct_upper": 6.96,
+      "one_in": 20
+    },
+    {
+      "iso3": "NRU",
+      "iso_numeric": "520",
+      "country": "Nauru",
+      "cases": 152.96583768835524,
+      "pct": 4.79,
+      "pct_lower": 3.3,
+      "pct_upper": 6.76,
+      "one_in": 21
+    },
+    {
+      "iso3": "VEN",
+      "iso_numeric": "862",
+      "country": "Venezuela",
+      "cases": 318920.53070118395,
+      "pct": 4.75,
+      "pct_lower": 3.26,
+      "pct_upper": 6.7,
+      "one_in": 21
+    },
+    {
+      "iso3": "MMR",
+      "iso_numeric": "104",
+      "country": "Myanmar",
+      "cases": 722614.8537396848,
+      "pct": 4.72,
+      "pct_lower": 3.33,
+      "pct_upper": 6.57,
+      "one_in": 21
+    },
+    {
+      "iso3": "FJI",
+      "iso_numeric": "242",
+      "country": "Fiji",
+      "cases": 10721.037452843697,
+      "pct": 4.62,
+      "pct_lower": 3.08,
+      "pct_upper": 6.5,
+      "one_in": 22
+    },
+    {
+      "iso3": "LAO",
+      "iso_numeric": "418",
+      "country": "Laos",
+      "cases": 92986.44165129254,
+      "pct": 4.61,
+      "pct_lower": 3.22,
+      "pct_upper": 6.51,
+      "one_in": 22
+    },
+    {
+      "iso3": "WSM",
+      "iso_numeric": "882",
+      "country": "Samoa",
+      "cases": 2214.999056956636,
+      "pct": 4.59,
+      "pct_lower": 3.05,
+      "pct_upper": 6.56,
+      "one_in": 22
+    },
+    {
+      "iso3": "ARE",
+      "iso_numeric": "784",
+      "country": "United Arab Emirates",
+      "cases": 79099.66073655595,
+      "pct": 4.59,
+      "pct_lower": 3.19,
+      "pct_upper": 6.57,
+      "one_in": 22
+    },
+    {
+      "iso3": "BHR",
+      "iso_numeric": "048",
+      "country": "Bahrain",
+      "cases": 15217.742847511528,
+      "pct": 4.58,
+      "pct_lower": 3.24,
+      "pct_upper": 6.43,
+      "one_in": 22
+    },
+    {
+      "iso3": "OMN",
+      "iso_numeric": "512",
+      "country": "Oman",
+      "cases": 49815.51710973313,
+      "pct": 4.56,
+      "pct_lower": 3.15,
+      "pct_upper": 6.48,
+      "one_in": 22
+    },
+    {
+      "iso3": "TUV",
+      "iso_numeric": "798",
+      "country": "Tuvalu",
+      "cases": 114.8154543015897,
+      "pct": 4.51,
+      "pct_lower": 3.1,
+      "pct_upper": 6.45,
+      "one_in": 22
+    },
+    {
+      "iso3": "LBN",
+      "iso_numeric": "422",
+      "country": "Lebanon",
+      "cases": 66640.00548144424,
+      "pct": 4.46,
+      "pct_lower": 3.09,
+      "pct_upper": 6.27,
+      "one_in": 22
+    },
+    {
+      "iso3": "SLV",
+      "iso_numeric": "222",
+      "country": "El Salvador",
+      "cases": 79260.96058486555,
+      "pct": 4.45,
+      "pct_lower": 3.02,
+      "pct_upper": 6.39,
+      "one_in": 22
+    },
+    {
+      "iso3": "TWN",
+      "iso_numeric": "158",
+      "country": "Taiwan",
+      "cases": 233717.8236115373,
+      "pct": 4.35,
+      "pct_lower": 3.05,
+      "pct_upper": 6.11,
+      "one_in": 23
+    },
+    {
+      "iso3": "EGY",
+      "iso_numeric": "818",
+      "country": "Egypt",
+      "cases": 1171574.5611907423,
+      "pct": 4.33,
+      "pct_lower": 3.01,
+      "pct_upper": 6.25,
+      "one_in": 23
+    },
+    {
+      "iso3": "PAN",
+      "iso_numeric": "591",
+      "country": "Panama",
+      "cases": 45885.49180409703,
+      "pct": 4.33,
+      "pct_lower": 2.89,
+      "pct_upper": 6.1,
+      "one_in": 23
+    },
+    {
+      "iso3": "VNM",
+      "iso_numeric": "704",
+      "country": "Vietnam",
+      "cases": 1111657.9644145514,
+      "pct": 4.32,
+      "pct_lower": 3.08,
+      "pct_upper": 6.07,
+      "one_in": 23
+    },
+    {
+      "iso3": "PRI",
+      "iso_numeric": "630",
+      "country": "Puerto Rico",
+      "cases": 28946.936195448456,
+      "pct": 4.23,
+      "pct_lower": 2.93,
+      "pct_upper": 5.95,
+      "one_in": 24
+    },
+    {
+      "iso3": "IRN",
+      "iso_numeric": "364",
+      "country": "Iran",
+      "cases": 1006648.6056522717,
+      "pct": 4.23,
+      "pct_lower": 2.96,
+      "pct_upper": 5.95,
+      "one_in": 24
+    },
+    {
+      "iso3": "COL",
+      "iso_numeric": "170",
+      "country": "Colombia",
+      "cases": 579813.9002173294,
+      "pct": 4.19,
+      "pct_lower": 2.89,
+      "pct_upper": 6.06,
+      "one_in": 24
+    },
+    {
+      "iso3": "LBY",
+      "iso_numeric": "434",
+      "country": "Libya",
+      "cases": 84432.29493675762,
+      "pct": 4.18,
+      "pct_lower": 2.93,
+      "pct_upper": 5.86,
+      "one_in": 24
+    },
+    {
+      "iso3": "DZA",
+      "iso_numeric": "012",
+      "country": "Algeria",
+      "cases": 475243.987488496,
+      "pct": 4.18,
+      "pct_lower": 2.92,
+      "pct_upper": 5.89,
+      "one_in": 24
+    },
+    {
+      "iso3": "NIC",
+      "iso_numeric": "558",
+      "country": "Nicaragua",
+      "cases": 77046.00470950459,
+      "pct": 4.14,
+      "pct_lower": 2.79,
+      "pct_upper": 5.97,
+      "one_in": 24
+    },
+    {
+      "iso3": "FSM",
+      "iso_numeric": "583",
+      "country": "Micronesia, Federated States of",
+      "cases": 1082.8122766352035,
+      "pct": 4.1,
+      "pct_lower": 2.84,
+      "pct_upper": 5.8,
+      "one_in": 24
+    },
+    {
+      "iso3": "VIR",
+      "iso_numeric": "850",
+      "country": "Virgin Islands, U.S.",
+      "cases": 658.1460578646046,
+      "pct": 4.05,
+      "pct_lower": 2.82,
+      "pct_upper": 5.71,
+      "one_in": 25
+    },
+    {
+      "iso3": "CHL",
+      "iso_numeric": "152",
+      "country": "Chile",
+      "cases": 191753.12115373727,
+      "pct": 4.03,
+      "pct_lower": 2.88,
+      "pct_upper": 5.72,
+      "one_in": 25
+    },
+    {
+      "iso3": "TUN",
+      "iso_numeric": "788",
+      "country": "Tunisia",
+      "cases": 121519.57805511678,
+      "pct": 3.93,
+      "pct_lower": 2.7,
+      "pct_upper": 5.6,
+      "one_in": 25
+    },
+    {
+      "iso3": "TLS",
+      "iso_numeric": "626",
+      "country": "Timor-Leste",
+      "cases": 13955.85210121396,
+      "pct": 3.93,
+      "pct_lower": 2.83,
+      "pct_upper": 5.52,
+      "one_in": 25
+    },
+    {
+      "iso3": "JOR",
+      "iso_numeric": "400",
+      "country": "Jordan",
+      "cases": 130711.11343126831,
+      "pct": 3.92,
+      "pct_lower": 2.75,
+      "pct_upper": 5.56,
+      "one_in": 25
+    },
+    {
+      "iso3": "HND",
+      "iso_numeric": "340",
+      "country": "Honduras",
+      "cases": 115486.06446788128,
+      "pct": 3.91,
+      "pct_lower": 2.67,
+      "pct_upper": 5.63,
+      "one_in": 26
+    },
+    {
+      "iso3": "MAR",
+      "iso_numeric": "504",
+      "country": "Morocco",
+      "cases": 376212.74926886376,
+      "pct": 3.86,
+      "pct_lower": 2.62,
+      "pct_upper": 5.41,
+      "one_in": 26
+    },
+    {
+      "iso3": "KIR",
+      "iso_numeric": "296",
+      "country": "Kiribati",
+      "cases": 1277.5936584457602,
+      "pct": 3.85,
+      "pct_lower": 2.59,
+      "pct_upper": 5.44,
+      "one_in": 26
+    },
+    {
+      "iso3": "GTM",
+      "iso_numeric": "320",
+      "country": "Guatemala",
+      "cases": 175226.07562266185,
+      "pct": 3.85,
+      "pct_lower": 2.63,
+      "pct_upper": 5.55,
+      "one_in": 26
+    },
+    {
+      "iso3": "IRQ",
+      "iso_numeric": "368",
+      "country": "Iraq",
+      "cases": 430511.1332415364,
+      "pct": 3.83,
+      "pct_lower": 2.53,
+      "pct_upper": 5.36,
+      "one_in": 26
+    },
+    {
+      "iso3": "KHM",
+      "iso_numeric": "116",
+      "country": "Cambodia",
+      "cases": 175696.77951541322,
+      "pct": 3.81,
+      "pct_lower": 2.7,
+      "pct_upper": 5.59,
+      "one_in": 26
+    },
+    {
+      "iso3": "VUT",
+      "iso_numeric": "548",
+      "country": "Vanuatu",
+      "cases": 3120.2953289615743,
+      "pct": 3.79,
+      "pct_lower": 2.6,
+      "pct_upper": 5.33,
+      "one_in": 26
+    },
+    {
+      "iso3": "SYR",
+      "iso_numeric": "760",
+      "country": "Syria",
+      "cases": 186499.43238842377,
+      "pct": 3.78,
+      "pct_lower": 2.59,
+      "pct_upper": 5.28,
+      "one_in": 26
+    },
+    {
+      "iso3": "BMU",
+      "iso_numeric": "060",
+      "country": "Bermuda",
+      "cases": 500.5602007239809,
+      "pct": 3.77,
+      "pct_lower": 2.56,
+      "pct_upper": 5.33,
+      "one_in": 27
+    },
+    {
+      "iso3": "URY",
+      "iso_numeric": "858",
+      "country": "Uruguay",
+      "cases": 30874.43319423558,
+      "pct": 3.72,
+      "pct_lower": 2.63,
+      "pct_upper": 5.33,
+      "one_in": 27
+    },
+    {
+      "iso3": "PSE",
+      "iso_numeric": "275",
+      "country": "Palestine, State of",
+      "cases": 50735.52521690408,
+      "pct": 3.7,
+      "pct_lower": 2.52,
+      "pct_upper": 5.15,
+      "one_in": 27
+    },
+    {
+      "iso3": "TUR",
+      "iso_numeric": "792",
+      "country": "Türkiye",
+      "cases": 812786.5909664369,
+      "pct": 3.69,
+      "pct_lower": 2.58,
+      "pct_upper": 5.14,
+      "one_in": 27
+    },
+    {
+      "iso3": "MHL",
+      "iso_numeric": "584",
+      "country": "Marshall Islands",
+      "cases": 397.570915585908,
+      "pct": 3.69,
+      "pct_lower": 2.58,
+      "pct_upper": 5.17,
+      "one_in": 27
+    },
+    {
+      "iso3": "CAN",
+      "iso_numeric": "124",
+      "country": "Canada",
+      "cases": 300953.2980477796,
+      "pct": 3.54,
+      "pct_lower": 2.46,
+      "pct_upper": 5.05,
+      "one_in": 28
+    },
+    {
+      "iso3": "SLB",
+      "iso_numeric": "090",
+      "country": "Solomon Islands",
+      "cases": 7533.976411570286,
+      "pct": 3.48,
+      "pct_lower": 2.38,
+      "pct_upper": 4.82,
+      "one_in": 29
+    },
+    {
+      "iso3": "KNA",
+      "iso_numeric": "659",
+      "country": "Saint Kitts and Nevis",
+      "cases": 449.9566536685547,
+      "pct": 3.47,
+      "pct_lower": 2.37,
+      "pct_upper": 4.91,
+      "one_in": 29
+    },
+    {
+      "iso3": "SDN",
+      "iso_numeric": "729",
+      "country": "Sudan",
+      "cases": 329535.27036042785,
+      "pct": 3.43,
+      "pct_lower": 2.35,
+      "pct_upper": 4.83,
+      "one_in": 29
+    },
+    {
+      "iso3": "BHS",
+      "iso_numeric": "044",
+      "country": "Bahamas",
+      "cases": 3978.791175618335,
+      "pct": 3.41,
+      "pct_lower": 2.35,
+      "pct_upper": 4.79,
+      "one_in": 29
+    },
+    {
+      "iso3": "ARG",
+      "iso_numeric": "032",
+      "country": "Argentina",
+      "cases": 423704.5536834196,
+      "pct": 3.37,
+      "pct_lower": 2.37,
+      "pct_upper": 4.84,
+      "one_in": 30
+    },
+    {
+      "iso3": "BRB",
+      "iso_numeric": "052",
+      "country": "Barbados",
+      "cases": 2376.1386624689944,
+      "pct": 3.35,
+      "pct_lower": 2.27,
+      "pct_upper": 4.7,
+      "one_in": 30
+    },
+    {
+      "iso3": "CUB",
+      "iso_numeric": "192",
+      "country": "Cuba",
+      "cases": 79115.57167177893,
+      "pct": 3.25,
+      "pct_lower": 2.27,
+      "pct_upper": 4.64,
+      "one_in": 31
+    },
+    {
+      "iso3": "TTO",
+      "iso_numeric": "780",
+      "country": "Trinidad and Tobago",
+      "cases": 11030.058252613462,
+      "pct": 3.23,
+      "pct_lower": 2.18,
+      "pct_upper": 4.56,
+      "one_in": 31
+    },
+    {
+      "iso3": "BLZ",
+      "iso_numeric": "084",
+      "country": "Belize",
+      "cases": 3678.589202105809,
+      "pct": 3.21,
+      "pct_lower": 2.08,
+      "pct_upper": 4.58,
+      "one_in": 31
+    },
+    {
+      "iso3": "GRL",
+      "iso_numeric": "304",
+      "country": "Greenland",
+      "cases": 415.98696667990345,
+      "pct": 3.2,
+      "pct_lower": 2.25,
+      "pct_upper": 4.57,
+      "one_in": 31
+    },
+    {
+      "iso3": "PNG",
+      "iso_numeric": "598",
+      "country": "Papua New Guinea",
+      "cases": 84248.78752093986,
+      "pct": 3.09,
+      "pct_lower": 2.17,
+      "pct_upper": 4.34,
+      "one_in": 32
+    },
+    {
+      "iso3": "DOM",
+      "iso_numeric": "214",
+      "country": "Dominican Republic",
+      "cases": 92407.2505111478,
+      "pct": 3.08,
+      "pct_lower": 2.09,
+      "pct_upper": 4.28,
+      "one_in": 32
+    },
+    {
+      "iso3": "DMA",
+      "iso_numeric": "212",
+      "country": "Dominica",
+      "cases": 508.36078591156,
+      "pct": 3.06,
+      "pct_lower": 2.15,
+      "pct_upper": 4.34,
+      "one_in": 33
+    },
+    {
+      "iso3": "ATG",
+      "iso_numeric": "028",
+      "country": "Antigua and Barbuda",
+      "cases": 719.5313646405259,
+      "pct": 3.0,
+      "pct_lower": 2.09,
+      "pct_upper": 4.27,
+      "one_in": 33
+    },
+    {
+      "iso3": "SUR",
+      "iso_numeric": "740",
+      "country": "Suriname",
+      "cases": 4407.879618365999,
+      "pct": 3.0,
+      "pct_lower": 1.99,
+      "pct_upper": 4.26,
+      "one_in": 33
+    },
+    {
+      "iso3": "CHN",
+      "iso_numeric": "156",
+      "country": "China",
+      "cases": 9013124.044334017,
+      "pct": 2.92,
+      "pct_lower": 2.04,
+      "pct_upper": 4.05,
+      "one_in": 34
+    },
+    {
+      "iso3": "JAM",
+      "iso_numeric": "388",
+      "country": "Jamaica",
+      "cases": 22693.096304762108,
+      "pct": 2.91,
+      "pct_lower": 1.96,
+      "pct_upper": 4.22,
+      "one_in": 34
+    },
+    {
+      "iso3": "VCT",
+      "iso_numeric": "670",
+      "country": "Saint Vincent and the Grenadines",
+      "cases": 806.032063490159,
+      "pct": 2.9,
+      "pct_lower": 2.0,
+      "pct_upper": 4.12,
+      "one_in": 34
+    },
+    {
+      "iso3": "LCA",
+      "iso_numeric": "662",
+      "country": "Saint Lucia",
+      "cases": 1294.4999622240468,
+      "pct": 2.85,
+      "pct_lower": 1.86,
+      "pct_upper": 4.0,
+      "one_in": 35
+    },
+    {
+      "iso3": "GUY",
+      "iso_numeric": "328",
+      "country": "Guyana",
+      "cases": 6043.455379144405,
+      "pct": 2.81,
+      "pct_lower": 1.88,
+      "pct_upper": 3.96,
+      "one_in": 36
+    },
+    {
+      "iso3": "GRD",
+      "iso_numeric": "308",
+      "country": "Grenada",
+      "cases": 727.5249467096241,
+      "pct": 2.75,
+      "pct_lower": 1.85,
+      "pct_upper": 3.89,
+      "one_in": 36
+    },
+    {
+      "iso3": "YEM",
+      "iso_numeric": "887",
+      "country": "Yemen",
+      "cases": 221424.6636330688,
+      "pct": 2.48,
+      "pct_lower": 1.69,
+      "pct_upper": 3.51,
+      "one_in": 40
+    },
+    {
+      "iso3": "AFG",
+      "iso_numeric": "004",
+      "country": "Afghanistan",
+      "cases": 202332.5336982008,
+      "pct": 2.45,
+      "pct_lower": 1.71,
+      "pct_upper": 3.5,
+      "one_in": 41
+    },
+    {
+      "iso3": "IND",
+      "iso_numeric": "356",
+      "country": "India",
+      "cases": 9228826.006904112,
+      "pct": 2.38,
+      "pct_lower": 1.68,
+      "pct_upper": 3.3,
+      "one_in": 42
+    },
+    {
+      "iso3": "ZAF",
+      "iso_numeric": "710",
+      "country": "South Africa",
+      "cases": 407808.3692032349,
+      "pct": 2.25,
+      "pct_lower": 1.55,
+      "pct_upper": 3.15,
+      "one_in": 44
+    },
+    {
+      "iso3": "SWZ",
+      "iso_numeric": "748",
+      "country": "Eswatini",
+      "cases": 6606.010682291895,
+      "pct": 2.12,
+      "pct_lower": 1.44,
+      "pct_upper": 2.96,
+      "one_in": 47
+    },
+    {
+      "iso3": "GNQ",
+      "iso_numeric": "226",
+      "country": "Equatorial Guinea",
+      "cases": 7972.354877277572,
+      "pct": 2.06,
+      "pct_lower": 1.38,
+      "pct_upper": 2.9,
+      "one_in": 49
+    },
+    {
+      "iso3": "BWA",
+      "iso_numeric": "072",
+      "country": "Botswana",
+      "cases": 13668.05600975169,
+      "pct": 2.05,
+      "pct_lower": 1.38,
+      "pct_upper": 2.87,
+      "one_in": 49
+    },
+    {
+      "iso3": "PRK",
+      "iso_numeric": "408",
+      "country": "North Korea",
+      "cases": 126782.42167079028,
+      "pct": 1.88,
+      "pct_lower": 1.3,
+      "pct_upper": 2.65,
+      "one_in": 53
+    },
+    {
+      "iso3": "HTI",
+      "iso_numeric": "332",
+      "country": "Haiti",
+      "cases": 67958.47058050764,
+      "pct": 1.85,
+      "pct_lower": 1.24,
+      "pct_upper": 2.56,
+      "one_in": 54
+    },
+    {
+      "iso3": "BTN",
+      "iso_numeric": "064",
+      "country": "Bhutan",
+      "cases": 3787.733513409195,
+      "pct": 1.83,
+      "pct_lower": 1.24,
+      "pct_upper": 2.6,
+      "one_in": 55
+    },
+    {
+      "iso3": "GAB",
+      "iso_numeric": "266",
+      "country": "Gabon",
+      "cases": 9216.475514028652,
+      "pct": 1.83,
+      "pct_lower": 1.25,
+      "pct_upper": 2.63,
+      "one_in": 55
+    },
+    {
+      "iso3": "LSO",
+      "iso_numeric": "426",
+      "country": "Lesotho",
+      "cases": 9095.172329954365,
+      "pct": 1.77,
+      "pct_lower": 1.18,
+      "pct_upper": 2.52,
+      "one_in": 57
+    },
+    {
+      "iso3": "CMR",
+      "iso_numeric": "120",
+      "country": "Cameroon",
+      "cases": 143882.880830498,
+      "pct": 1.72,
+      "pct_lower": 1.14,
+      "pct_upper": 2.4,
+      "one_in": 58
+    },
+    {
+      "iso3": "NAM",
+      "iso_numeric": "516",
+      "country": "Namibia",
+      "cases": 13295.954681983543,
+      "pct": 1.69,
+      "pct_lower": 1.15,
+      "pct_upper": 2.41,
+      "one_in": 59
+    },
+    {
+      "iso3": "DJI",
+      "iso_numeric": "262",
+      "country": "Djibouti",
+      "cases": 5714.780588107053,
+      "pct": 1.66,
+      "pct_lower": 1.11,
+      "pct_upper": 2.41,
+      "one_in": 60
+    },
+    {
+      "iso3": "ZMB",
+      "iso_numeric": "894",
+      "country": "Zambia",
+      "cases": 88190.14555413731,
+      "pct": 1.64,
+      "pct_lower": 1.08,
+      "pct_upper": 2.31,
+      "one_in": 61
+    },
+    {
+      "iso3": "MRT",
+      "iso_numeric": "478",
+      "country": "Mauritania",
+      "cases": 17848.248904691714,
+      "pct": 1.57,
+      "pct_lower": 1.05,
+      "pct_upper": 2.24,
+      "one_in": 64
+    },
+    {
+      "iso3": "CPV",
+      "iso_numeric": "132",
+      "country": "Cabo Verde",
+      "cases": 2042.3378838534625,
+      "pct": 1.57,
+      "pct_lower": 1.05,
+      "pct_upper": 2.3,
+      "one_in": 64
+    },
+    {
+      "iso3": "BEN",
+      "iso_numeric": "204",
+      "country": "Benin",
+      "cases": 53990.42255350671,
+      "pct": 1.56,
+      "pct_lower": 1.06,
+      "pct_upper": 2.25,
+      "one_in": 64
+    },
+    {
+      "iso3": "ZWE",
+      "iso_numeric": "716",
+      "country": "Zimbabwe",
+      "cases": 61893.22911304225,
+      "pct": 1.52,
+      "pct_lower": 1.03,
+      "pct_upper": 2.13,
+      "one_in": 66
+    },
+    {
+      "iso3": "COG",
+      "iso_numeric": "178",
+      "country": "Congo",
+      "cases": 23590.915427643544,
+      "pct": 1.49,
+      "pct_lower": 1.0,
+      "pct_upper": 2.11,
+      "one_in": 67
+    },
+    {
+      "iso3": "COM",
+      "iso_numeric": "174",
+      "country": "Comoros",
+      "cases": 3192.1444405755983,
+      "pct": 1.46,
+      "pct_lower": 0.98,
+      "pct_upper": 2.12,
+      "one_in": 69
+    },
+    {
+      "iso3": "PAK",
+      "iso_numeric": "586",
+      "country": "Pakistan",
+      "cases": 842610.175425471,
+      "pct": 1.44,
+      "pct_lower": 0.98,
+      "pct_upper": 2.03,
+      "one_in": 69
+    },
+    {
+      "iso3": "CIV",
+      "iso_numeric": "384",
+      "country": "Côte d'Ivoire",
+      "cases": 120765.77241236124,
+      "pct": 1.43,
+      "pct_lower": 0.96,
+      "pct_upper": 2.05,
+      "one_in": 70
+    },
+    {
+      "iso3": "TZA",
+      "iso_numeric": "834",
+      "country": "Tanzania",
+      "cases": 230228.75148356543,
+      "pct": 1.42,
+      "pct_lower": 0.97,
+      "pct_upper": 2.08,
+      "one_in": 70
+    },
+    {
+      "iso3": "STP",
+      "iso_numeric": "678",
+      "country": "Sao Tome and Principe",
+      "cases": 831.8013633497616,
+      "pct": 1.41,
+      "pct_lower": 0.94,
+      "pct_upper": 2.05,
+      "one_in": 71
+    },
+    {
+      "iso3": "KEN",
+      "iso_numeric": "404",
+      "country": "Kenya",
+      "cases": 195903.696268938,
+      "pct": 1.4,
+      "pct_lower": 0.96,
+      "pct_upper": 2.0,
+      "one_in": 71
+    },
+    {
+      "iso3": "AGO",
+      "iso_numeric": "024",
+      "country": "Angola",
+      "cases": 119508.13587315624,
+      "pct": 1.38,
+      "pct_lower": 0.94,
+      "pct_upper": 2.0,
+      "one_in": 73
+    },
+    {
+      "iso3": "MWI",
+      "iso_numeric": "454",
+      "country": "Malawi",
+      "cases": 73960.68391124427,
+      "pct": 1.37,
+      "pct_lower": 0.93,
+      "pct_upper": 1.94,
+      "one_in": 73
+    },
+    {
+      "iso3": "NGA",
+      "iso_numeric": "566",
+      "country": "Nigeria",
+      "cases": 835624.360229236,
+      "pct": 1.36,
+      "pct_lower": 0.94,
+      "pct_upper": 1.9,
+      "one_in": 74
+    },
+    {
+      "iso3": "GHA",
+      "iso_numeric": "288",
+      "country": "Ghana",
+      "cases": 119813.7227394274,
+      "pct": 1.36,
+      "pct_lower": 0.92,
+      "pct_upper": 1.95,
+      "one_in": 74
+    },
+    {
+      "iso3": "GEO",
+      "iso_numeric": "268",
+      "country": "Georgia",
+      "cases": 10439.852663150734,
+      "pct": 1.35,
+      "pct_lower": 0.95,
+      "pct_upper": 1.86,
+      "one_in": 74
+    },
+    {
+      "iso3": "SLE",
+      "iso_numeric": "694",
+      "country": "Sierra Leone",
+      "cases": 29216.49304999203,
+      "pct": 1.33,
+      "pct_lower": 0.9,
+      "pct_upper": 1.89,
+      "one_in": 75
+    },
+    {
+      "iso3": "RWA",
+      "iso_numeric": "646",
+      "country": "Rwanda",
+      "cases": 48417.6890332397,
+      "pct": 1.33,
+      "pct_lower": 0.9,
+      "pct_upper": 1.95,
+      "one_in": 75
+    },
+    {
+      "iso3": "MOZ",
+      "iso_numeric": "508",
+      "country": "Mozambique",
+      "cases": 106746.72756546286,
+      "pct": 1.32,
+      "pct_lower": 0.88,
+      "pct_upper": 1.9,
+      "one_in": 76
+    },
+    {
+      "iso3": "LBR",
+      "iso_numeric": "430",
+      "country": "Liberia",
+      "cases": 20533.57992531529,
+      "pct": 1.32,
+      "pct_lower": 0.89,
+      "pct_upper": 1.92,
+      "one_in": 76
+    },
+    {
+      "iso3": "GMB",
+      "iso_numeric": "270",
+      "country": "Gambia",
+      "cases": 8522.769046881838,
+      "pct": 1.3,
+      "pct_lower": 0.9,
+      "pct_upper": 1.89,
+      "one_in": 77
+    },
+    {
+      "iso3": "BFA",
+      "iso_numeric": "854",
+      "country": "Burkina Faso",
+      "cases": 75867.66299778002,
+      "pct": 1.3,
+      "pct_lower": 0.9,
+      "pct_upper": 1.89,
+      "one_in": 77
+    },
+    {
+      "iso3": "SEN",
+      "iso_numeric": "686",
+      "country": "Senegal",
+      "cases": 59138.20050674659,
+      "pct": 1.29,
+      "pct_lower": 0.88,
+      "pct_upper": 1.84,
+      "one_in": 78
+    },
+    {
+      "iso3": "UGA",
+      "iso_numeric": "800",
+      "country": "Uganda",
+      "cases": 138366.68934569063,
+      "pct": 1.25,
+      "pct_lower": 0.86,
+      "pct_upper": 1.84,
+      "one_in": 80
+    },
+    {
+      "iso3": "TGO",
+      "iso_numeric": "768",
+      "country": "Togo",
+      "cases": 27626.49721896883,
+      "pct": 1.25,
+      "pct_lower": 0.85,
+      "pct_upper": 1.8,
+      "one_in": 80
+    },
+    {
+      "iso3": "NPL",
+      "iso_numeric": "524",
+      "country": "Nepal",
+      "cases": 108157.4486702394,
+      "pct": 1.24,
+      "pct_lower": 0.84,
+      "pct_upper": 1.74,
+      "one_in": 81
+    },
+    {
+      "iso3": "GNB",
+      "iso_numeric": "624",
+      "country": "Guinea-Bissau",
+      "cases": 6683.868152702625,
+      "pct": 1.2,
+      "pct_lower": 0.8,
+      "pct_upper": 1.78,
+      "one_in": 83
+    },
+    {
+      "iso3": "GIN",
+      "iso_numeric": "324",
+      "country": "Guinea",
+      "cases": 41977.5125826036,
+      "pct": 1.2,
+      "pct_lower": 0.8,
+      "pct_upper": 1.74,
+      "one_in": 84
+    },
+    {
+      "iso3": "COD",
+      "iso_numeric": "180",
+      "country": "Congo, The Democratic Republic of the",
+      "cases": 259746.4191396708,
+      "pct": 1.19,
+      "pct_lower": 0.81,
+      "pct_upper": 1.71,
+      "one_in": 84
+    },
+    {
+      "iso3": "BGD",
+      "iso_numeric": "050",
+      "country": "Bangladesh",
+      "cases": 572868.0124049986,
+      "pct": 1.16,
+      "pct_lower": 0.81,
+      "pct_upper": 1.65,
+      "one_in": 86
+    },
+    {
+      "iso3": "BRA",
+      "iso_numeric": "076",
+      "country": "Brazil",
+      "cases": 625248.2559420834,
+      "pct": 1.12,
+      "pct_lower": 0.78,
+      "pct_upper": 1.56,
+      "one_in": 89
+    },
+    {
+      "iso3": "PRY",
+      "iso_numeric": "600",
+      "country": "Paraguay",
+      "cases": 18856.760205087605,
+      "pct": 1.12,
+      "pct_lower": 0.74,
+      "pct_upper": 1.6,
+      "one_in": 89
+    },
+    {
+      "iso3": "ETH",
+      "iso_numeric": "231",
+      "country": "Ethiopia",
+      "cases": 325739.1265921788,
+      "pct": 1.12,
+      "pct_lower": 0.79,
+      "pct_upper": 1.58,
+      "one_in": 89
+    },
+    {
+      "iso3": "SSD",
+      "iso_numeric": "728",
+      "country": "South Sudan",
+      "cases": 27143.76865788613,
+      "pct": 1.09,
+      "pct_lower": 0.75,
+      "pct_upper": 1.61,
+      "one_in": 92
+    },
+    {
+      "iso3": "ERI",
+      "iso_numeric": "232",
+      "country": "Eritrea",
+      "cases": 18114.444648902365,
+      "pct": 1.08,
+      "pct_lower": 0.74,
+      "pct_upper": 1.59,
+      "one_in": 93
+    },
+    {
+      "iso3": "CAF",
+      "iso_numeric": "140",
+      "country": "Central African Republic",
+      "cases": 16094.660463416674,
+      "pct": 1.08,
+      "pct_lower": 0.74,
+      "pct_upper": 1.54,
+      "one_in": 93
+    },
+    {
+      "iso3": "MLI",
+      "iso_numeric": "466",
+      "country": "Mali",
+      "cases": 59384.39821149658,
+      "pct": 1.08,
+      "pct_lower": 0.72,
+      "pct_upper": 1.53,
+      "one_in": 92
+    },
+    {
+      "iso3": "SOM",
+      "iso_numeric": "706",
+      "country": "Somalia",
+      "cases": 49397.31566418571,
+      "pct": 1.04,
+      "pct_lower": 0.7,
+      "pct_upper": 1.51,
+      "one_in": 96
+    },
+    {
+      "iso3": "MDG",
+      "iso_numeric": "450",
+      "country": "Madagascar",
+      "cases": 81601.49883961992,
+      "pct": 1.03,
+      "pct_lower": 0.69,
+      "pct_upper": 1.51,
+      "one_in": 97
+    },
+    {
+      "iso3": "KAZ",
+      "iso_numeric": "398",
+      "country": "Kazakhstan",
+      "cases": 46176.071876198,
+      "pct": 0.97,
+      "pct_lower": 0.65,
+      "pct_upper": 1.37,
+      "one_in": 103
+    },
+    {
+      "iso3": "NER",
+      "iso_numeric": "562",
+      "country": "Niger",
+      "cases": 55435.20909460194,
+      "pct": 0.96,
+      "pct_lower": 0.65,
+      "pct_upper": 1.4,
+      "one_in": 104
+    },
+    {
+      "iso3": "TCD",
+      "iso_numeric": "148",
+      "country": "Chad",
+      "cases": 39839.04302919395,
+      "pct": 0.96,
+      "pct_lower": 0.66,
+      "pct_upper": 1.38,
+      "one_in": 105
+    },
+    {
+      "iso3": "AZE",
+      "iso_numeric": "031",
+      "country": "Azerbaijan",
+      "cases": 25955.10495541557,
+      "pct": 0.95,
+      "pct_lower": 0.62,
+      "pct_upper": 1.4,
+      "one_in": 105
+    },
+    {
+      "iso3": "TKM",
+      "iso_numeric": "795",
+      "country": "Turkmenistan",
+      "cases": 12650.973930304415,
+      "pct": 0.94,
+      "pct_lower": 0.63,
+      "pct_upper": 1.3,
+      "one_in": 106
+    },
+    {
+      "iso3": "UZB",
+      "iso_numeric": "860",
+      "country": "Uzbekistan",
+      "cases": 83105.4081286902,
+      "pct": 0.92,
+      "pct_lower": 0.62,
+      "pct_upper": 1.32,
+      "one_in": 108
+    },
+    {
+      "iso3": "ARM",
+      "iso_numeric": "051",
+      "country": "Armenia",
+      "cases": 6396.718695028241,
+      "pct": 0.91,
+      "pct_lower": 0.62,
+      "pct_upper": 1.34,
+      "one_in": 110
+    },
+    {
+      "iso3": "MNG",
+      "iso_numeric": "496",
+      "country": "Mongolia",
+      "cases": 7420.229890388487,
+      "pct": 0.86,
+      "pct_lower": 0.58,
+      "pct_upper": 1.23,
+      "one_in": 116
+    },
+    {
+      "iso3": "BDI",
+      "iso_numeric": "108",
+      "country": "Burundi",
+      "cases": 29088.94605741406,
+      "pct": 0.85,
+      "pct_lower": 0.58,
+      "pct_upper": 1.21,
+      "one_in": 117
+    },
+    {
+      "iso3": "KGZ",
+      "iso_numeric": "417",
+      "country": "Kyrgyzstan",
+      "cases": 13553.171829832516,
+      "pct": 0.75,
+      "pct_lower": 0.5,
+      "pct_upper": 1.08,
+      "one_in": 133
+    },
+    {
+      "iso3": "TJK",
+      "iso_numeric": "762",
+      "country": "Tajikistan",
+      "cases": 16952.6309031453,
+      "pct": 0.65,
+      "pct_lower": 0.43,
+      "pct_upper": 0.93,
+      "one_in": 155
+    },
+    {
+      "iso3": "EST",
+      "iso_numeric": "233",
+      "country": "Estonia",
+      "cases": 1661.037718688826,
+      "pct": 0.58,
+      "pct_lower": 0.39,
+      "pct_upper": 0.84,
+      "one_in": 174
+    },
+    {
+      "iso3": "LVA",
+      "iso_numeric": "428",
+      "country": "Latvia",
+      "cases": 2062.8498521701363,
+      "pct": 0.53,
+      "pct_lower": 0.36,
+      "pct_upper": 0.77,
+      "one_in": 190
+    },
+    {
+      "iso3": "RUS",
+      "iso_numeric": "643",
+      "country": "Russian Federation",
+      "cases": 190322.4696912084,
+      "pct": 0.53,
+      "pct_lower": 0.37,
+      "pct_upper": 0.74,
+      "one_in": 190
+    },
+    {
+      "iso3": "POL",
+      "iso_numeric": "616",
+      "country": "Poland",
+      "cases": 46830.11999285764,
+      "pct": 0.52,
+      "pct_lower": 0.36,
+      "pct_upper": 0.72,
+      "one_in": 192
+    },
+    {
+      "iso3": "BLR",
+      "iso_numeric": "112",
+      "country": "Belarus",
+      "cases": 11216.975329688144,
+      "pct": 0.51,
+      "pct_lower": 0.35,
+      "pct_upper": 0.74,
+      "one_in": 196
+    },
+    {
+      "iso3": "LTU",
+      "iso_numeric": "440",
+      "country": "Lithuania",
+      "cases": 3001.7797616716985,
+      "pct": 0.51,
+      "pct_lower": 0.34,
+      "pct_upper": 0.73,
+      "one_in": 198
+    },
+    {
+      "iso3": "MDA",
+      "iso_numeric": "498",
+      "country": "Moldova",
+      "cases": 4025.7245635923286,
+      "pct": 0.46,
+      "pct_lower": 0.32,
+      "pct_upper": 0.68,
+      "one_in": 215
+    },
+    {
+      "iso3": "UKR",
+      "iso_numeric": "804",
+      "country": "Ukraine",
+      "cases": 40610.01656443313,
+      "pct": 0.46,
+      "pct_lower": 0.32,
+      "pct_upper": 0.66,
+      "one_in": 216
+    },
+    {
+      "iso3": "SVN",
+      "iso_numeric": "705",
+      "country": "Slovenia",
+      "cases": 1785.469230832396,
+      "pct": 0.42,
+      "pct_lower": 0.28,
+      "pct_upper": 0.63,
+      "one_in": 237
+    },
+    {
+      "iso3": "BGR",
+      "iso_numeric": "100",
+      "country": "Bulgaria",
+      "cases": 5551.492140479332,
+      "pct": 0.41,
+      "pct_lower": 0.27,
+      "pct_upper": 0.6,
+      "one_in": 245
+    },
+    {
+      "iso3": "HUN",
+      "iso_numeric": "348",
+      "country": "Hungary",
+      "cases": 8631.006073804207,
+      "pct": 0.4,
+      "pct_lower": 0.27,
+      "pct_upper": 0.6,
+      "one_in": 248
+    },
+    {
+      "iso3": "HRV",
+      "iso_numeric": "191",
+      "country": "Croatia",
+      "cases": 3179.645089209957,
+      "pct": 0.4,
+      "pct_lower": 0.26,
+      "pct_upper": 0.58,
+      "one_in": 251
+    },
+    {
+      "iso3": "SVK",
+      "iso_numeric": "703",
+      "country": "Slovakia",
+      "cases": 4873.5187895647705,
+      "pct": 0.4,
+      "pct_lower": 0.25,
+      "pct_upper": 0.58,
+      "one_in": 253
+    },
+    {
+      "iso3": "MNE",
+      "iso_numeric": "499",
+      "country": "Montenegro",
+      "cases": 601.1913911760577,
+      "pct": 0.4,
+      "pct_lower": 0.27,
+      "pct_upper": 0.6,
+      "one_in": 248
+    },
+    {
+      "iso3": "ROU",
+      "iso_numeric": "642",
+      "country": "Romania",
+      "cases": 15995.68504873689,
+      "pct": 0.39,
+      "pct_lower": 0.26,
+      "pct_upper": 0.58,
+      "one_in": 256
+    },
+    {
+      "iso3": "CZE",
+      "iso_numeric": "203",
+      "country": "Czechia",
+      "cases": 9222.06348172839,
+      "pct": 0.39,
+      "pct_lower": 0.26,
+      "pct_upper": 0.58,
+      "one_in": 256
+    },
+    {
+      "iso3": "MKD",
+      "iso_numeric": "807",
+      "country": "North Macedonia",
+      "cases": 1499.6207294924716,
+      "pct": 0.37,
+      "pct_lower": 0.24,
+      "pct_upper": 0.54,
+      "one_in": 272
+    },
+    {
+      "iso3": "SRB",
+      "iso_numeric": "688",
+      "country": "Serbia",
+      "cases": 7593.36046682215,
+      "pct": 0.37,
+      "pct_lower": 0.24,
+      "pct_upper": 0.54,
+      "one_in": 270
+    },
+    {
+      "iso3": "ALB",
+      "iso_numeric": "008",
+      "country": "Albania",
+      "cases": 1877.8369063744904,
+      "pct": 0.36,
+      "pct_lower": 0.23,
+      "pct_upper": 0.52,
+      "one_in": 281
+    },
+    {
+      "iso3": "BIH",
+      "iso_numeric": "070",
+      "country": "Bosnia and Herzegovina",
+      "cases": 2513.833997039701,
+      "pct": 0.36,
+      "pct_lower": 0.24,
+      "pct_upper": 0.53,
+      "one_in": 278
+    }
+  ]
+}
