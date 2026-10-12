@@ -872,7 +872,7 @@ with open("analysis_log_map.md", "w", encoding="utf-8") as f:
 # =====================================================================================
 # STEP 6 - Put the analysis results into the web page (index.html)
 # =====================================================================================
-# Inputs : map_data.json (step 5), pcos_prevalence_summary.json (step 4), index.html
+# Inputs : map_data.json (step 5), index.html
 # Output : index.html, updated in place
 #
 # WHY THIS STEP EXISTS
@@ -884,27 +884,22 @@ with open("analysis_log_map.md", "w", encoding="utf-8") as f:
 # Run it after steps 1-5 whenever the data changes; it also confirms nothing was edited by hand.
 #
 # WHAT IT REPLACES
-# 1. The MAP_DATA block -> the map colours, every country card, and the conclusion sentences
-#    ("more than 40 times", "1 in 16 ... 1 in 68"), which the page writes from these numbers.
-# 2. "an estimated N million women" in the intro -> from the same IHME source as the map, so the
-#    intro and the map's "World: 1 in 31" can never contradict each other.
-#    HISTORY: the intro first said "roughly 1 in 10" (a WHO-style figure). It clashed with the map's
-#    1 in 31 (IHME), so we switched to IHME's count of women.
+# The MAP_DATA block -> the map colours, every country card, and the conclusion sentences
+# ("more than 40 times", "1 in 16 ... 1 in 68"), which the page writes from these numbers.
+# HISTORY: the intro used to say how many women live with PCOS. It first said "roughly 1 in 10"
+# (a WHO-style figure), which clashed with the map's "1 in 31" (IHME), so it was switched to IHME's
+# count of women ("an estimated 64 million"), which this step also kept up to date. In the final
+# design the intro was shortened and that sentence was removed, so only the map data is replaced.
 #
 # =====================================================================================
 
 page = open("index.html", encoding="utf-8").read()
 
-# 1. Map, country cards and conclusion: replace everything between "const MAP_DATA = " and the next block
+# Replace everything between "const MAP_DATA = " and the next block with the latest results
 map_data = json.load(open("map_data.json", encoding="utf-8"))
 start = page.index("const MAP_DATA = ") + len("const MAP_DATA = ")
 end = page.index(";\nconst WORLD_TOPO", start)
 page = page[:start] + json.dumps(map_data, ensure_ascii=False) + page[end:]
 
-# 2. Intro sentence (\d+ means "any number", so it works whatever the old number was)
-millions = round(json.load(open("pcos_prevalence_summary.json"))["world"]["cases"] / 1e6)
-page, n = re.subn(r"an estimated \d+ million women aged 15 to 49", f"an estimated {millions} million women aged 15 to 49", page)
-assert n == 1, "intro sentence not found"
-
 open("index.html", "w", encoding="utf-8").write(page)
-print(f"index.html updated: {len(map_data['places'])} places on the map, intro says {millions} million.")
+print(f"index.html updated: {len(map_data['places'])} places on the map.")
